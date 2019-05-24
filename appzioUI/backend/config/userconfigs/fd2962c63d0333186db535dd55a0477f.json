@@ -1,0 +1,90 @@
+{
+  "menus": {
+    "usergroups-user": {
+      "label": "Users",
+      "icon": "user-o",
+      "url": [
+        "/users/usergroups-user"
+      ]
+    },
+    "ae-ext-quiz": {
+      "label": "Quizzes",
+      "icon": "list",
+      "url": [
+        "/quizzes/ae-ext-quiz"
+      ]
+    },
+    "ae-ext-quiz-question": {
+      "label": "Quiz Questions",
+      "icon": "list-ol",
+      "url": [
+        "/quizzes/ae-ext-quiz-question"
+      ]
+    },
+    "ae-ext-item": {
+      "label": "Events",
+      "icon": "list",
+      "url": [
+        "/items/ae-ext-item"
+      ]
+    },
+    "ae-ext-item-categories": {
+      "label": "Event Categories",
+      "icon": "tags",
+      "url": [
+        "/items/ae-ext-items-category"
+      ]
+    }
+  },
+  "filter_vars": {
+    "name": {
+      "label": "Name",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "email": {
+      "label": "Email",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "gender": {
+      "label": "Gender",
+      "type": "select",
+      "match": "exact_match",
+      "values": [
+        "",
+        "man",
+        "woman",
+        "male",
+        "female"
+      ],
+      "location": "variables"
+    },
+    "reg_phase": {
+      "label": "Registration Status",
+      "type": "select",
+      "match": "reg_options",
+      "values": [
+        "",
+        "complete",
+        "not complete"
+      ],
+      "location": "variables"
+    },
+    "flag": {
+      "label": "Reported",
+      "type": "select",
+      "match": "matching_options",
+      "values": [
+        "",
+        "yes",
+        "no"
+      ],
+      "location": "mobilematching"
+    }
+  },
+  "upload_path": "C:\\xampp\\htdocs\\appzio-platform\\app\\documents\\games\\21\\user_original_images\\",
+  "upload_url": "http://ae.com/documents/games/21/user_original_images/"
+}

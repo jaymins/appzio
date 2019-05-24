@@ -1,0 +1,228 @@
+<?php
+
+use yii\helpers\Html;
+use yii\helpers\Url;
+use yii\grid\GridView;
+
+/**
+ * @var yii\web\View $this
+ * @var yii\data\ActiveDataProvider $dataProvider
+ * @var backend\modules\tatjack\search\AeExtBooking $searchModel
+ */
+
+$this->title = Yii::t('backend', 'Bookings');
+$this->params['breadcrumbs'][] = $this->title;
+
+if (isset($actionColumnTemplates)) {
+    $actionColumnTemplate = implode(' ', $actionColumnTemplates);
+    $actionColumnTemplateString = $actionColumnTemplate;
+} else {
+    Yii::$app->view->params['pageButtons'] = Html::a('<span class="glyphicon glyphicon-plus"></span> ' . Yii::t('backend', 'New'), ['create'], ['class' => 'btn btn-success']);
+    $actionColumnTemplateString = "{view} {update} {delete}";
+}
+$actionColumnTemplateString = '<div class="action-buttons">'.$actionColumnTemplateString.'</div>';
+?>
+<div class="giiant-crud ae-ext-booking-index">
+
+    <?php
+    //             echo $this->render('_search', ['model' =>$searchModel]);
+    ?>
+
+
+    <?php \yii\widgets\Pjax::begin(['id'=>'pjax-main', 'enableReplaceState'=> false, 'linkSelector'=>'#pjax-main ul.pagination a, th a', 'clientOptions' => ['pjax:success'=>'function(){alert("yo")}']]) ?>
+
+    <h1>
+        <?= Yii::t('backend', 'Bookings') ?>
+    </h1>
+    <div class="clearfix crud-navigation">
+        <div class="pull-left">
+            <?= Html::a('<span class="glyphicon glyphicon-plus"></span> ' . Yii::t('backend', 'New'), ['create'], ['class' => 'btn btn-success']) ?>
+        </div>
+
+        <div class="pull-right">
+
+            <?=
+            \yii\bootstrap\ButtonDropdown::widget(
+                [
+                    'id' => 'giiant-relations',
+                    'encodeLabel' => false,
+                    'label' => '<span class="glyphicon glyphicon-paperclip"></span> ' . Yii::t('backend', 'Relations'),
+                    'dropdown' => [
+                        'options' => [
+                            'class' => 'dropdown-menu-right'
+                        ],
+                        'encodeLabels' => false,
+                        'items' => [
+                            [
+                                'url' => ['/tatjack/ae-game-play/index'],
+                                'label' => '<i class="glyphicon glyphicon-arrow-left"></i> ' . Yii::t('backend', 'Ae Game Play'),
+                            ],
+                            [
+                                'url' => ['/tatjack/ae-game-play/index'],
+                                'label' => '<i class="glyphicon glyphicon-arrow-left"></i> ' . Yii::t('backend', 'Ae Game Play'),
+                            ],
+                            [
+                                'url' => ['/tatjack/ae-ext-item/index'],
+                                'label' => '<i class="glyphicon glyphicon-arrow-left"></i> ' . Yii::t('backend', 'Ae Ext Item'),
+                            ],
+
+                        ]
+                    ],
+                    'options' => [
+                        'class' => 'btn-default'
+                    ]
+                ]
+            );
+            ?>
+        </div>
+    </div>
+
+    <hr />
+
+    <?php
+        $value = '';
+    ?>
+
+    <div class="table-responsive">
+        <?= GridView::widget([
+            'dataProvider' => $dataProvider,
+            'pager' => [
+                'class' => yii\widgets\LinkPager::className(),
+                'firstPageLabel' => Yii::t('backend', 'First'),
+                'lastPageLabel' => Yii::t('backend', 'Last'),
+            ],
+            'filterModel' => $searchModel,
+            'tableOptions' => ['class' => 'table table-striped table-bordered table-hover'],
+            'headerRowOptions' => ['class'=>'x'],
+            'columns' => [
+                [
+                    'class' => 'yii\grid\ActionColumn',
+                    'template' => $actionColumnTemplateString,
+                    'buttons' => [
+                        'view' => function ($url, $model, $key) {
+                            $options = [
+                                'title' => Yii::t('yii', 'View'),
+                                'aria-label' => Yii::t('yii', 'View'),
+                                'data-pjax' => '0',
+                            ];
+                            return Html::a('<span class="glyphicon glyphicon-file"></span>', $url, $options);
+                        }
+                    ],
+                    'urlCreator' => function($action, $model, $key, $index) {
+                        // using the column name as key, not mapping to 'id' like the standard generator
+                        $params = is_array($key) ? $key : [$model->primaryKey()[0] => (string) $key];
+                        $params[0] = \Yii::$app->controller->id ? \Yii::$app->controller->id . '/' . $action : $action;
+                        return Url::toRoute($params);
+                    },
+                    'contentOptions' => ['nowrap'=>'nowrap']
+                ],
+                // generated by schmunk42\giiant\generators\crud\providers\core\RelationProvider::columnFormat
+                [
+                    'class' => yii\grid\DataColumn::className(),
+                    'attribute' => 'play_id',
+                    'label' => 'User Email',
+                    'filter' => false,
+                    'value' => function ($model) {
+                        $rel_play = $model->getPlay()->one();
+
+                        if ( empty($rel_play->id) ) {
+                            return '';
+                        }
+
+                        $email = $model->getPlayData( $rel_play->id, 'email' );
+                        return $email;
+                    },
+                    'format' => 'raw',
+                ],
+                [
+                    'class' => yii\grid\DataColumn::className(),
+                    'attribute' => 'play_id',
+                    'label' => 'User Name',
+                    'filter' => false,
+                    'value' => function ($model) {
+                        $rel_play = $model->getPlay()->one();
+
+                        if ( empty($rel_play->id) ) {
+                            return '';
+                        }
+
+                        $email = $model->getPlayData( $rel_play->id, 'real_name' );
+                        return $email;
+                    },
+                    'format' => 'raw',
+                ],
+                [
+                    'class' => yii\grid\DataColumn::className(),
+                    'attribute' => 'date',
+                    'filter' => "<div class=\"input-group\">
+                                    <div class=\"input-group-addon\">
+                                        <i class=\"fa fa-calendar\"></i>
+                                    </div>
+                                    <input type=\"text\" class=\"form-control pull-right\" id=\"datefilter\" name=\"query[created_at]\" value=\"{$value}\">
+                                </div>",
+                    'value' => function ($model) {
+                        return date( 'F j, Y, g:i a', $model->date );
+                    },
+                    'format' => 'raw',
+                ],
+                // generated by schmunk42\giiant\generators\crud\providers\core\RelationProvider::columnFormat
+                [
+                    'class' => yii\grid\DataColumn::className(),
+                    'attribute' => 'assignee_play_id',
+                    'label' => 'Artist Email',
+                    'filter' => false,
+                    'value' => function ($model) {
+
+                        $rel_play = $model->getAssigneePlay()->one();
+
+                        if ( empty($rel_play->id) ) {
+                            return '';
+                        }
+
+                        $email = $model->getPlayData( $rel_play->id, 'email' );
+                        return $email;
+                    },
+                    'format' => 'raw',
+                ],
+                [
+                    'class' => yii\grid\DataColumn::className(),
+                    'attribute' => 'assignee_play_id',
+                    'label' => 'Artist Name',
+                    'filter' => false,
+                    'value' => function ($model) {
+
+                        $rel_play = $model->getAssigneePlay()->one();
+
+                        if ( empty($rel_play->id) ) {
+                            return '';
+                        }
+
+                        $email = $model->getPlayData( $rel_play->id, 'real_name' );
+                        return $email;
+                    },
+                    'format' => 'raw',
+                ],
+                // generated by schmunk42\giiant\generators\crud\providers\core\RelationProvider::columnFormat
+                [
+                    'class' => yii\grid\DataColumn::className(),
+                    'attribute' => 'item_id',
+                    'label' => 'Booked Item',
+                    'filter' => false,
+                    'value' => function ($model) {
+                        if ($rel = $model->getItem()->one()) {
+                            return Html::a($rel->name, ['/tatjack/ae-ext-item/view', 'id' => $rel->id,], ['data-pjax' => 0]);
+                        } else {
+                            return '';
+                        }
+                    },
+                    'format' => 'raw',
+                ],
+                'status',
+            ],
+        ]); ?>
+    </div>
+
+</div>
+
+
+<?php \yii\widgets\Pjax::end() ?>

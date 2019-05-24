@@ -1,0 +1,62 @@
+{
+  "cash-button": {
+    "width": "50%",
+    "padding": "5 0 5 0",
+    "font-size": "24",
+    "text-align": "center",
+    "background-color": "#ba5678",
+    "color": "#ffffff",
+    "font-ios": "Lato-Light",
+    "font-android": "Lato-Light",
+    "border-radius": "5"
+  },
+  "top-up-button": {
+    "width": "20%",
+    "padding": "5 3 5 3",
+    "margin": "5 3 0 3",
+    "font-size": "14",
+    "text-align": "center",
+    "background-color": "#ba5678",
+    "color": "#ffffff",
+    "font-ios": "Lato-Light",
+    "font-android": "Lato-Light",
+    "border-radius": "5"
+  },
+  "wallet-heading": {
+    "font-size": "25",
+    "color": "#292021",
+    "font-ios": "Lato-Light",
+    "font-android": "Lato-Light"
+  },
+  "wallet-heading-text": {
+    "font-size": "20",
+    "color": "#292021",
+    "font-ios": "Lato-Light",
+    "font-android": "Lato-Light"
+  },
+  "field-enter-amount": {
+    "width": "90%",
+    "font-size": "17",
+    "margin": "10 0 10 0",
+    "padding": "8 5 8 5",
+    "border-width": "1",
+    "border-color": "#dddddd",
+    "border-radius": "3",
+    "background-color": "#ffffff",
+    "color": "#292021",
+    "text-align": "center",
+    "font-ios": "Lato-Light",
+    "font-android": "Lato-Light"
+  },
+  "checkout-validation-text": {
+    "padding": "10 20 10 20",
+    "margin": "-10 20 0 20",
+    "font-size": "14",
+    "border-radius": "3",
+    "background-color": "#ffffff",
+    "color": "#292021",
+    "text-align": "center",
+    "font-ios": "Lato-Light",
+    "font-android": "Lato-Light"
+  }
+}

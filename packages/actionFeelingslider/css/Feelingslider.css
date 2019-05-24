@@ -1,0 +1,8 @@
+/* this css file will be included on the web views
+	note: for email and other communications, you need to use inline css
+ */
+
+
+
+.ui-slider .ui-slider-range {background-color: #fff !important; background-image: -moz-linear-gradient(center top , #fff , #fff ) !important;} 
+.ui-widget-content {background: transparent !important; background-color: #005ccc !important; border-radius: 9px !important;}

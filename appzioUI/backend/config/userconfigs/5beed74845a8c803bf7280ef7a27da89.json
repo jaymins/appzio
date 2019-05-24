@@ -1,0 +1,63 @@
+{
+  "menus": {
+    "usergroups-user": {
+      "label": "Users",
+      "icon": "user-o",
+      "url": [
+        "/users/usergroups-user"
+      ]
+    },
+    "ae-ext-item": {
+      "label": "Tattoos",
+      "icon": "file-image-o",
+      "url": [
+        "/tatjack/ae-ext-item"
+      ]
+    },
+    "ae-ext-items-report": {
+      "label": "Reports",
+      "icon": "sticky-note-o",
+      "url": [
+        "/tatjack/ae-ext-items-report"
+      ]
+    }
+  },
+  "filter_vars": {
+    "real_name": {
+      "label": "Name",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "email": {
+      "label": "Email",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "reg_phase": {
+      "label": "Registration Status",
+      "type": "select",
+      "match": "reg_options",
+      "values": [
+        "",
+        "complete",
+        "not complete"
+      ],
+      "location": "variables"
+    },
+    "role": {
+      "label": "Role",
+      "type": "select",
+      "match": "exact_match",
+      "values": [
+        "",
+        "user",
+        "artist"
+      ],
+      "location": "variables"
+    }
+  },
+  "upload_path": "C:\\xampp\\htdocs\\ae\\app\\documents\\games\\7\\user_original_images\\",
+  "upload_url": "http://ae.com/documents/games/7/user_original_images/"
+}

@@ -1,0 +1,250 @@
+{
+
+
+  "golf_scorecard_cell_header":{
+    "width": "20%",
+    "padding": "6 4 6 4",
+    "text-align": "center",
+    "border-width": "1",
+    "border-color": "#000000",
+    "font-size": "17",
+    "background-color": "#dbdbdb"
+  },
+
+  "golf_scorecard_cell_totals":{
+    "width": "20%",
+    "padding": "12 4 12 4",
+    "text-align": "center",
+    "border-width": "1",
+    "border-color": "#000000",
+    "font-size": "17",
+    "font-weight": "bold",
+    "background-color": "#dbdbdb"
+  },
+
+  "golf_totalstext":{
+    "width": "20%",
+    "padding": "4 4 4 4",
+    "text-align": "center",
+    "font-size": "13",
+    "font-weight": "bold",
+    "background-color": "#000000",
+    "color": "#ffffff"
+  },
+
+
+
+  "golf_scorecard_cell":{
+    "width": "20%",
+    "padding": "6 4 6 4",
+    "text-align": "center",
+    "background-color": "#E9E9E9",
+    "border-width": "1",
+    "border-color": "#000000",
+    "font-size": "17"
+  },
+
+  "golf_scorecard_cell_good":{
+    "width": "20%",
+    "padding": "6 4 6 4",
+    "text-align": "center",
+    "border-width": "1",
+    "border-color": "#000000",
+    "background-color": "#b4f4a1",
+    "font-size": "17"
+  },
+
+  "golf_scorecard_cell_bad":{
+    "width": "20%",
+    "padding": "6 4 6 4",
+    "text-align": "center",
+    "border-width": "1",
+    "border-color": "#000000",
+    "background-color": "#f4a1a1",
+    "font-size": "17"
+  },
+
+
+  "golf_scorecard_cell_number":{
+    "width": "20%",
+    "padding": "6 4 6 4",
+    "text-align": "center",
+    "border-width": "1",
+    "border-color": "#000000",
+    "font-size": "15",
+    "background-color": "#ece12d"
+  },
+
+  "golf_control_minusplus":{
+    "text-align": "center",
+    "font-size": "30",
+    "height": "70",
+    "width": "70",
+    "border-radius": "8",
+    "background-color": "#34a343",
+    "color": "#ffffff",
+    "padding" : "4 4 4 4"
+  },
+
+
+  "golf_control_complete":{
+    "text-align": "center",
+    "font-size": "26",
+    "height": "70",
+    "width": "250",
+    "border-radius": "8",
+    "background-color": "#34a343",
+    "color": "#ffffff",
+    "padding" : "4 4 4 4"
+  },
+
+
+  "golf_hole_header":{
+    "text-align": "center",
+    "font-size": "16",
+    "background-color": "#000000",
+    "color": "#ffffff",
+    "padding" : "4 4 4 4"
+  },
+
+  "golf_control_swings":{
+    "text-align": "center",
+    "font-size": "30",
+    "width": "110"
+  },
+
+  "golf_swing_counter":{
+    "text-align": "center",
+    "font-size": "16"
+  },
+
+
+  "golf_header_number":{
+    "text-align": "center",
+    "font-size": "32",
+    "background-color": "#8b8b8b",
+    "color": "#ffffff",
+    "padding" : "4 4 4 4"
+  },
+
+  "golf_header_round_number":{
+    "text-align": "center",
+    "font-size": "35",
+    "height": "90",
+    "width": "90",
+    "border-radius": "45",
+    "background-color": "#34a343",
+    "color": "#ffffff",
+    "padding" : "4 4 4 4",
+    "margin": "0 0 10 0"
+  },
+
+
+  "golf_hole_par":{
+    "text-align": "center",
+    "color": "#ffffff",
+    "font-size": "16",
+    "background-color": "#000000",
+    "padding" : "4 4 4 4"
+
+  },
+  "golf_length_pro":{
+    "text-align": "center",
+    "padding" : "7 4 7 4",
+    "font-size": "14",
+    "width": "25%",
+    "color": "#000000",
+    "background-color": "#ffffff"
+  },
+
+  "golf_length_men":{
+    "text-align": "center",
+    "padding" : "7 4 7 4",
+    "font-size": "14",
+    "width": "25%",
+
+    "background-color": "#e5f11d",
+    "color": "#000000"
+  },
+
+  "golf_length_women":{
+    "text-align": "center",
+    "padding" : "7 4 7 4",
+    "font-size": "14",
+    "width": "25%",
+
+    "color": "#ffffff",
+    "background-color": "#f70c1a"
+  },
+
+  "golf_length_junior":{
+    "text-align": "center",
+    "padding" : "7 4 7 4",
+    "font-size": "14",
+    "width": "25%",
+
+    "color": "#ffffff",
+    "background-color": "#38beef"
+  },
+
+  "selector_time": {
+    "font-size": "12",
+    "text-align": "center",
+    "padding" : "14 8 14 8",
+    "color": "#000000",
+    "margin": "2 0 2 0",
+    "background-color": "#ffffff",
+    "width" : "30%",
+    "border-color": "#bebed5",
+    "border-width": "1",
+    "border-radius": "4"
+  },
+
+  "selector_time_selected": {
+    "font-size": "12",
+    "text-align": "center",
+    "padding" : "14 8 14 8",
+    "margin": "2 0 2 0",
+    "background-color": "#CCEDE9",
+    "width" : "30%",
+    "border-color": "#bebed5",
+    "border-width": "1",
+    "border-radius": "4"
+  },
+
+  "club_field": {
+    "font-size": "12",
+    "text-align": "center",
+    "color": "#000000",
+    "margin": "2 40 2 40",
+    "background-color": "#ffffff",
+    "border-color": "#bebed5",
+    "border-width": "1",
+    "border-radius": "4"
+  },
+
+  "selector_checkbox_unselected_events": {
+    "width": "34",
+    "height": "34",
+    "background-image" :"checkbox-icon-unchecked.png",
+    "background-size":"contain","background_size":"contain",
+    "background-size ":"contain","background_size ":"contain",
+    "text-align": "center",
+    "vertical-align": "middle",
+    "margin": "6 0 0 0"
+
+  },
+
+  "selector_checkbox_selected_events": {
+    "width": "34",
+    "height": "34",
+    "background-image" :"checkbox-icon-checked.png",
+    "background-size":"contain","background_size":"contain",
+    "background-size ":"contain","background_size ":"contain",
+    "text-align": "center",
+    "vertical-align": "middle",
+    "margin": "6 0 0 0"
+  }
+
+
+}

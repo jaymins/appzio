@@ -1,0 +1,99 @@
+{
+  "register_field": {
+    "font-size": "12",
+    "font-style": "italic",
+    "background-color": "#d7f4d7",
+    "alignment": "center",
+    "color": "#474747",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "5 53 5 53",
+    "parent_style": "general-app-font-style"
+  },
+  "register_button": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#50ca50",
+    "alignment": "center",
+    "color": "#ffffff",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 5 53",
+    "parent_style": "general-app-font-style"
+  },
+  "register_field_error": {
+    "font-size": "12",
+    "font-style": "italic",
+    "background-color": "#f1c6c6",
+    "alignment": "center",
+    "color": "#474747",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 0 53",
+    "parent_style": "general-app-font-style"
+  },
+  "recipe_text_box_title": {
+    "font-size": "12",
+    "font-style": "italic",
+    "alignment": "center",
+    "color": "#474747",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 0 53",
+    "parent_style": "general-app-font-style"
+  },
+  "register_field_error_text": {
+    "font-size": "12",
+    "font-style": "italic",
+    "alignment": "center",
+    "color": "#df1c1c",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 0 53",
+    "parent_style": "general-app-font-style"
+  },
+  "report-user-button": {
+    "font-size": "12",
+    "text-align": "center",
+    "color": "#a6a6a6",
+    "border-color": "#a6a6a6",
+    "padding": "5 4 5 4",
+    "margin": "10 20 10 20",
+    "parent_style": "general-app-font-style"
+  },
+  "register_fb_image": {
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "53 53 0 53",
+    "parent_style": "general-app-font-style"
+  },
+  "register_menu": {
+    "margin": "10 0 10 0",
+    "parent_style": "general-app-font-style"
+  },
+  "register_menu_2": {
+    "margin": "7 0 10 0",
+    "parent_style": "general-app-font-style"
+  },
+  "olive-profile-description": {
+    "font-size": "15",
+    "color": "#6b6a6b",
+    "margin": "0 15 10 15",
+    "parent_style": "general-app-font-style"
+  },
+  "formkit-radiobutton-selected": {
+    "font-size": "13",
+    "padding" : "7 7 7 7",
+    "font-weight": "bold",
+    "border-radius": "8",
+    "background-color": "#57c2d9",
+    "color" :"#ffffff",
+    "margin": "0 0 9 13",
+    "white-space": "nowrap",
+    "parent_style": "general-app-font-style"
+  }
+}

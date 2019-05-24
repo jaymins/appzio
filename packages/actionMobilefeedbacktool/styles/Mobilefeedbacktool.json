@@ -1,0 +1,102 @@
+{
+
+  "status_progress_report_green": {
+    "border-radius": "10",
+    "margin": "15 0 5 0",
+    "height": "20",
+    "font-size": "12",
+    "text-align": "center",
+    "padding": "5 5 5 5",
+    "width": "100%"
+  },
+
+  "search_filter_tag":{
+    "padding": "7 7 7 7",
+    "border-color": "#ffffff",
+    "border-radius": "4",
+    "font-size": "12"
+  },
+
+  "register_field": {
+    "font-size": "12",
+    "font-style": "italic",
+    "background-color": "#d7f4d7",
+    "alignment": "center",
+    "color": "#474747",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "5 53 5 53"
+  },
+
+  "profile_info_fields":{
+    "font-size": "13",
+    "text-align": "center",
+    "padding": "10 10 10 10"
+  },
+
+  "register_button": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#50ca50",
+    "alignment": "center",
+    "color": "#ffffff",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 5 53"
+  },
+
+  "register_field_error": {
+    "font-size": "12",
+    "font-style": "italic",
+    "background-color": "#f1c6c6",
+    "alignment": "center",
+    "color": "#474747",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 0 53"
+  },
+
+  "recipe_text_box_title": {
+    "font-size": "12",
+    "font-style": "italic",
+    "alignment": "center",
+    "color": "#474747",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 0 53"
+  },
+
+  "register_field_error_text": {
+    "font-size": "12",
+    "font-style": "italic",
+    "alignment": "center",
+    "color": "#df1c1c",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 0 53"
+  },
+  "report-user-button": {
+    "font-size": "12",
+    "text-align": "center",
+    "color": "#a6a6a6",
+    "border-color": "#a6a6a6",
+    "padding": "5 4 5 4",
+    "margin": "10 20 10 20"
+  },
+  "register_fb_image": {
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "53 53 0 53"
+  },
+
+  "register_menu" : {
+    "margin": "10 0 10 0"
+  },
+  "register_menu_2" : {
+    "margin": "7 0 10 0"
+  }
+}

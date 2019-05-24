@@ -1,0 +1,388 @@
+/* this css file will be included on the web views
+	note: for email and other communications, you need to use inline css
+ */
+ .btn {
+ display: inline-block;
+ padding: 4px 14px;
+ margin-bottom: 0px;
+ text-align: center;
+ vertical-align: middle;
+ cursor: pointer;
+ border-radius: 4px;
+ text-decoration: none;
+ }
+
+
+ a {
+ text-decoration: none;
+ }
+
+.achievement {
+	padding: 3px 0px;
+} 
+.diploma {
+	color: rgb(85, 85, 85);
+	text-align:center;
+	padding:1.2em  0.2em;
+}
+.diploms {
+	text-align:left;
+	float:left;
+	height: 90px;
+	line-height: 90px;
+	width: 90px;
+	
+}
+a.actionbadge, a.actionbadge:hover { float:left; display:block; height:90px; width:90px; }
+.diplomtitle { float:left; height:52px; line-height:52px;  text-align:left; font-size:18px;  width:60%; overflow:hidden; }
+.diplomsocial { height:23px; line-height:23px; text-align:left; float:left;  width:60%; position:relative; top:-10px;}
+.greyout {
+	opacity:0.4;
+filter:alpha(opacity=40); 
+	}
+	
+.top_frame {
+	/*background:url(../../../../../../images/top_frame.png) left top no-repeat;*/
+	height:38px;
+	line-height:38px;
+	max-width:536px;
+	position:relative;
+	vertical-align:top;
+	position:relative;
+	
+}
+
+.rt_frame {
+	position:absolute;
+	right:0px;
+	top:0px;
+	background:url(../../../../../../images/tr_frame.png) right top no-repeat;
+	height:38px;
+	width:36px;
+	line-height:38px;
+}
+
+.lt_frame {
+	position:absolute;
+	left:0px;
+	top:0px;
+	background:url(../../../../../../images/lt_frame.png) right top no-repeat;
+	height:38px;
+	width:36px;
+	line-height:38px;
+}
+
+.mt_frame {
+	position:relative;
+	left:36px;
+	top:0px;
+	background:url(../../../../../../images/top_wframe.png) left top no-repeat;
+	height:38px;
+	width:86.56716417910448%;
+	line-height:38px;
+}
+
+
+
+
+.m_frame {
+	position:relative;
+	/*background:url(../../../../../../images/m_frame.gif) left top repeat-y;*/
+	background:transparent;
+	border-left:1px solid #bea91e;
+	border-right:1px solid #bea91e;
+	max-width:515px;
+	padding:0px 10px 0px 9px;
+}
+
+.inm_frame {
+	position:relative;
+	left:0px;
+	top:0px;
+	background:#f3f3e1;
+	max-width:515px;
+	/*background:url(../../../../../../images/m_frame.gif) right top repeat-y; */
+	
+}
+.bot_frame {
+	position:relative;
+	/*background:url(../../../../../../images/bot_frame.gif) left top no-repeat;*/
+	height:38px;
+	text-align:right;
+	line-height:38px;
+	max-width:536px;
+}
+
+
+.rb_frame {
+	position:absolute;
+	right:0px;
+	top:0px;
+	background:url(../../../../../../images/rb_frame.png) right top no-repeat;
+	height:38px;
+	width:36px;
+	line-height:38px;
+}
+
+.lb_frame {
+	position:absolute;
+	left:0px;
+	top:0px;
+	background:url(../../../../../../images/lb_frame.png) right top no-repeat;
+	height:38px;
+	width:36px;
+	line-height:38px;
+}
+
+.mb_frame {
+	position:relative;
+	left:36px;
+	top:0px;
+	background:url(../../../../../../images/bt_frame.png) left top no-repeat;
+	height:38px;
+	width:86.56716417910448%;
+	line-height:38px;
+}
+
+
+.bigtitle {
+	color:#232323;
+	font-size:60px;
+	line-height:100px;
+	padding:0px 10px;
+	max-width:495px;
+	overflow:hidden;
+}
+.diplomatxt {
+	color:#986f01;
+	font-size:36px;
+	text-transform:uppercase;
+	font-family:"Trebuchet MS";
+	padding:0px 30px;
+}
+.diplomanamerow, .diplomapointsrow {
+	border-bottom:1px solid #aeaeae;
+	padding:0px 0px;
+	color:#4a4a4a;
+	line-height:24px;
+	height:25px;
+	font-size:13px;
+	width:90%;
+	margin:0px auto;
+	text-align:left;
+}
+.diplomapointsrow {height:61px;}
+.diplomanamerow span, .diplomapointsrow span {display:inline-block;}
+.namecell {
+	text-align:left;
+	font-size:24px;
+	color:#292929;
+	width: 64%;
+	padding:0px 0px 0px 16%;
+	overflow:hidden;
+	
+}
+.namecell p, .pointecell p {text-align:left; padding:0px 0px 0px 130px;}
+.labelcell {
+	text-align:left;
+	color:#4a4a4a;
+	font-size:13px;
+	width: 20%;
+	min-width:78px;
+}
+.pointecell {
+	color:#bea91e;
+	font-size:60px;
+	line-height:60px;
+	text-align:left;
+	width: 64%;
+	padding:0px 0px 0px 16%;
+	overflow:hidden;
+	}
+	
+a.afb, a.afb:hover  { display:inline-block;  width:29px; height:29px; }
+a.atw, a.atw:hover { display:inline-block; width:29px; height:29px; padding:0px 3px;}
+a.agoo, a.agoo:hover { display:inline-block; width:29px; height:29px; }
+.pointhopder {}
+.toppoints {
+position: relative;
+width: 25%;
+text-align: center;
+display: inline-block;
+text-transform: lowercase;
+min-height: 55px;
+padding-top: 5px;
+vertical-align: top;
+font-weight: bold;
+font-size: 18px;	
+line-height:18px;	
+	}
+
+a.tw, a.tw:hover { display:inline-block; width:23px; height:23px; padding:0px 3px;}
+@media (max-width:1296px) and (min-width:767px) {
+ 
+}
+
+@media (max-width: 767px) {
+	
+	
+   .top_frame, .bot_frame {
+		max-width:654px;
+	 }
+	 
+	 .m_frame, .inm_frame {
+		max-width:633px;
+		}
+     .mb_frame, .mt_frame {
+		  width: 88.9%;
+	 }
+
+
+}
+@media (max-width: 640px) {
+	
+	  .top_frame, .bot_frame {
+		max-width:543px;
+	 }
+	 .m_frame, .inm_frame {
+		max-width:522px;
+		}
+     .mb_frame, .mt_frame {
+		  width: 86.740331%;
+	 }
+	
+	
+   .diplomanamepoints img {
+	   
+		margin-bottom: 20px;
+		}
+	img.signature {width:100px;}
+    .diplomatxt {
+	   font-size: 28px;
+	 }
+	.bigtitle {
+	font-size:45px;
+	line-height:80px;
+}
+.namecell {
+	font-size:13px;
+	padding: 0px 0px 0px 6%;
+	vertical-align:bottom;
+	font-weight:bold;
+	
+}
+.pointecell {
+	height:55px;
+	vertical-align:bottom;
+	font-size:55px;
+	line-height:55px;
+	text-align:left;
+	padding:0px 0px 0px 6%;
+	overflow:hidden;
+}
+.toppoints {
+   width: 25%;
+   min-height: 55px;
+   padding-top: 5px;
+   vertical-align: top;
+   font-size: 13px;	
+   line-height:13px;	
+}
+	.namecell, .pointecell {
+		width:auto;
+		max-width: 50%;
+	}
+	
+
+}
+
+
+@media (max-width: 480px) {
+	
+	  .top_frame, .bot_frame {
+		max-width:402px;
+	 }
+	 .m_frame, .inm_frame {
+		max-width:381px;
+		}
+     .mb_frame, .mt_frame {
+		  width: 82.08955223880597%;
+	 }
+	
+	img.signature {width:28%;}
+	img.diploamabadge {width:29%;}
+
+}
+
+
+
+
+@media (max-width: 320px) {
+	
+img.signature {width:120px;}
+img.diploamabadge {}
+.top_frame, .bot_frame {
+		max-width:261px;
+	 }
+.m_frame, .inm_frame {
+		max-width:240px;
+		}
+.mb_frame, .mt_frame {
+		  width: 72.41379310344828%;
+	 }
+	
+.bigtitle {
+	font-size:45px;
+	line-height:80px;
+}
+.namecell {
+	font-size:13px;
+	padding: 0px 0px 0px 6%;
+	vertical-align:bottom;
+	font-weight:bold;
+	
+}
+.pointecell {
+	height:55px;
+	vertical-align:bottom;
+	font-size:55px;
+	line-height:55px;
+	text-align:left;
+	padding:0px 0px 0px 6%;
+	overflow:hidden;
+}
+.toppoints {
+   width: 25%;
+   min-height: 55px;
+   padding-top: 5px;
+   vertical-align: top;
+   font-size: 13px;	
+   line-height:13px;	
+}
+	
+	.diplomanamepoints img {
+		margin-bottom: 20px;
+		}
+    .diplomatxt {
+	   font-size: 28px;
+	 }
+	.namecell, .pointecell {
+		width:auto;
+		max-width: 50%;
+	}
+	.mb_frame {
+		max-width: 72%;
+	}
+}
+
+.minibuttoncontainer {
+ background: transparent; 
+}
+.opacityNull {
+	filter: alpha(opacity=0);
+	opacity: 0;
+	}
+.opacityOpague {
+	filter: alpha(opacity=100);
+	opacity: 1;
+	}

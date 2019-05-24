@@ -1,0 +1,115 @@
+{
+  "selector_time": {
+    "font-size": "12",
+    "text-align": "center",
+    "padding": "14 8 14 8",
+    "color": "#000000",
+    "margin": "2 0 2 0",
+    "background-color": "#ffffff",
+    "width": "30%",
+    "border-color": "#bebed5",
+    "border-width": "1",
+    "border-radius": "4"
+  },
+
+  "form-field-non-editable-textfield":{
+    "font-size": "13",
+    "padding" : "15 14 13 14",
+    "width": "70%"
+  },
+
+  "selector_time_selected": {
+    "font-size": "12",
+    "text-align": "center",
+    "padding": "14 8 14 8",
+    "margin": "2 0 2 0",
+    "background-color": "#CCEDE9",
+    "width": "30%",
+    "border-color": "#bebed5",
+    "border-width": "1",
+    "border-radius": "4"
+  },
+  "club_field": {
+    "font-size": "12",
+    "text-align": "center",
+    "color": "#000000",
+    "margin": "2 40 2 40",
+    "background-color": "#ffffff",
+    "border-color": "#bebed5",
+    "border-width": "1",
+    "border-radius": "4"
+  },
+  "selector_checkbox_unselected_events": {
+    "width": "34",
+    "height": "34",
+    "background-image": "checkbox-icon-unchecked.png",
+    "background-size": "contain",
+    "background_size": "contain",
+    "background-size ": "contain",
+    "background_size ": "contain",
+    "text-align": "center",
+    "vertical-align": "middle",
+    "margin": "6 0 0 0"
+  },
+  "selector_checkbox_selected_events": {
+    "width": "34",
+    "height": "34",
+    "background-image": "checkbox-icon-checked.png",
+    "background-size": "contain",
+    "background_size": "contain",
+    "background-size ": "contain",
+    "background_size ": "contain",
+    "text-align": "center",
+    "vertical-align": "middle",
+    "margin": "6 0 0 0"
+  },
+  "list_container": {
+    "background-color": "#99ffffff",
+    "text-align": "center",
+    "alignment": "center",
+    "color": "#000000",
+    "border-color": "#bebed5",
+    "border-width": "1",
+    "border-radius": "4",
+    "height": "125",
+    "vertical-align": "middle",
+    "padding": "9 4 9 4",
+    "margin": "5 40 5 40"
+  },
+  "wide_picker": {
+    "font-size": "14",
+    "font-style": "normal",
+    "alignment": "center",
+    "text-align": "center",
+    "color": "#000000",
+    "width": "200",
+    "floating": "1",
+    "float": "center"
+  },
+  "example_searchbox": {
+    "padding": "2 4 2 4",
+    "margin": "7 7 7 7",
+    "background-color": "#ffffff",
+    "border-radius": "8",
+    "width" : "70%",
+    "vertical-align": "middle"
+  },
+  "example_searchbox_text":{
+    "font-size": "12",
+    "vertical-align": "middle",
+    "margin" : "0 0 0 10"
+  },
+  "example_searchbtn": {
+    "color": "#ffffff",
+    "font-size": "16",
+    "margin": "0 10 0 10"
+  },
+  "datepicker": {
+    "font-size": "12",
+    "font-style": "normal",
+    "alignment": "center",
+    "color": "#000000",
+    "font-ios": "Roboto-Regular",
+    "width": "60"
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "single_row": {
+    "margin": "5 0 0 0"
+  },
+  "recipe_chat_nocomments": {
+    "font-size": "13",
+    "font-style": "normal",
+    "alignment": "center",
+    "text-align": "center",
+    "color": "#474747",
+
+
+    "margin": "10 15 10 15"
+  },
+  "recipe_intro": {
+    "font-size": "13",
+    "font-style": "normal",
+    "alignment": "left",
+    "text-align": "left",
+    "color": "#474747",
+
+
+    "margin": "10 15 10 15"
+  },
+  "recipe_text_narrow": {
+    "font-size": "13",
+    "font-style": "normal",
+    "alignment": "center",
+    "text-align": "center",
+    "color": "#474747",
+
+
+    "margin": "10 40 10 40"
+  },
+  "recipe_points_title": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#dadada",
+    "alignment": "center",
+    "text-align": "center",
+    "color": "#474747",
+
+
+    "border-radius": "8",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "0 40 3 40"
+  },
+  "heart_menu": {
+    "margin": "-25 0 0 0"
+  },
+  "recipe_profile_pic": {
+    "margin": "-25 190 0 20"
+  },
+  "recipe_gallery_user_pic": {
+    "margin": "4 250 10 4"
+  },
+  "recipe_gallery_text": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#ffffff",
+    "alignment": "center",
+    "text-align": "center",
+    "color": "#474747",
+
+
+    "border-radius": "8",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "5 15 5 15"
+  },
+  "recipe_points_text": {
+    "font-size": "13",
+    "font-style": "normal",
+    "alignment": "center",
+    "text-align": "center",
+    "color": "#474747",
+
+
+    "margin": "0 0 0 0",
+    "width": "25%"
+  },
+  "recipe_step": {
+    "font-size": "22",
+    "alignment": "center",
+    "text-align": "center",
+    "color": "#ffffff",
+    "background-color": "#50ca50",
+
+
+    "margin": "10 135 10 135",
+    "padding": "5 5 5 5",
+    "border-radius": "30",
+    "border-radius": "30"
+  },
+  "recipe_step_text": {
+    "font-size": "13",
+    "font-style": "normal",
+    "alignment": "left",
+    "text-align": "left",
+    "color": "#474747",
+
+
+    "margin": "10 15 10 15"
+  },
+  "recipe_author_text": {
+    "font-size": "13",
+    "font-style": "normal",
+    "alignment": "center",
+    "text-align": "center",
+    "color": "#474747",
+
+
+    "margin": "10 15 10 15"
+  },
+  "recipe_step_finish_spacer": {
+    "font-size": "14",
+    "font-style": "normal",
+    "alignment": "left",
+    "text-align": "left",
+    "color": "#474747",
+
+
+    "margin": "10 40 10 80",
+    "padding": "50 50 50 50"
+  },
+  "recipe_menu_white": {
+    "orientation": "horizontal",
+    "margin": "20 0 20 0"
+  },
+  "menu_gallery": {
+    "orientation": "horizontal",
+    "margin": "0 0 0 0"
+  },
+  "recipe_ingredients_text": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#d7f4d7",
+    "alignment": "center",
+    "text-align": "center",
+    "color": "#474747",
+
+
+    "padding": "6 6 6 6",
+    "margin": "0 20 2 20"
+  },
+  "recipe_comment_field_upload": {
+    "font-size": "12",
+    "font-style": "normal",
+
+
+    "background-color": "#d7f4d7",
+    "alignment": "center",
+    "text-align": "center",
+    "color": "#474747",
+    "border-radius": "8",
+    "border-radius": "8",
+    "height": "100",
+    "padding": "4 4 4 4",
+    "margin": "0 40 3 40"
+  },
+  "recipe_upload_image": {
+    "font-size": "18",
+    "font-style": "normal",
+    "background-color": "#50ca50",
+    "alignment": "left",
+    "text-align": "left",
+    "color": "#ffffff",
+
+
+    "border-radius": "8",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "0 40 3 40"
+  },
+  "recipe_chat_submit": {
+    "margin": "5 5 5 10",
+    "width": "8%"
+  },
+  "recipe_chat_pic": {
+    "margin": "15 120 0 120"
+  },
+  "recipe_author_pic": {
+    "margin": "15 131 0 131"
+  },
+  "recipe_top_image": {
+    "margin": "0 0 0 0"
+  }
+}

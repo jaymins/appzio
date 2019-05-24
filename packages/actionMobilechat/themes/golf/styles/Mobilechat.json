@@ -1,0 +1,68 @@
+{
+
+  "chat-column-1": {
+    "width": "50",
+    "height": "50",
+    "margin": "20 10 5 10",
+    "crop": "round"
+  },
+
+  "chat-column-2": {
+    "margin": "35 0 0 0"
+  },
+
+  "chat-column-3": {
+    "width": "77%",
+    "vertical-align": "top",
+    "margin": "12 0 0 7",
+    "padding": "0 0 3 0",
+    "background-color": "#9dd7e9",
+    "color": "#ffffff",
+    "border-radius": "8"
+  },
+
+  "chat-column-5": {
+    "width": "77%",
+    "vertical-align": "top",
+    "margin": "12 4 0 0",
+    "padding": "0 0 0 0",
+    "background-color": "#f4f4f4",
+    "border-radius": "8"
+  },
+
+  "chat-row-msg": {
+    "vertical-align": "top",
+    "padding": "0 15 0 15",
+    "text-align": "left",
+    "width": "100%"
+  },
+
+  "chat-comment-field": {
+    "font-size": "12",
+    "font-style": "italic",
+    "text-align": "left",
+    "color": "#000000",
+    "padding": "4 4 4 4",
+    "height": "33"
+  },
+
+  "chat-row-msg-mine": {
+    "vertical-align": "top",
+    "padding": "0 0 0 15",
+    "text-align": "right",
+    "width": "100%"
+  },
+  
+  "chat-top-right-button": {
+    "font-size": "12",
+    "color": "#ffffff",
+    "margin": "0 10 0 0",
+    "padding": "4 4 4 4",
+    "border-color": "#ffffff",
+    "border-radius": "4",
+    "text-align": "center",
+    "height": "25"
+  }
+}
+
+

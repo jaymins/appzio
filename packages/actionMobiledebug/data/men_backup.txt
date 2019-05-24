@@ -1,0 +1,248 @@
+NaiveFarmBoy;18;Single;Dating;Muslim;Non-veg;Smoke;Yes;Aquarius;A nod's as good as a wink to a blind bat, eh?
+ManlyBeardMan;19;Single;Friendship;Muslim;Veg;Vape;No;Aries;A wise wizard once said, 'Words are, in my not-so-humble opinion, our most inexhaustible source of magic.' With that in mind...
+RullManly;20;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Cancer;Acting at the sweet spot between design and intellectual purity to craft experiences both online and in real life.
+ManlyBunz;21;Single;Marriage;Hindu;Veg;None;Yes;Capricorn;Allow me to exercise my skills: kindness and intelligence.
+WillAlwaysLoveU;22;Single;Dating;Hindu;Non-veg;None;Yes;Gemini;Allows me to exercise my skills: acting and surfing sniffles. The most interesting thing that's happened to me at work, is that Michael Caine asked me for a sandwich. Of course, I was astounded that such a person would have time for muggins here. Of course, I made the sandwich.
+LonelyNLooking;23;Single;Friendship;Hindu;Veg;None;No;Leo;And I'll leave you with a quote from the one-and-only Harry Potter: "It seems as though I always knew I'd have to face him in the end."
+Live2Hunt;24;Single;Long-Term Relationship;Christian;Non-veg;None;No;Libra;And now for something completely different.
+Live2Fish;25;Single;Marriage;Sikh;Veg;Smoke;Yes;Pisces;Become the best author I can be
+Live2Game;26;Single;Dating;Other;Non-veg;Vape;Yes;Sagittarius;Become the best computer programmer I can be
+Live2Lift;27;Divorced;Friendship;Muslim;Veg;None;No;Scorpio;Become the best doctor I can be
+MomsLuvMe;28;Seperated;Long-Term Relationship;Muslim;Non-veg;None;No;Taurus;Become the best Person I can be
+ChristOverAll;29;Single;Marriage;Muslim;Veg;None;Yes;Virgo;Become the best private detective I can be
+LaidBackGuy24;30;Single;Dating;Hindu;Non-veg;None;Yes;Aquarius;Become the best psychiatrist I can be
+Want2BInLuv;31;Single;Friendship;Hindu;Veg;None;No;Aries;Become worthy of you
+BigDownstairs45;32;Single;Long-Term Relationship;Hindu;Non-veg;Smoke;No;Cancer;Check me out on Dribbbleor Medium.
+LoveWarmHugs;33;Single;Marriage;Christian;Veg;Vape;Yes;Capricorn;Discover that there are still some good men in the world
+Searching4U;34;Single;Dating;Sikh;Non-veg;None;Yes;Gemini;Don't let my bumbling put you off - I'm a noble woman really
+AlwaysYearning36;18;Single;Friendship;Other;Veg;None;No;Leo;Fall in love with Us
+BikesBrewsBoobs;19;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Libra;Fall in love with you
+NovelistGuy33;20;Single;Marriage;Muslim;Veg;None;Yes;Pisces;Fight a dragon
+UrTummyIsCute;21;Divorced;Dating;Muslim;Non-veg;None;Yes;Sagittarius;get jiggy with you
+PoeticWindSongs;22;Seperated;Friendship;Hindu;Veg;Smoke;No;Scorpio;Go web! Fly! Up, up, and away web! Shazaam! Go! Go! Go web go! Tally ho.
+PapaSmurf69;23;Single;Long-Term Relationship;Hindu;Non-veg;Vape;No;Taurus;Good dawning to thee, friend,
+DoUWorkOut1981;24;Single;Marriage;Hindu;Veg;None;Yes;Virgo;Good day lads!
+OnlyWhiteChics;25;Single;Dating;Christian;Non-veg;None;Yes;Aquarius;Hairdressing is my passion
+DomMeBB;26;Single;Friendship;Sikh;Veg;None;No;Aries;Hello lads!
+AdorableSleeper25;27;Single;Long-Term Relationship;Other;Non-veg;None;No;Cancer;Hello lads! I'm learning about important dates in history. Wanna be one of them?
+DandelionToes;28;Single;Marriage;Muslim;Veg;None;Yes;Capricorn;Hello lads! I'm learning about important dates in of last year.
+FriendlyPubes;29;Single;Dating;Muslim;Non-veg;Smoke;Yes;Gemini;Help all the children in the world
+AFactoryWorker39;30;Single;Friendship;Muslim;Veg;Vape;No;Leo;Help all the disabled people in the world
+WomenRSilly24;31;Single;Long-Term Relationship;Hindu;Non-veg;None;No;Libra;Help all the old people in the world
+WannaBeCasual;32;Divorced;Marriage;Hindu;Veg;None;Yes;Pisces;Help all the patients in the world
+Running2U;33;Seperated;Dating;Hindu;Non-veg;None;Yes;Sagittarius;Help all the students in the world
+PoopingNow56;34;Single;Friendship;Christian;Veg;None;No;Scorpio;Help all the the public in the world
+OsamaIsDead;18;Single;Long-Term Relationship;Sikh;Non-veg;None;No;Taurus;Help all the women in the world
+GirlsRHardToGet40;19;Single;Marriage;Other;Veg;Smoke;Yes;Virgo;Honesty and openness are the most important qualities in a relationship. I will be honest with you, if you will be honest with me. In the spirit of openness and honesty, I think it's only fair to tell you that I'm looking for an open relationship. I will never lie to you about my other lovers. In fact, I'll start now to show you how sincere I am. Last week, I had a very sensuous encounter with a most funny man from Inverness. These are the kind of truths I will tell you if we enter into a relationship.
+LetsSkipNJump;20;Single;Dating;Muslim;Non-veg;Vape;Yes;Aquarius;I am not one of those fake people who pretends not to notice their own qualities. My ankles and fingernails are top notch. These gems of honesty are just part of the modest person I am.
+Love2Frolic;21;Single;Friendship;Muslim;Veg;None;No;Aries;I am the author you're looking for.
+DoUWannaMarry;22;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Cancer;I am the best Critique I can be
+AKissSoundsNice;23;Single;Marriage;Hindu;Veg;None;Yes;Capricorn;I am the cleaner you're looking for.
+EagleEyeCherry;24;Single;Dating;Hindu;Non-veg;None;Yes;Gemini;I am the Director you're looking for.
+UGottaB342436;25;Single;Friendship;Hindu;Veg;None;No;Leo;I hope to myself that you're not another nutter.
+SmartAsEinstein;26;Divorced;Long-Term Relationship;Christian;Non-veg;Smoke;No;Libra;I hope you will not laugh at my toenails, as men have in the past, or treat my fingers like a joke.
+StrongAsZeus;27;Seperated;Marriage;Sikh;Veg;Vape;Yes;Pisces;I only date nice men, who want to meet for football, socialising and mutual respect
+SoftLipsGuy33;28;Single;Dating;Other;Non-veg;None;Yes;Sagittarius;I prefer clear logic to decoration.
+CanUCook4Me;29;Single;Friendship;Muslim;Veg;None;No;Scorpio;I promise I'll turn up to our date looking good and smelling amazing. You'll have no personal hygene worries, and I hope I'll be able to say the same about you.
+ILuv2BSilly;30;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Taurus;I sometimes make random things with friends.
+BoughtUARing;31;Single;Marriage;Muslim;Veg;None;Yes;Virgo;I urge you, get in touch
+FallOutBoy28;32;Single;Dating;Hindu;Non-veg;None;Yes;Aquarius;I wonder if I could intrude upon a little of your time,
+MySeptumIsPierced35;33;Single;Friendship;Hindu;Veg;Smoke;No;Aries;I work as a cleaner, helping women. This allows me to exercise my skills: public speaking and programming computers. My job once caused me to encounter Ronald McDonald, yet still men treat me like junk. It's just not on.
+NoDramaPlz;34;Single;Long-Term Relationship;Hindu;Non-veg;Vape;No;Cancer;I work as a computer programmer, helping old people. This allows me to exercise my skills: intelligence and selling kippers. I would like to tell you about the time I met Ricky Gervais, which is true, but it's important to me that you know I'm honest, so I'll save the wilder parts of my life for another time.
+Love2Drink;18;Single;Marriage;Christian;Veg;None;Yes;Capricorn;I work as a doctor, helping the public. This allows me to exercise my skills: bravery and intelligence. My idol is Walter Raleigh. When I'm struggling with my job, I think of Walter Raleigh and feel inspired to continue. I once saw Walter Raleigh at a petrol station, so I feel we have a deep connection - almost spiritual, like the mist on an autumn day, or similar.
+4204Lfye;19;Single;Dating;Sikh;Non-veg;None;Yes;Gemini;I work as a hairdresser, helping children. This allows me to exercise my skills: saving lives and cutting hair. Dating me will be a little like dating royalty. I once saw Jack Nicholson getting off a bus, and the paparazzi have been after me ever since. We'd better keep your kit on out of doors!
+CrazyTownFan;20;Divorced;Friendship;Other;Veg;None;No;Leo;I work as a private detective, helping disabled people. This allows me to exercise my skills: leadership and painting.
+CougarPrey;21;Seperated;Long-Term Relationship;Muslim;Non-veg;None;No;Libra;I work as a psychiatrist, helping the public. This allows me to exercise my skills: acting and wielding weapons. One day, I was just about to stop work when Dustin the Turkey appeared from nowhere and congratulated me on a job well done. "BabeMagnet69, that was a job well done." That's the kind of thing people say to me on a daily basis. Of course, now, Dustin the Turkey and me are best friends, and the praise runs like water. A lesser woman would get a big head.
+GettingInShape32;22;Single;Marriage;Muslim;Veg;None;Yes;Pisces;I would write poetry about your fluffy toes under the light of the moon.
+PeeOnMePlz65;23;Single;Dating;Muslim;Non-veg;Smoke;Yes;Sagittarius;I'd rather be in love than right any day.
+WannaFriendUrButt;24;Single;Friendship;Hindu;Veg;Vape;No;Scorpio;I'll be honest with you. I've been hurt pretty bad in the past. I refuse to be a cash machine or play thing ever again. So don't message me unless you know how to respect women. I'm a fun kinda woman.
+MileyIsHot38;25;Single;Long-Term Relationship;Hindu;Non-veg;None;No;Taurus;I'm a brave kind of gal, who likes nothing more than star gazing with the right man.
+SunsetInUrArms;26;Single;Marriage;Hindu;Veg;None;Yes;Virgo;I'm a clever kinda woman, who likes nothing more than stamp collecting with the right man, and socialising with my good mate, Dustin the Turkey, who admires my adorable qualities.
+SearchingAgain35;27;Single;Dating;Christian;Non-veg;None;Yes;Aquarius;I'm a clever lady, who likes nothing more than baking with the right man.
+TiredOfTrying18;28;Single;Friendship;Sikh;Veg;None;No;Aries;I'm a cute kind of gal, who likes nothing more than football with the right man.
+MyHandsRBig;29;Single;Long-Term Relationship;Other;Non-veg;None;No;Cancer;I'm a modest sort of lady, who likes nothing more than writing with the right man.
+BarelyBreathing33;30;Single;Marriage;Muslim;Veg;Smoke;Yes;Capricorn;I'm a noble kind of girl, who likes nothing more than reading with the right man.
+BarnDance1972;31;Divorced;Dating;Muslim;Non-veg;Vape;Yes;Gemini;I'm a sweet kinda babe, who likes nothing more than choir with the right man.
+FindMyHeart2Night;32;Seperated;Friendship;Muslim;Veg;None;No;Leo;I'm an incredible lady, who likes nothing more than football with the right man.
+JerksGetTheGirl;33;Single;Long-Term Relationship;Hindu;Non-veg;None;No;Libra;I'm fueled by craft beer, hip-hop and tortilla chips.
+UrSearchIsOver;34;Single;Marriage;Hindu;Veg;None;Yes;Pisces;I'm just a humble girl trying to make my way in the world. I cannot imagine why you'd want to date little old me, but if an ordinary, nice bloke is something you think you could find yourself growing to love, I do have all my own teeth and an adequate pension plan.
+BurningMan69;18;Single;Dating;Hindu;Non-veg;None;Yes;Sagittarius;If you can find it in your heart to take pity on a hopeless romantic, please give me a whirl.
+IndieGuy25;19;Single;Friendship;Christian;Veg;None;No;Scorpio;If you're the right man for me, you'll be friendly and funny. 
+ScenesterDude39;20;Single;Long-Term Relationship;Sikh;Non-veg;Smoke;No;Taurus;If you're the right man for me, you'll be funny and generous. 
+LawSchoolGuy;21;Single;Marriage;Other;Veg;Vape;Yes;Virgo;If you're the right man for me, you'll be generous and energetic.
+SoulWrestler27;22;Single;Dating;Muslim;Non-veg;None;Yes;Aquarius;If you're the right man for me, you'll be generous and funny. 
+NeverGoingDown27;23;Single;Friendship;Muslim;Veg;None;No;Aries;If you're the right man for me, you'll be modest and smart. 
+Love2WearCargos;24;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Cancer;If you're the right man for me, you'll be special and energetic. 
+BabyPowderSmellsNice;25;Divorced;Marriage;Hindu;Veg;None;Yes;Capricorn;If you're the right man for me, you'll be special and sympathetic. 
+DatingIsFun44;26;Seperated;Dating;Hindu;Non-veg;None;Yes;Gemini;If you're the right man for me, you'll be virtuous and sympathetic. 
+KissFromARose;27;Single;Friendship;Hindu;Veg;Smoke;No;Leo;If you're worthy, get in touch!
+UBetterTwerk4Me;28;Single;Long-Term Relationship;Christian;Non-veg;Vape;No;Libra;In case I haven't made myself clear, men have hurt me in the past - bad. My last partner nailed my grandmother to a spike. Now I'm looking for a generous man with hairy eyelashes, as I read in a magazine that they are the least evil.
+DamnedIfDoOrDont;29;Single;Marriage;Sikh;Veg;None;Yes;Pisces;Let me tell you about a funny thing that happened to me last week. I was just helping an elderly across the road when I was hit by a car. I needed three stitches. BOOM!
+NotTooSickly;30;Single;Dating;Other;Non-veg;None;Yes;Sagittarius;Let's chat.
+MarilynManson30;31;Single;Friendship;Muslim;Veg;None;No;Scorpio;Let's make every day ARAZZLE-DAZZLE MUSICAL.
+BrewMyOwnBeer;32;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Taurus;Light me fire, babe
+IHateCarsDontU;33;Single;Marriage;Muslim;Veg;None;Yes;Virgo;Light me fire, babe
+BMyBae2Night;34;Single;Dating;Hindu;Non-veg;Smoke;Yes;Aquarius;Looking for the hottest, fluffy feet around
+BackOnMyFeet40;18;Single;Friendship;Hindu;Veg;Vape;No;Aries;May the force be with Them
+ALivingSacrifice;19;Divorced;Long-Term Relationship;Hindu;Non-veg;None;No;Cancer;May the force be with Us
+PearlJamStillRocks;20;Seperated;Marriage;Christian;Veg;None;Yes;Capricorn;May the force be with you.
+NoPitHairPlz;21;Single;Dating;Sikh;Non-veg;None;Yes;Gemini;Meet Douglas Adams' ghost
+FanOfHipsterChics39;22;Single;Friendship;Other;Veg;None;No;Leo;Meet Eric Idle
+DontWant2HurtU;23;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Libra;Men only get one chance with me. For every man who displeases me, there are another 111 waiting in the wings to replace you.
+SundayIsFootball;24;Single;Marriage;Muslim;Veg;Smoke;Yes;Pisces;My friends say I'm very noble and that I have a great feet and an acceptable moles, but what would I know? I just live in this heap of junk they call my body.
+NeedUrLuv;25;Single;Dating;Muslim;Non-veg;Vape;Yes;Sagittarius;My ideal date would involve choir with a sticky man by my side. While we're there, I worship your short moles, only able to aspire to being worthy of you.
+KombuchaLife;26;Single;Friendship;Hindu;Veg;None;No;Scorpio;My ideal date would involve dinning under the sun. While we're there, I compliment your charming smile.
+JonathanDavisFan26;27;Single;Long-Term Relationship;Hindu;Non-veg;None;No;Taurus;My ideal date would involve hiking. While we're there, I admire your grubby arms whilst feeling I'm the luckiest woman on the planet.
+TheLordIsReal;28;Single;Marriage;Hindu;Veg;None;Yes;Virgo;My ideal date would involve shishah. Checking that you're up to my understandably high standards.
+MeetMyFolks;29;Single;Dating;Christian;Non-veg;None;Yes;Aquarius;My ideal date would involve shopping. 
+RUReady2Cum;30;Divorced;Friendship;Sikh;Veg;None;No;Aries;My ideal date would involve socialising with a pretty man by my side. 
+JeffreyEllinger;31;Seperated;Long-Term Relationship;Other;Non-veg;Smoke;No;Cancer;My ideal date would involve walking in the park. While we're there, I admire your ample fingernails whilst feeling I'm the luckiest woman on the planet.
+AboveGrabs;32;Single;Marriage;Muslim;Veg;Vape;Yes;Capricorn;My life goals include:
+Bitstroso;33;Single;Dating;Muslim;Non-veg;None;Yes;Gemini;Peter Parker once said 'You don't trust anyone, that's your problem.' But you can trust me.
+Bivioloci;34;Single;Friendship;Muslim;Veg;None;No;Leo;Producing at the intersection of aesthetics and function to craft experiences that go beyond design.
+Bossinis;18;Single;Long-Term Relationship;Hindu;Non-veg;None;No;Libra;Prove me wrong about men?
+BoyShow;19;Single;Marriage;Hindu;Veg;None;Yes;Pisces;Punish men for being evil
+Brillianter;20;Single;Dating;Hindu;Non-veg;None;Yes;Sagittarius;Recieve a telegram from an owl
+BroadcastGree;21;Single;Friendship;Christian;Veg;Smoke;No;Scorpio;Shoot a follow-up to the perfume advert I star in
+Gepingo;22;Single;Long-Term Relationship;Sikh;Non-veg;Vape;No;Taurus;Sincere woman hopes to forge open and honest relationship with man who respects cars
+Hillbin;23;Single;Marriage;Other;Veg;None;Yes;Virgo;So long and thanks for all the fish.
+Logynymy;24;Divorced;Dating;Muslim;Non-veg;None;Yes;Aquarius;Star in the next Indiana Jones
+Ngweenlig;25;Seperated;Friendship;Muslim;Veg;None;No;Aries;Star in the next Romcom
+Peteleni;26;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Cancer;Star in the next Star Wars film.
+QuayleMars;27;Single;Marriage;Hindu;Veg;None;Yes;Capricorn;The first thing people usually notice about me is my admirable personality, closly followed by my smashing hair.
+Saiyandfla;28;Single;Dating;Hindu;Non-veg;Smoke;Yes;Gemini;The first thing people usually notice about me is my clever personality, closly. 
+Solomonizid;29;Single;Friendship;Hindu;Veg;Vape;No;Leo;The first thing people usually notice about me is my friendliness
+Sunsetryst;30;Single;Long-Term Relationship;Christian;Non-veg;None;No;Libra;The first thing people usually notice about me is my grateful personality, 
+TalentedCapo;31;Single;Marriage;Sikh;Veg;None;Yes;Pisces;The first thing people usually notice about me is my patience
+ThrillTaryGenius;32;Single;Dating;Other;Non-veg;None;Yes;Sagittarius;The first thing people usually notice about me is my popular personality.
+Tinhottel;33;Single;Friendship;Muslim;Veg;None;No;Scorpio;The first thing people usually notice about me is my splendid personality
+YogaRock;34;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Taurus;The first thing people usually notice about me is my witty personality
+Adercade;18;Divorced;Marriage;Muslim;Veg;Smoke;Yes;Virgo;The most interesting thing that's happened to me at work, is that Michael Caine asked me for a sandwich. Of course, I was astounded that such a person would have time for muggins here. Of course, I made the sandwich.
+Animentus;19;Seperated;Dating;Hindu;Non-veg;Vape;Yes;Aquarius;The right woman's smile will light up my day like somebody igniting a sparkler on a particularly stormy November 5th. Your fluffy toes will make me tremble like sitting on a park bench when a double decker bus rattles by.
+Cottonneox;20;Single;Friendship;Hindu;Veg;None;No;Aries;To only the best men out there,
+DoomJide;21;Single;Long-Term Relationship;Hindu;Non-veg;None;No;Cancer;To the only good man out there,
+Entalkba;22;Single;Marriage;Christian;Veg;None;Yes;Capricorn;Until younder
+Forborehou;23;Single;Dating;Sikh;Non-veg;None;Yes;Gemini;Use a spider web as a parachute
+FriendManiak;24;Single;Friendship;Other;Veg;None;No;Leo;When you play The Game Of Love, you win or you die.
+Katinfree;25;Single;Long-Term Relationship;Muslim;Non-veg;Smoke;No;Libra;Wind and words. We are only human, and the gods have fashioned us for love. That is our great glory, and our great tragedy.
+KiwiZeether;26;Single;Marriage;Muslim;Veg;Vape;Yes;Pisces;Working at the junction of modernism and purpose to craft experiences both online and in real life.
+Kryptoneln;27;Single;Dating;Muslim;Non-veg;None;Yes;Sagittarius;Write a sonnet that captures your beauty
+MegsVibrant;28;Single;Friendship;Hindu;Veg;None;No;Scorpio;You won't be afraid to be open and honest and will have a healthy respect for perfection.
+Mistersity;29;Divorced;Long-Term Relationship;Hindu;Non-veg;None;No;Taurus;You won't be afraid to be themselves and will have a healthy respect for Women.
+Nesenevo;30;Seperated;Marriage;Hindu;Veg;None;Yes;Virgo;You won't be afraid to cry and will have a healthy respect for marriage.
+Newsableon;31;Single;Dating;Christian;Non-veg;None;Yes;Leo;You won't be afraid to have a good time and will have a healthy respect for cars.
+Plusetisco;32;Single;Friendship;Sikh;Veg;Smoke;No;Libra;You won't be afraid to have a good time and will have a healthy respect for marriage.
+Profilwr;33;Single;Long-Term Relationship;Other;Non-veg;Vape;No;Pisces;You won't be afraid to laugh and will have a healthy respect for danger.
+Purplerypt;34;Single;Marriage;Muslim;Veg;None;Yes;Sagittarius;You won't be afraid to meet my parents and will have a healthy respect for life.
+ReportBootPhreek;18;Single;Dating;Muslim;Non-veg;None;Yes;Scorpio;You won't be afraid to spend time with my friends and will have a healthy respect for cars.
+Rickyraid;19;Single;Friendship;Muslim;Veg;None;No;Taurus;Yours hopefully
+SingWorldBlonde;20;Single;Long-Term Relationship;Hindu;Non-veg;None;No;Aquarius;Hi, how was your weekend?
+Aabid;21;Single;Marriage;Hindu;Veg;None;Yes;Aries;Hey, how’s your week going so far?
+Aadil;22;Single;Dating;Hindu;Non-veg;Smoke;Yes;Cancer;Hi. What have you been up to lately?
+Aahil;23;Divorced;Friendship;Christian;Veg;Vape;No;Capricorn;Hey, how are things with you today?
+Aalam;24;Seperated;Long-Term Relationship;Sikh;Non-veg;None;No;Gemini;Hi, any fun plans for the weekend?
+Aalee;25;Single;Marriage;Other;Veg;None;Yes;Leo;Hi, I hope your week is going well.
+Aalim;26;Single;Dating;Muslim;Non-veg;None;Yes;Libra;Hi, how are you?
+Aamil;27;Single;Friendship;Muslim;Veg;None;No;Pisces;Hi there. How’s life treating you today?
+Aamir;28;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Sagittarius;Hey, what are you up to today?
+Aaqib;29;Single;Marriage;Hindu;Veg;Smoke;Yes;Scorpio;Just stopping by to say hello. Hello!
+Aaqil;30;Single;Dating;Hindu;Non-veg;Vape;Yes;Taurus;I just had to say hi to you. Hi!
+Aarif;31;Single;Friendship;Hindu;Veg;None;No;Virgo;What’s up? How are you?
+Aariz;32;Single;Long-Term Relationship;Christian;Non-veg;None;No;Aquarius;How’s your day going so far?
+Aaryan;33;Single;Marriage;Sikh;Veg;None;Yes;Aries;I hope you’re having a nice day
+Aashif;34;Divorced;Dating;Other;Non-veg;None;Yes;Cancer;Hi there, how are you?
+Aashir;18;Seperated;Friendship;Muslim;Veg;None;No;Capricorn;Just wanted to say hi!
+Aasif;19;Single;Long-Term Relationship;Muslim;Non-veg;Smoke;No;Gemini;Hey there!
+Aasim;20;Single;Marriage;Muslim;Veg;Vape;Yes;Leo;Hi, I hope you’re having a great day.
+Aatif;21;Single;Dating;Hindu;Non-veg;None;Yes;Libra;Saw your profile and just had to say hi.
+Aaus;22;Single;Friendship;Hindu;Veg;None;No;Pisces;Hey, what are you up to right now?
+Aayan;23;Single;Long-Term Relationship;Hindu;Non-veg;None;No;Sagittarius;I can’t think of anything better than getting a reply from you.
+Aazim;24;Single;Marriage;Christian;Veg;None;Yes;Scorpio;I want this message to be the reason you smile at your screen.
+Abaan;25;Single;Dating;Sikh;Non-veg;None;Yes;Taurus;Do you ever feel like something really great is about to happen? I kind of feel that way now.
+Taban;26;Single;Friendship;Other;Veg;Smoke;No;Virgo;If you respond to one message today, let it be mine.
+Tabassum;27;Single;Long-Term Relationship;Muslim;Non-veg;Vape;No;Aquarius;I kind of, sort of, well, pretty much think you seem amazing. Want to chat sometime?
+Tabish;28;Divorced;Marriage;Muslim;Veg;None;Yes;Aries;If you wanted to talk, it’d definitely make my day… or maybe year.
+Taha;29;Seperated;Dating;Muslim;Non-veg;None;Yes;Cancer;Hello. Also, you are amazing.
+Tahawwur;30;Single;Friendship;Hindu;Veg;None;No;Capricorn;Could you please reply to this message and make me feel like the luckiest person in the world?
+Taheem;31;Single;Long-Term Relationship;Hindu;Non-veg;None;No;Gemini;You have no idea how happy it would make me to talk to you.
+Tahir;32;Single;Marriage;Hindu;Veg;None;Yes;Leo;You had me at It’s a Match.
+Tahmeed;33;Single;Dating;Christian;Non-veg;Smoke;Yes;Libra;I tend to wear my heart on my profile.
+Tahmid;34;Single;Friendship;Sikh;Veg;Vape;No;Pisces;Hello, bonjour, aloha, salut! (I wasn’t sure how to say hi, so I tried a bunch.)
+Tahoor;18;Single;Long-Term Relationship;Other;Non-veg;None;No;Sagittarius;Rawr means hello in dinosaur. RAWR!
+Tahseen;19;Single;Marriage;Muslim;Veg;None;Yes;Scorpio;That awkward moment when you try to message a guy/girl and all you can think of is hello.
+Taimur;20;Single;Dating;Muslim;Non-veg;None;Yes;Taurus;Just saying hi. Because I’m annoying like that.
+Taj;21;Single;Friendship;Muslim;Veg;None;No;Virgo;I’m willing to risk the cooties if you are.
+Tajammal;22;Divorced;Long-Term Relationship;Hindu;Non-veg;None;No;Aquarius;I like how your nose is in the middle of your face. That’s really cute.
+Tajammul;23;Seperated;Marriage;Hindu;Veg;Smoke;Yes;Aries;I like hugs.
+Tajudinn;24;Single;Dating;Hindu;Non-veg;Vape;Yes;Cancer;I will always tell you when you have something in your teeth. That’s just the kind of person I am.
+Talal;25;Single;Friendship;Christian;Veg;None;No;Capricorn;I’d love to talk to you. For reals. No fakesies.
+Talat;26;Single;Long-Term Relationship;Sikh;Non-veg;None;No;Gemini;I think I quite fancy you.
+Talha;27;Single;Marriage;Other;Veg;None;Yes;Leo;You seem super duper.
+Talhah;28;Single;Dating;Muslim;Non-veg;None;Yes;Libra;Double thumbs up to you.
+Tali;29;Single;Friendship;Muslim;Veg;None;No;Pisces;Anyone can be cool but awesomeness like yours takes practice.
+Talib;30;Single;Long-Term Relationship;Muslim;Non-veg;Smoke;No;Sagittarius;You (yes, you) are the person I want to talk to.
+Tameem;31;Single;Marriage;Hindu;Veg;Vape;Yes;Scorpio;I don’t flirt, but I will totally seduce you with my awkwardness.
+Tameez;32;Single;Dating;Hindu;Non-veg;None;Yes;Taurus;I’m looking for someone I can be a complete nerd with. You interested?
+Tamir;33;Divorced;Friendship;Hindu;Veg;None;No;Virgo;I like it when a guy/girl  talks nerdy to me.
+Bindusar;34;Seperated;Long-Term Relationship;Christian;Non-veg;None;No;Aquarius;I’m the good kind of weird. How about you?
+Chaitanya;18;Single;Marriage;Sikh;Veg;None;Yes;Aries;You deserve a whole sheet of gold stars.
+Chakradhar;19;Single;Dating;Other;Non-veg;None;Yes;Cancer;The truth? I like you a lot. And I don’t even know you yet. I just have an idea.
+Chakrapani;20;Single;Friendship;Muslim;Veg;Smoke;No;Capricorn;I passed by your photo too many times not to stop a say hi.
+Chakshan;21;Single;Long-Term Relationship;Muslim;Non-veg;Vape;No;Gemini;My atoms are attracted to your atoms. It’s chemistry.
+Chaman;22;Single;Marriage;Muslim;Veg;None;Yes;Leo;Hello amazingness.
+Champak;23;Single;Dating;Hindu;Non-veg;None;Yes;Libra;You make me smile. That is all.
+Chandan;24;Single;Friendship;Hindu;Veg;None;No;Pisces;You had me at online now.
+Chandarmouli;25;Single;Long-Term Relationship;Hindu;Non-veg;None;No;Sagittarius;I want to be the reason you look into your phone and smile.
+Chander moon;26;Single;Marriage;Christian;Veg;None;Yes;Scorpio;I was more excited to see your profile photo than pizza. And I really like pizza.
+Chandrabhushan;27;Divorced;Dating;Sikh;Non-veg;Smoke;Yes;Taurus;I bet my dog would like you.
+Dhanvantari;28;Seperated;Friendship;Other;Veg;Vape;No;Virgo;I bet my cat would like you.
+Dharesh;29;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Aquarius;What’s something you could talk about for hours?
+Dharma;30;Single;Marriage;Muslim;Veg;None;Yes;Aries;What type of stuff do you like to do on the weekend?
+Dharma;31;Single;Dating;Muslim;Non-veg;None;Yes;Cancer;What kinds of things do you like to do for fun?
+Dharmadev;32;Single;Friendship;Hindu;Veg;None;No;Capricorn;What’s a typical day in your life like?
+Dharmavira;33;Single;Long-Term Relationship;Hindu;Non-veg;None;No;Gemini;If you could live anywhere, where would it be?
+Dharmendra;34;Single;Marriage;Hindu;Veg;Smoke;Yes;Leo;What do you like to do when you go out?
+Dharmesh;18;Single;Dating;Christian;Non-veg;Vape;Yes;Libra;What type of stuff do you do in your spare time?
+Dharmik;19;Single;Friendship;Sikh;Veg;None;No;Pisces;If you could be a character in any movie, who would you be?
+Dharuna;20;Single;Long-Term Relationship;Other;Non-veg;None;No;Sagittarius;What actor/actress would play you in the movie of your life?
+Dhatri;21;Divorced;Marriage;Muslim;Veg;None;Yes;Scorpio;What’s your favorite book?
+Dhaval;22;Seperated;Dating;Muslim;Non-veg;None;Yes;Taurus;What’s one thing I should know about you that’s not on your profile?
+Dheeraj;23;Single;Friendship;Muslim;Veg;None;No;Virgo;What’s your favorite sports team?
+Dhigana;24;Single;Long-Term Relationship;Hindu;Non-veg;Smoke;No;Aquarius;How did you pick your Zoosk display name?
+Dhiren;25;Single;Marriage;Hindu;Veg;Vape;Yes;Aries;What’s one saying you try to live by?
+Dhirendra;26;Single;Dating;Hindu;Non-veg;None;Yes;Cancer;Do you have any tattoos? If you got one what would you get?
+Dhiwyannshu;27;Single;Friendship;Christian;Veg;None;No;Capricorn;Are you close to your family?
+Dhruv;28;Single;Long-Term Relationship;Sikh;Non-veg;None;No;Gemini;If you could choose a superpower what would it be?
+Dhruva;29;Single;Marriage;Other;Veg;None;Yes;Leo;What’s the nerdiest thing you’re willing to admit?
+Dhumal;30;Single;Dating;Muslim;Non-veg;None;Yes;Libra;What are you most likely to stay up all night talking about?
+Dhureen;31;Single;Friendship;Muslim;Veg;Smoke;No;Pisces;I love hearing other people’s stories. Do you have a good one to tell?
+Dhyanam;32;Divorced;Long-Term Relationship;Muslim;Non-veg;Vape;No;Sagittarius;What’s your idea of the perfect day?
+Digamber;33;Seperated;Marriage;Hindu;Veg;None;Yes;Scorpio;When you were a kid, what did you want to be when you grew up?
+Dikshan;34;Single;Dating;Hindu;Non-veg;None;Yes;Taurus;What’s one city you want to travel to?
+Dikshil;18;Single;Friendship;Hindu;Veg;None;No;Virgo;What’s your favorite band?
+Aaron;19;Single;Long-Term Relationship;Christian;Non-veg;None;No;Aquarius;What’s your favorite movie?
+Abdiel;20;Single;Marriage;Sikh;Veg;None;Yes;Aries;What’s your favorite song?
+Abel;21;Single;Dating;Other;Non-veg;Smoke;Yes;Cancer;What’s one great book you’ve recently read?
+Abiah;22;Single;Friendship;Muslim;Veg;Vape;No;Capricorn;Are you an adventurous person?
+Abiathar;23;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Gemini;What’s your favorite cocktail?
+Abiel;24;Single;Marriage;Muslim;Veg;None;Yes;Leo;What’s your favorite restaurant?
+Abilene;25;Single;Dating;Hindu;Non-veg;None;Yes;Libra;Would you describe yourself as a romantic person?
+Abiram;26;Divorced;Friendship;Hindu;Veg;None;No;Pisces;Yes or no: Do you like to dance?
+Abner;27;Seperated;Long-Term Relationship;Hindu;Non-veg;None;No;Sagittarius;Yes or no: Do you believe in love at first sight?
+Abraham;28;Single;Marriage;Christian;Veg;Smoke;Yes;Scorpio;Yes or no: Are you romantic?
+Abram;29;Single;Dating;Sikh;Non-veg;Vape;Yes;Taurus;Do you have any pets?
+Absalom;30;Single;Friendship;Other;Veg;None;No;Virgo;Do you have any nicknames?
+Adam, Adama;31;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Aquarius;Where did you grow up?
+Adiel;32;Single;Marriage;Muslim;Veg;None;Yes;Aries;Are you an outgoing person or are you on the shy side?
+Adin;33;Single;Dating;Muslim;Non-veg;None;Yes;Cancer;Do you like working out?
+Adlai;34;Single;Friendship;Hindu;Veg;None;No;Capricorn;What’s your favorite TV show?
+Adonijah;35;Single;Long-Term Relationship;Hindu;Non-veg;Smoke;No;Gemini;What are your favorite things to do in your spare time?
+Adriel;36;Single;Marriage;Hindu;Veg;Vape;Yes;Leo;Do you have any hobbies you’re passionate about?
+Ahio;37;Divorced;Dating;Christian;Non-veg;None;Yes;Libra;Are you an outdoorsy person?
+Ajah;38;Seperated;Friendship;Sikh;Veg;None;No;Pisces;Do you play any sports?
+Alexander;39;Single;Long-Term Relationship;Other;Non-veg;None;No;Sagittarius;What’s one thing you’d bring with you to a deserted tropical island?
+Alian;40;Single;Marriage;Christian;Veg;None;Yes;Scorpio;What’s the fondest memory you have?
+Allon;41;Single;Dating;Other;Non-veg;None;Yes;Taurus;What’s your favorite place in the whole world?
+Alpha;42;Single;Friendship;Hindu;Veg;Smoke;No;Virgo;Tell me one random fact about yourself.
+Amad;43;Single;Long-Term Relationship;Muslim;Non-veg;Vape;No;Taurus;If you had three wishes from a genie, what would you wish for?
+Amariah;44;Single;Marriage;Sikh;Veg;Vape;Yes;Virgo;If you could redo a year of your life over again, what year would it be?

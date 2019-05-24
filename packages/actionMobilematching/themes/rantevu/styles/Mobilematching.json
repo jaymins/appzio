@@ -1,0 +1,167 @@
+{
+  "welcome_back_button": {
+    "font-size": "14",
+    "font-style": "normal",
+    "background-color": "#f31919",
+    "text-align": "center",
+    "color": "#ffffff",
+    "border-radius": "4",
+    "vertical-align": "middle",
+    "height": "45",
+    "padding": "9 4 9 4",
+    "margin": "5 65 10 55"
+  },
+  "welcome_back_text": {
+    "font-size": "18",
+    "font-style": "normal",
+    "text-align": "center",
+    "color": "#000000",
+    "vertical-align": "middle",
+    "padding": "9 4 9 4",
+    "margin": "5 65 10 55"
+  },
+  "round_image_imate_notify": {
+    "crop": "round",
+    "margin": "5 5 5 5",
+    "width": "45",
+    "height": "45"
+  },
+  "icon_imate_notify": {
+    "margin": "10 15 5 5",
+    "width": "35",
+    "height": "35"
+  },
+  "imate_title_notify": {
+    "color": "#ffffff",
+    "vertical-align": "middle",
+    "font-size": "12",
+    "padding": "0 30 0 10",
+    "margin": "8 0 8 0",
+    "text-align": "center"
+  },
+  "imate_contacts_textrow": {
+    "margin": "15 0 0 15"
+  },
+  "round_image_imate_stacked": {
+    "crop": "round",
+    "margin": "5 -30 5 5",
+    "width": "60",
+    "height": "60",
+    "border-color": "#ffffff",
+    "border-width": "3",
+    "border-radius": "30"
+  },
+  "round_image_imate": {
+    "crop": "round",
+    "vertical-align": "middle",
+    "text-align": "center",
+    "margin": "1 1 1 1"
+  },
+  "imate_title_nomatch": {
+    "color": "#000000",
+    "vertical-align": "middle",
+    "font-size": "16",
+    "text-align": "center",
+    "margin": "8 0 8 0"
+  },
+  "imate_title": {
+    "color": "#000000",
+    "vertical-align": "middle",
+    "font-size": "16",
+    "text-align": "left",
+    "height": "20"
+  },
+  "imate_title_subtext": {
+    "color": "#808080",
+    "font-size": "12"
+  },
+  "imate_title_msgtime": {
+    "color": "#808080",
+    "font-size": "11"
+  },
+  "imate_msgcount": {
+    "background-color": "#d62222",
+    "color": "#ffffff",
+    "border-radius": "8",
+    "border-color": "#d62222",
+    "border-width": "1",
+    "margin": "46 0 0 0",
+    "width": "30",
+    "height": "27",
+    "text-align": "center",
+    "vertical-align": "middle"
+  },
+  "general-centered-text": {
+    "padding": "30 15 30 15",
+    "font-size": "15",
+    "text-align": "center",
+    "color": "#333333"
+  },
+  "rantevu-payments-icon": {
+    "margin": "35 120 10 120",
+    "text-align": "center"
+  },
+  "rantevu-payments-heading": {
+    "color": "#8bdf36",
+    "font-size": "23",
+    "padding": "0 10 10 10",
+    "text-align": "center"
+  },
+  "rantevu-payments-description": {
+    "color": "#79777a",
+    "font-size": "19",
+    "padding": "0 10 15 10",
+    "text-align": "center"
+  },
+  "rantevu-payments-pricing-wrapper": {
+    "padding": "0 10 40 10",
+    "text-align": "center"
+  },
+  "rantevu-payments-pricing": {
+    "color": "#79777a",
+    "font-size": "17",
+    "padding": "0 10 40 10",
+    "text-align": "center"
+  },
+  "rantevu-payments-timer": {
+    "color": "#79777a",
+    "font-size": "17"
+  },
+  "rantevu-top-up-button": {
+    "width": "100%",
+    "color": "#fcfdf8",
+    "background-color": "#8bdf36",
+    "font-size": "22",
+    "padding": "10 20 10 20",
+    "border-radius": "5",
+    "text-align": "center"
+  },
+  "rantevu-timer": {
+    "color": "#fcfdf8",
+    "font-size": "17"
+  },
+  "rantevu-boost-badge": {
+    "width": "30",
+    "height": "30",
+    "floating": "1",
+    "float": "right",
+    "vertical-align": "bottom",
+    "margin": "0 30 0 0"
+  },
+  "rantevu-boost-badge-left": {
+    "width": "30",
+    "height": "30",
+    "floating": "1",
+    "float": "left",
+    "vertical-align": "bottom",
+    "margin": "0 0 0 10"
+  },
+  "rantevu-boost-badge-notfound": {
+    "width": "30",
+    "height": "30",
+    "floating": "1",
+    "float": "right",
+    "vertical-align": "bottom",
+    "margin": "0 5 0 0"
+  }
+}

@@ -1,0 +1,243 @@
+/* this css file will be included on the web views
+	note: for email and other communications, you need to use inline css
+ */
+
+
+#BbsModel_file{
+    background: url('/images/milky/48/125.png');
+    background-repeat: no-repeat;
+    background-position: 7px;
+    height: 37px;
+    padding-left: 60px;
+    padding-top: 20px;
+    border: none ! important;
+    box-shadow: none ! important;
+    background-color: #fff;
+    width: 40%;
+    border-radius: 10px;
+}
+
+
+.commentlist{
+    margin-top: 60px;
+}
+
+.diary_pic {
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-right: 10px;
+}
+
+.bb_pic img {
+    height: 60px ! important;
+    width: 60px ! important;
+
+}
+
+.bb_pic img:hover {
+    height: 60px ! important;
+    width: 60px ! important;
+
+}
+
+.diary_name{
+    padding-top: 5px;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+    color: #323232;
+}
+
+.diary_profile {
+    padding-top: 2px;
+    padding-left: 2px;
+    background: #fff;
+    color: #000;
+    height: 64px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    border-top: 1px solid #505050;
+    border-left: 1px solid #505050;
+
+}
+
+
+.adminentry {
+    width: 100%;
+    border-top: 1px solid #c8c8c8;
+    margin-top: 10px;
+}
+
+.adminentry p {
+    font-size: 12px ! important;
+}
+
+.date {
+    font-size: 10px;
+    color: #aeaeae;
+}
+
+.comment {
+    padding: 8px;
+    border-left: 1px solid #aeaeae;
+    border-bottom: 1px solid #aeaeae;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    position: relative;
+    background: #fbfbfb;
+    margin-top: 10px;
+
+}
+
+
+.redactor_btn_html, .redactor_btn_orderedlist, .redactor_btn_table, .redactor_btn_deleted {
+    display: none ! important;
+}
+
+.diaryentry {
+    padding: 8px;
+/*
+    border: 1px solid #aeaeae;
+*/
+    border-radius: 4px;
+    margin-bottom: 5px;
+    position: relative;
+    border-top: 1px solid #cfcfcf;
+    border-left: 1px solid #cfcfcf;
+
+    border-bottom: 2px solid #505050;
+    border-right: 2px solid #505050;
+
+}
+
+.commentbox {
+    padding: 8px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    position: relative;
+    font-size: 12px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-rigth: 10px;
+}
+
+.diarydelete {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+
+.diaryentry p {
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+.diaryentry img {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.diaryentry img:hover{
+    max-width: none;
+    max-height: none;
+    cursor: nwse-resize ! important;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    text-decoration: none;
+}
+
+.diarydelete img:hover {
+    max-width: none;
+    max-height: none;
+    cursor: auto ! important;
+    width: 25px;
+    height: 25px;
+
+}
+
+.diarydelete a:hover {
+    text-decoration: none;
+
+}
+
+
+.taskcontent {
+    padding: 7px ! important;
+    margin: 0 ! important;
+}
+.control-label {
+    display:none;
+}
+
+.controls {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.form-horizontal .controls {
+    margin-left: 0px;
+}
+
+.form-horizontal textarea {
+    width: 100%;
+    height: 70px;
+	padding:0px;
+}
+
+
+.friendmsg {
+    font-family: "courier new";
+    padding: 10px;
+    font-size: 0.8em;
+    background: #f4f4f4;
+    margin-top: 4px;
+}
+
+.form-actions {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    border-top: none;
+}
+
+.form-horizontal .form-actions {
+    padding: 0;
+}
+
+.validationError{
+    color: red;
+    padding: 10px;
+    background: #ffeae4;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+
+.form-horizontal .btn {
+    position: relative;
+    right: 0;
+    color: #fff;
+    text-shadow: none;
+    font-size: 1.2em;
+    font-weight: normal;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    padding: 5px;
+    padding-right: 14px;
+    padding-left: 14px;
+    font-family: Tahoma, sans-serif;
+    background: #3ca52f;
+    letter-spacing: 0.15em;
+    box-shadow: 0px 2px 0px #000;
+
+}
+
+
+.form-horizontal .btn:hover {
+    background: #d9d8dd;
+    color: #000;
+    text-decoration: none;
+}
+

@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Row Component Creates a Row that matches the snapshot 1`] = `
+Object {
+  "content": null,
+  "row_content": Array [],
+  "style_content": Object {},
+  "type": "row",
+}
+`;

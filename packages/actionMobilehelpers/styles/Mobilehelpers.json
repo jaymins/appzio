@@ -1,0 +1,22 @@
+{
+  "helper-search-result": {
+    "font-size": "15",
+    "color": "#6c6c6c",
+    "background-color": "#f6f6f6",
+    "padding": "4 15 4 15"
+  },
+  "helper-search-result-even": {
+    "font-size": "15",
+    "color": "#6c6c6c",
+    "background-color": "#ffffff",
+    "padding": "4 15 4 15"
+  },
+  "helper-close-button": {
+    "font-size": "17",
+    "color": "#ffffff",
+    "background-color": "#a5a5a5",
+    "text-align": "center",
+    "margin": "0 0 0 0",
+    "padding": "10 15 10 15"
+  }
+}

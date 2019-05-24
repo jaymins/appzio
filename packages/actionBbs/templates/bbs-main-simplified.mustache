@@ -1,0 +1,133 @@
+  {{#infobut}} 
+  <div class="brief" id="brief">
+  <div id="bbs_brief" class="bbs_brief" style="background:#{{color_bckg}};color:#{{color_text_main}}>{{{brief}}}</div>
+  <div id="bbs_title" class="bbs_title" style="background:#{{color_bg}};color:#{{color_text}}">
+  <ul>
+   <li>{{commentboxtitle}}</li>
+   <li><a href="#" onclick="hideBrief();" class="info_but" style="background:#{{color_btn}};color:#{{color_btn_text}}">x</a></li>
+  </ul>
+   </div>
+  </div>
+  {{/infobut}} 
+  <div class="postercontainer"  id="postercontainer" style="background:#{{color_bg}};color:#{{color_text}}">
+  
+
+   <ul>
+    <li><b>{{commentboxtitle}}</b></li>
+    <li>{{#infobut}} <a href="#" onclick="showBrief(); setPaddingBrief();" class="info_but" style="background:#{{color_btn}};color:#{{color_btn_text}}">i</a>{{/infobut}}</li>
+   </ul>
+
+    
+    {{{form}}}
+    <div class="filebutton" style="background:#{{color_btn}};color:#{{color_btn_text}}"><img src="{{camera_icon}}" width="40"></div>
+    <div class="formsubmitter" style="background:#{{color_btn}};color:#{{color_btn_text}}" onClick="formSubmit();">send</div>
+    <div class="clear"></div>
+</div>
+
+
+    <script type="text/javascript">
+        function formSubmit(){
+            document.getElementById("verticalForm").submit();
+        }
+      {{#infobut}} 
+	function showBrief(){
+            document.getElementById("commentlist").style.display = 'none';
+	    document.getElementById("commentlist").style.visibility = 'hidden';
+	    document.getElementById("postercontainer").style.display = 'none';
+	    document.getElementById("postercontainer").style.visibility = 'hidden';
+	    
+	    document.getElementById("brief").style.display = 'block';
+	    document.getElementById("brief").style.visibility = 'visible';
+	   
+        }
+
+	function hideBrief(){
+            document.getElementById("commentlist").style.display = 'block';
+	    document.getElementById("commentlist").style.visibility = 'visible';
+	    document.getElementById("postercontainer").style.display = 'block';
+	    document.getElementById("postercontainer").style.visibility = 'visible';
+	    
+	    document.getElementById("brief").style.display = 'none';
+	    document.getElementById("brief").style.visibility = 'hide';
+	   
+        }
+    {{/infobut}} 
+   
+         function setHeightPostBox(){
+                postBox=document.getElementById('postercontainer');
+	        postBoxHeight=postBox.offsetHeight;
+		newHeight=postBoxHeight-30;
+		postBox.style.height=newHeight+'px';
+	 }
+           
+          
+         function setHeight(){
+	        postBox=document.getElementById('postercontainer');
+	        commentHeight=document.getElementById('commentlist').offsetHeight;
+		postBoxHeight=postBox.offsetHeight;
+		var w = window,
+                    d = document,
+                    e = d.documentElement,
+                    g = d.getElementsByTagName('body')[0];
+   
+                windowHeight = w.innerHeight;
+		contentHeight=commentHeight+postBoxHeight;
+		if (windowHeight>contentHeight) {
+		     postBox.style.position='absolute';
+		     postBox.style.bottom='0px';
+		} else {
+		   postBox.style.position='absolute';
+		   postBox.style.bottom='0px';
+		}
+		
+	    }
+
+
+	      function setHeightBrief(){
+	        titleBox=document.getElementById('bbs_title');
+	        briefHeight=document.getElementById('bbs_brief').offsetHeight;
+		titleBoxHeight=titleBox.offsetHeight;
+		var w = window,
+                    d = document,
+                    e = d.documentElement,
+                    g = d.getElementsByTagName('body')[0];
+   
+                windowHeight = w.innerHeight;
+		contentHeight=briefHeight+titleBoxHeight;
+		if (windowHeight>contentHeight) {
+		     titleBox.style.position='absolute';
+		     titleBox.style.bottom='0px';
+		} else {
+		   titleBox.style.position='absolute';
+		   titleBox.style.bottom='0px';
+		}
+		
+	    }
+
+
+	    function setPadding  (){
+	        postBox=document.getElementById('postercontainer');
+		commentBox=document.getElementById('commentlist');
+	        commentHeight=commentBox.offsetHeight;
+		postBoxHeight=postBox.offsetHeight;
+		
+		
+		commentBox.style.paddingBottom =postBoxHeight+'px';
+	   		
+	    }
+           
+
+	     function setPaddingBrief  (){
+	        titleBox=document.getElementById('bbs_title');
+		briefBox=document.getElementById('bbs_brief');
+	        briefHeight=briefBox.offsetHeight;
+		titleBoxHeight=titleBox.offsetHeight;
+		
+                briefBox.style.paddingBottom =titleBoxHeight+'px';
+	   		
+	    }
+          document.getElementById("verticalForm").onload=setHeightPostBox();
+          document.getElementById("verticalForm").onload=setPadding();
+	
+    </script>
+

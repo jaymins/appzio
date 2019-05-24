@@ -1,0 +1,85 @@
+{
+
+
+  "rewarding_points": {
+    "text-align": "center",
+    "background-color": "#44d939",
+    "color" :"#ffffff",
+    "border-radius": "4",
+    "margin" : "8 8 8 8",
+    "width": "35",
+    "height": "35"
+  },
+
+  "rewarding_points_text": {
+    "font-weight": "bold",
+    "font-size": "14",
+    "color": "#ffffff"
+  },
+
+  "award_progress": {
+
+    "border-radius": "4",
+    "margin" : "8 8 8 8",
+    "height": "30",
+    "font-size": "12",
+    "text-align": "center",
+    "vertical-align": "middle",
+    "width": "90"
+  },
+
+
+  "rewarding_claim_button": {
+
+    "font-size": "14",
+    "text-align": "center",
+    "background-color": "#44d939",
+    "border-radius": "4",
+    "margin" : "8 8 8 8",
+    "width": "90",
+    "vertical-align": "middle",
+    "border-color": "#ffffff",
+    "border-width": "2",
+    "height": "35"
+  },
+
+  "reward_button_text": {
+    "font-weight": "bold",
+    "font-size": "14",
+    "color": "#ffffff"
+  },
+
+  "reward_description": {
+
+    "font-size": "14",
+    "color": "#ffffff",
+    "width": "50%",
+    "padding" : "3 3 3 3",
+    "text-align": "left"
+  },
+
+
+
+  "rewarding_title": {
+
+    "font-size": "14",
+    "color": "#ffffff",
+    "padding" : "7 7 7 7",
+    "background-color": "#2a8ab1",
+    "text-align": "center"
+  },
+
+  "rewarding_row": {
+    "margin" : "5 10 5 10",
+    "border-width" : "2",
+    "border-color": "#2a8ab1",
+    "border-radius": "4"
+  },
+
+  "rewarding_column_title": {
+    "background-color": "#2a8ab1"
+  }
+
+}
+
+

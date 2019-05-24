@@ -1,0 +1,33 @@
+
+    {{#data}}
+
+    <div class="diaryentry" class="diaryentry">
+
+        <div class="diarydelete">
+gugguu
+        {{#allow_delete}}
+            <a href="{{deleteurl}}&item={{id}}" onclick="return confirm('Are you sure you want to delete this item?');">
+                <img src="/images/milky/32/report_delete.png" width="25"></a>
+        {{/allow_delete}}
+
+        <a href="{{baseurl}}&a=comment&id={{id}}#commentbox">
+            <img src="/images/milky/32/comment_add.png" width="25"></a>
+
+           </div>
+
+        {{#commentbox}}
+
+            <div class="commentbox" id="commentbox">
+                <b>{%add_a_reply%}</b>
+                {{{commentbox}}}
+
+                <a href="{{baseurl}}" class="btn">{%cancel%}</a>
+
+            </div>
+        {{/commentbox}}
+
+
+    </div>
+
+
+{{/data}}

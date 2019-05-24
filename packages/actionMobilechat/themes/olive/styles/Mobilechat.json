@@ -1,0 +1,38 @@
+{
+  "chat-row-msg": {
+    "vertical-align": "top",
+    "margin": "0 5 0 5",
+    "text-align": "left",
+    "parent_style": "general-app-font-style"
+  },
+  "chat-comment-field": {
+    "font-size": "12",
+    "font-style": "italic",
+    "text-align": "left",
+    "color": "#000000",
+    "padding": "4 4 4 4",
+    "height": "33",
+    "parent_style": "general-app-font-style"
+  },
+  "chat-row-msg-mine": {
+    "vertical-align": "top",
+    "margin": "0 5 0 12",
+    "text-align": "right",
+    "parent_style": "general-app-font-style"
+  },
+  "button-join-chat": {
+    "font-size": "15",
+    "font-style": "normal",
+    "background-color": "#ffffff",
+    "text-align": "center",
+    "color": "#57c2d9",
+    "border-width": "1",
+    "border-color": "#57c2d9",
+    "border-radius": "10",
+    "vertical-align": "middle",
+    "padding": "9 4 9 4",
+    "height": "44",
+    "margin": "15 40 15 40",
+    "parent_style": "general-app-font-style"
+  }
+}

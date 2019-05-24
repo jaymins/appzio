@@ -1,0 +1,48 @@
+{
+  "jm_notification_text": {
+    "font-size": "18",
+    "padding": "20 10 20 10",
+    "color": "ffffff",
+    "text-align": "center"
+  },
+  "user_list_icon": {
+    "width": "55",
+    "crop": "round",
+    "margin": "10 20 10 15"
+  },
+  "user_list_icon_sex": {
+    "width": "12",
+    "margin": "0 0 7 7"
+  },
+  "user_list_icon_sex_wrapper": {
+    "width": "25",
+    "height": "25",
+    "margin": "0 0 5 -35",
+    "background-color": "#000000",
+    "border-radius": "13",
+    "vertical-align": "bottom"
+  },
+  "user_list_info_name": {
+    "vertical-align": "middle",
+    "color": "#5b5b5b",
+    "margin": "0 0 0 0",
+    "font-size": "20"
+  },
+  "user_list_info_location": {
+    "vertical-align": "middle",
+    "color": "#43c3ce",
+    "margin": "5 0 0 5",
+    "font-size": "14"
+  },
+  "user_list_info_arrow": {
+    "width": "12",
+    "floating": "1",
+    "float": "right",
+    "margin": "0 15 0 0"
+  },
+  "user_list_divider": {
+    "height": "1",
+    "background-color": "#2d2d2d",
+    "margin": "1 0 1 0"
+  }
+}

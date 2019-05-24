@@ -1,0 +1,61 @@
+{
+
+  "mobile-login-general-text": {
+    "font-size": "13",
+    "font-style": "normal",
+    "text-align": "center",
+    "color": "#000000",
+    "padding": "4 4 4 4",
+    "margin": "10 42 0 42"
+  },
+
+  "text_link": {
+    "font-size": "12",
+    "text-align": "left",
+    "color": "#ffffff",
+
+
+    "vertical-align": "middle",
+    "width" :"45%",
+    "height": "35"
+  },
+
+  "text_link_right": {
+    "font-size": "12",
+    "color": "#ffffff",
+
+
+    "vertical-align": "middle",
+    "width" :"45%",
+    "text-align": "right",
+    "height": "35"
+  },
+
+  "button_imate_red": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#f31919",
+    "text-align": "center",
+    "color": "#ffffff",
+
+
+    "border-radius": "4",
+    "height": "45",
+    "padding": "9 4 9 4",
+    "margin": "5 30 5 30"
+  },
+  "general_textarea": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#ffffff",
+    "text-align": "center",
+    "color": "#000000",
+
+
+    "border-radius": "4",
+    "height": "75",
+    "vertical-align": "middle",
+    "padding": "9 4 9 4",
+    "margin": "5 30 5 30"
+  }
+}

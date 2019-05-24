@@ -1,0 +1,15 @@
+<form action="show?ext=mobileplaces&tab=tab_statistics&type=statistics" method="post" enctype="multipart/form-data">
+
+    Choose upload file:
+    <input type="file" name="import">
+    <br>
+    <input type="checkbox" name="first_line_header"> First Line of the data is header<br><br>
+    <input type="hidden" name="ext" value="mobileplaces">
+    <input type="hidden" name="tab" value="tab_statistics">
+    <input type="hidden" name="type" value="statistics">
+    <input type="submit" name="upload" value="upload">
+
+
+<br><br>Note: File must be csv separated. Any record with the same <b>name</b> value will get replaced.
+
+</form>

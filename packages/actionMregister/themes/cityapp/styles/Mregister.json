@@ -1,0 +1,13 @@
+{
+  "cityapp-form-field": {
+    "width": "100%",
+    "background-color": "#ececec",
+    "border-radius": "5",
+    "padding": "10 15 10 15"
+  },
+  "cityapp-form-field-container": {
+    "width": "100%",
+    "vertical-align": "middle",
+    "margin": "10 25 10 25"
+  }
+}

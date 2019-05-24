@@ -1,0 +1,120 @@
+{
+
+   "booking-submit-review-inner":{
+      "font-size":"15",
+     "padding":"8 8 8 8",
+      "color":"#333333",
+      "vertical-align":"top",
+      "text-align":"left"
+   },
+
+   "admin_searchbox": {
+      "padding" : "4 4 4 4",
+      "margin" : "7 7 7 7",
+      "background-color": "#ffffff",
+      "border-radius": "8",
+     "height" : "35",
+     "vertical-align": "middle"
+   },
+
+   "admin_searchbox_text":{
+
+
+      "font-size": "12",
+       "margin" : "-5 0 0 10"
+   },
+
+  "admin_searchfilter":{
+
+
+    "color": "#ffffff",
+    "font-size": "12",
+    "border-radius": "8",
+    "padding": "3 3 3 3",
+    "width": "90",
+    "text-align": "center"
+
+  },
+
+  "admin_searchfilter_selected":{
+
+
+    "color": "#000000",
+    "font-size": "12",
+    "border-radius": "8",
+    "padding": "3 3 3 3",
+    "width": "90",
+    "text-align": "center"
+
+
+  },
+
+
+  "admin_searchbtn":{
+
+
+    "color": "#ffffff",
+    "font-size": "16",
+    "margin" : "0 10 0 10"
+  },
+
+  "general_admin_text":{
+
+
+    "color": "#000000",
+    "text-align": "center",
+    "font-size": "14",
+    "margin" : "10 10 10 10"
+  },
+
+  "admin_grid_header_photo":{
+    "width": "40",
+    "margin": "0 10 0 0",
+    "font-size": "12"
+  },
+
+  "admin_grid_header_icon":{
+    "width": "22",
+    "height": "22",
+    "font-size": "12",
+    "margin": "5 10 0 10",
+    "text-align": "center"
+
+  },
+
+
+  "admin_grid_header":{
+    "width": "27%",
+    "font-size": "12"
+  },
+
+  "admin_grid_photocell":{
+    "width": "40",
+    "crop": "round",
+    "height": "40",
+    "font-size": "10",
+    "margin": "0 10 0 0"
+  },
+
+
+  "admin_trash_icon":{
+    "width": "22",
+    "height": "22",
+    "font-size": "10",
+    "margin": "8 10 0 10",
+    "text-align": "center"
+
+  },
+
+
+  "admin_grid_cell":{
+    "width": "27%",
+    "font-size": "10"
+  }
+
+
+
+
+
+
+}

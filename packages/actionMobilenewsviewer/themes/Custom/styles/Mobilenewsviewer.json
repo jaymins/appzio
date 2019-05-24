@@ -1,0 +1,20 @@
+{
+  "news-heading": {
+    "margin": "25 10 5 40",
+    "text_size": "18",
+    "alignment": "left",
+    "text_color": "#333333"
+  },
+  "news-text": {
+    "margin": "5 10 5 40",
+    "text_size": "16",
+    "alignment": "left",
+    "text_color": "#333333"
+  },
+  "news-date": {
+    "margin": "5 10 5 40",
+    "text_size": "18",
+    "alignment": "left",
+    "text_color": "#333333"
+  }
+}

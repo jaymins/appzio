@@ -1,0 +1,84 @@
+{
+  "menus": {
+    "usergroups-user": {
+      "label": "Users",
+      "icon": "user-o",
+      "url": [
+        "/users/usergroups-user"
+      ]
+    },
+    "ae-ext-item": {
+      "label": "Tattoos",
+      "icon": "file-image-o",
+      "url": [
+        "/tatjack/ae-ext-item"
+      ]
+    },
+    "ae-ext-booking": {
+      "label": "Bookings",
+      "icon": "bookmark-o",
+      "url": [
+        "/tatjack/ae-ext-booking"
+      ]
+    },
+    "ae-ext-bid-item": {
+      "label": "Bid Items",
+      "icon": "bar-chart",
+      "url": [
+        "/tatjack/ae-ext-bid-item"
+      ]
+    },
+    "ae-ext-user-bid": {
+      "label": "User Bids",
+      "icon": "line-chart",
+      "url": [
+        "/tatjack/ae-ext-user-bid"
+      ]
+    },
+    "ae-ext-items-report": {
+      "label": "Reports",
+      "icon": "sticky-note-o",
+      "url": [
+        "/tatjack/ae-ext-items-report"
+      ]
+    }
+  },
+  "filter_vars": {
+    "real_name": {
+      "label": "Name",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "email": {
+      "label": "Email",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "reg_phase": {
+      "label": "Registration Status",
+      "type": "select",
+      "match": "reg_options",
+      "values": [
+        "",
+        "complete",
+        "not complete"
+      ],
+      "location": "variables"
+    },
+    "role": {
+      "label": "Role",
+      "type": "select",
+      "match": "exact_match",
+      "values": [
+        "",
+        "user",
+        "artist"
+      ],
+      "location": "variables"
+    }
+  },
+  "upload_path": "/var/www/app.appzio.com/app/documents/games/2/user_original_images/",
+  "upload_url": "https://tatjack.appzio.com/documents/games/2/user_original_images/"
+}

@@ -1,0 +1,19 @@
+Aafia;18;Single;Dating;Muslim;Non-veg;Smoke;Yes;Aquarius;A nod's as good as a wink to a blind bat, eh?
+Aafiya;19;Single;Friendship;Muslim;Veg;Vape;No;Aries;A wise wizard once said, 'Words are, in my not-so-humble opinion, our most inexhaustible source of magic.' With that in mind...
+Aafreeda;20;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Cancer;Acting at the sweet spot between design and intellectual purity to craft experiences both online and in real life.
+Badra;21;Single;Marriage;Hindu;Veg;None;Yes;Capricorn;Allow me to exercise my skills: kindness and intelligence.
+Badriyah;22;Single;Dating;Hindu;Non-veg;None;Yes;Gemini;Allows me to exercise my skills: acting and surfing sniffles. The most interesting thing that's happened to me at work, is that Michael Caine asked me for a sandwich. Of course, I was astounded that such a person would have time for muggins here. Of course, I made the sandwich.
+Baha;23;Single;Friendship;Hindu;Veg;None;No;Leo;And I'll leave you with a quote from the one-and-only Harry Potter: "It seems as though I always knew I'd have to face him in the end."
+Bahaa;24;Single;Long-Term Relationship;Christian;Non-veg;None;No;Libra;And now for something completely different.
+Chaman;25;Single;Marriage;Sikh;Veg;Smoke;Yes;Pisces;Become the best author I can be
+Chanda;26;Single;Dating;Other;Non-veg;Vape;Yes;Sagittarius;Become the best computer programmer I can be
+Chandni;27;Divorced;Friendship;Muslim;Veg;None;No;Scorpio;Become the best doctor I can be
+Daanya;28;Seperated;Long-Term Relationship;Muslim;Non-veg;None;No;Taurus;Become the best Person I can be
+Dafiyah;29;Single;Marriage;Muslim;Veg;None;Yes;Virgo;Become the best private detective I can be
+Dahab;30;Single;Dating;Hindu;Non-veg;None;Yes;Aquarius;Become the best psychiatrist I can be
+Eiliyah;31;Single;Friendship;Hindu;Veg;None;No;Aries;Become worthy of you
+Eimaan;32;Single;Long-Term Relationship;Hindu;Non-veg;Smoke;No;Cancer;Check me out on Dribbbleor Medium.
+Eiman;33;Single;Marriage;Christian;Veg;Vape;Yes;Capricorn;Discover that there are still some good men in the world
+Eliza;34;Single;Dating;Sikh;Non-veg;None;Yes;Gemini;Don't let my bumbling put you off - I'm a noble woman really
+Elma;18;Single;Friendship;Other;Veg;None;No;Leo;Fall in love with Us
+Eman;19;Single;Long-Term Relationship;Muslim;Non-veg;None;No;Libra;Fall in love with you

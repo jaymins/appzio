@@ -1,0 +1,60 @@
+{
+
+  "mved_header": {
+    "text-align" :"center",
+    "font-size": "22",
+    "width": "100%",
+    "background-color": "#005496",
+    "color": "#ffffff",
+    "padding": "0 0 10 0"
+  },
+
+  "mved_intro": {
+    "color": "#005496",
+    "margin": "10 40 10 40",
+    "text-align": "center",
+    "font-size": "14"
+  },
+
+  "mved_fieldtext": {
+    "padding": "15 20 15 20",
+    "margin": "0 0 0 0",
+    "font-size": "12",
+    "width": "100%"
+  },
+
+  "mivenue_name":{
+    "font-size": "16",
+    "text-align" : "left",
+    "margin": "10 20 10 20",
+    "color": "#000000"
+  },
+
+  "mivenue_address":{
+    "font-size": "12",
+    "text-align" : "left",
+    "margin": "0 20 10 20",
+    "color": "#B2B4B3"
+  },
+
+  "mivenue_address_2":{
+    "font-size": "12",
+    "text-align" : "left",
+    "margin": "0 20 10 58",
+    "color": "#B2B4B3"
+  },
+
+  "uikit_intro_header_title": {
+    "font-size": "32",
+    "text-align": "center",
+    "margin": "10 10 10 10",
+    "color": "#ffffff"
+  },
+  "uikit_intro_header_description": {
+    "font-size": "14",
+    "text-align": "center",
+    "margin": "10 10 10 10",
+    "color": "#ffffff"
+  }
+
+}

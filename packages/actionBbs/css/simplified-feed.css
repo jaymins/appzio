@@ -1,0 +1,267 @@
+/* this css file will be included on the web views
+	note: for email and other communications, you need to use inline css
+ */
+
+html, body {
+    padding: 0!important;
+    margin: 0!important;
+}
+
+*,p,span {
+    font-family: 'HelveticaNeueThin', 'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'HelveticaNeue', 'Helvetica Neue', 'TeXGyreHerosRegular', 'Arial', sans-serif;
+    letter-spacing: 0.05em;
+    font-size: 1em !important;
+    line-height: 1.5em !important;
+    margin: 0!important;
+}
+
+.postercontainer p  {
+    margin-left: 3%!important;
+    padding-top: 5px!important;
+}
+
+
+
+.well textarea {
+    width: 97%!important;
+    height: 80px!important;
+    border-radius: 8px;
+    border: 1px solid #FFFFFF
+    padding: 10px;
+    display:block;
+    font-size: 0.9em;
+    font-family: arial, helvetica, sans-serif;
+    color: #000000;
+}
+
+.buttons a {
+    text-decoration: none;
+}
+
+.taskcontent{
+    padding: 0!important;
+}
+
+.formsubmitter {
+    position: relative;
+    bottom: 0px;
+    right: 2%;
+    padding: 5px !important;
+    font-size: 0.9em;
+    border-radius: 4px;
+    float: right;
+    margin: 0px !important;
+	top:-40px;
+	cursor:pointer;
+	font-size:16px !important;
+	line-height: 1.5em !important;
+}
+
+.reply {
+ top:0px;
+ right:4%;
+ padding: 2px 5px !important;
+ }
+.custom-file-input::-webkit-file-upload-button {
+    visibility: hidden;
+}
+
+#BbsModel_file {
+    opacity: 0;
+}
+
+.formsubmitter:hover {
+   /* opacity: 0.8; */
+}
+
+.filebutton {
+    position: relative;
+    left: 2%;
+    padding: 5px;
+    border-radius: 4px;
+    float: left;
+    margin: 0px 0px !important;
+    top: -40px;
+	cursor:pointer;
+	}
+
+.filebutton img {
+    float: left;
+    margin: 0px 5px !important;
+}
+
+.postercontainer {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    padding-bottom: 0px;
+	
+}
+
+.well {
+    background: none!important;
+    margin-left: 2%!important;
+}
+
+.well button {
+    right: 2%;
+    top: 10px;
+}
+
+#BbsModel_file {
+    width: 100px!important;
+    height: 25px;
+    margin-bottom: 7px!important;
+	position: relative;
+    z-index: 100000;
+    padding-left: 0px !important;
+	cursor:pointer;
+}
+
+.diaryentry {
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+	padding: 8px 0px 8px 0px;
+	border-bottom: 0px solid #ADADAD;
+}
+.diaryentry p {padding: 8px 23px;}
+.comment {
+    border: 0px solid black!important;
+	padding: 8px 0px !important;
+}
+
+a {
+padding: 5px;
+font-size: 0.9em;
+border-radius: 4px;
+}
+a.delcomment {
+margin-right:10px !important;
+padding: 5px 10px;
+}
+.postercontainer b {
+display:block;
+margin:0;
+padding:0px 10px;
+font-size: 26px !important;
+}
+
+.bbs_pic_default {
+width:50px;
+height:50px;
+padding:0;
+border-width:1px;
+margin: 7px 10px !important;
+text-align:center;
+line-height:50px !important;
+font-size:32px !important;
+float: left;
+}
+
+.diarydelete {
+   top: 30px;
+}
+.bbs_date {
+font-size: 12px !important;
+}
+
+.cancel { 
+display: block;
+text-decoration:none;
+position: relative;
+left:4%;
+font-size:16px !important;
+line-height: 16px !important;
+top: 0px;
+float: left;
+padding: 6px 5px !important;
+
+}
+
+.info_but {
+display:block;
+width: 18px;
+height: 18px;
+text-decoration:none;
+padding:5px;
+border-radius:50%;
+text-align:center;
+line-height: 18px !important;
+font-size: 18px !important;
+margin: 8px 0px 0px 0px !important;
+cursor:pointer;
+float: right;
+}
+
+.brief {
+display:none;
+height:100% !important;
+width:100% !important;
+position:relative;
+}
+
+
+
+.bbs_title {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    font-size: 26px !important;
+	min-height: 40px;
+	position: fixed;
+	bottom: 0px;
+	width:100% !important;
+
+}
+
+.bbs_title p { margin: 0px 5px !important;}
+
+.bbs_brief {
+  position:relative;
+  /*padding:10px !important; */
+}
+
+.diaryentry img {
+    max-width: 150px;
+    max-height: 150px;
+    display: block;
+    margin: 10px 0px !important;
+	
+}
+.aefullpage, #actioncontainer, .mobileactioncontainer, body, html, .taskcontent {
+position: relative;
+height: 100% !important;
+}
+.commentlist {
+height: auto !important;
+}
+
+.postercontainer ul, .bbs_title ul {
+list-style-type: none;
+margin: 0px !important;
+padding: 0px !important;
+width: 99%;
+}
+.postercontainer ul li, .bbs_title ul li {display:inline-block; }
+.postercontainer ul li:last-child, .bbs_title ul li:last-child {vertical-align: top;}
+.postercontainer ul li:first-child, .bbs_title ul li:first-child { width:90%; padding:3px 0px;}
+.bbs_profile {
+border-radius:0px;
+}
+
+.filereply {
+top: 0px;
+left: 4%;
+padding: 0px 15px;
+line-height: 16px !important;
+}
+
+.commentbox #BbsModel_file {
+left: -40px;
+}
+.commentbox {
+border-radius: 0px;
+}
+
+.clear {clear: both;}

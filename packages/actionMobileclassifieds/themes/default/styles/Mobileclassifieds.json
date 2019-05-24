@@ -1,0 +1,38 @@
+{
+  "formkit-radiobutton-unselected-big": {
+    "font-size": "13",
+    "padding": "7 7 7 7",
+    "font-weight": "bold",
+    "border-radius": "8",
+    "border-color": "#eaeaea",
+    "border-width": "1",
+    "margin": "0 0 9 13",
+    "width": "45%",
+    "white-space": "nowrap"
+  },
+  "formkit-radiobutton-selected-big": {
+    "font-size": "13",
+    "padding": "7 7 7 7",
+    "font-weight": "bold",
+    "border-radius": "8",
+    "background-color": "#4cd864",
+    "color": "#ffffff",
+    "margin": "0 0 9 13",
+    "width": "45%",
+    "white-space": "nowrap"
+  },
+
+  "login_prompt":{
+    "margin": "20 40 20 40",
+    "font-size": "32",
+    "text-align": "center"
+  },
+
+
+  "login_text":{
+    "margin": "20 40 20 40",
+    "font-size": "14",
+    "text-align": "left"
+  }
+
+}

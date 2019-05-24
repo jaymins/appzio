@@ -1,0 +1,81 @@
+{
+  "missing-details-title": {
+    "font-size": "15",
+    "text-align": "center",
+    "color": "#000000",
+    "padding": "20 15 20 15",
+    "font-ios":"Lato-Regular",
+    "font-android":"Lato-Regular"
+  },
+  "details-error": {
+    "font-size": "16",
+    "font-style": "normal",
+    "text-align": "center",
+    "color": "#de7575",
+    "padding": "4 4 4 4",
+    "margin": "5 30 5 30",
+    "font-ios":"Lato-Regular",
+    "font-android":"Lato-Regular"
+  },
+  "details-field":{
+    "border-width":"1",
+    "border-radius":"4",
+    "border-color":"#dfdfdf",
+    "background-color":"#ffffff",
+    "font-size":"15",
+    "color":"#292021",
+    "margin": "10 15 10 15",
+    "padding":"10 10 10 10",
+    "vertical-align":"top",
+    "text-align":"left",
+    "font-ios":"Lato-Regular",
+    "font-android":"Lato-Regular"
+  },
+  "details-field-error":{
+    "border-width":"1",
+    "border-radius":"4",
+    "border-color":"#de7575",
+    "background-color":"#ffffff",
+    "font-size":"15",
+    "color":"#292021",
+    "margin": "10 15 10 15",
+    "padding":"10 10 10 10",
+    "vertical-align":"top",
+    "text-align":"left",
+    "font-ios":"Lato-Regular",
+    "font-android":"Lato-Regular"
+  },
+  "details-button": {
+    "font-size": "20",
+    "color": "#ffffff",
+    "border-radius": "10",
+    "background-color": "#ba5678",
+    "text-align": "center",
+    "padding": "10 15 10 15",
+    "margin": "0 10 10 10",
+    "font-ios":"Lato-Light",
+    "font-android":"Lato-Light"
+  },
+  "formkit-radiobutton-unselected": {
+    "font-size": "13",
+    "padding" : "8 0 8 0",
+    "border-radius": "4",
+    "border-color": "#eaeaea",
+    "border-width": "1",
+    "margin": "0 0 9 13",
+    "width": "44%",
+    "text-align": "center",
+    "white-space": "nowrap"
+  },
+  "formkit-radiobutton-selected": {
+    "font-size": "13",
+    "padding" : "8 0 8 0",
+    "border-radius": "4",
+    "background-color": "#ba5678",
+    "color" :"#ffffff",
+    "margin": "0 0 9 13",
+    "width": "44%",
+    "text-align": "center",
+    "white-space": "nowrap"
+  }
+}

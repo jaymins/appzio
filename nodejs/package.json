@@ -1,0 +1,34 @@
+{
+  "name": "appzio-node",
+  "version": "0.0.2",
+  "description": "Node port for Appzio's module creation platform.",
+  "main": "index.js",
+  "bin": {
+    "create-module": "./createModule.js"
+  },
+  "scripts": {
+    "test": "jest --watchAll --verbose",
+    "dev": "nodemon start.js"
+  },
+  "author": "Alexander Kondov",
+  "license": "ISC",
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.14.1",
+    "forever-monitor": "^1.7.1",
+    "mysql2": "^1.5.1",
+    "redis": "^2.8.0",
+    "sequelize": "^4.28.6"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  },
+  "standard": {
+    "globals": [
+      "describe",
+      "it",
+      "expect"
+    ]
+  }
+}

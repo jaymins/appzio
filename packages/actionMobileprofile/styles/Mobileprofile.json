@@ -1,0 +1,226 @@
+{
+
+
+  "profile_user_pic": {
+    "margin": "-33 10 0 140"
+  },
+
+  "progress_style1":{
+    "height":"40",
+    "margin": "10 30 10 30",
+    "border-color":"#d7f4d7",
+    "radius":"2",
+    "border-radius": "9",
+    "border-width": "2",
+    "width":"85%",
+    "alignment": "center",
+    "font-size": "12",
+    "font-style": "normal",
+
+
+    "padding": "5 10 5 10"
+  },
+
+  "profile_add_menu": {
+    "margin": "-33 0 20 0",
+    "width": "100%"
+  },
+
+  "profile_top_image": {
+    "margin": "0 0 -33 0"
+  },
+
+  "bookmarks_menu":{
+
+    "font-size": "12",
+    "font-style": "normal",
+    "color": "#000000",
+
+
+
+    "padding": "4 4 4 4"
+  },
+
+  "bookmarks_menu_advanced":{
+
+    "font-size": "11",
+    "font-style": "normal",
+    "color": "#000000",
+
+
+
+
+    "padding": "4 4 4 4",
+    "margin": "10 10 10 10",
+    "orientation":"horizontal"
+  },
+
+  "shoppinglist_menu":{
+    "orientation":"horizontal",
+    "margin": "40 0 0 0"
+  },
+
+  "bookmarks_top_menu":{
+    "orientation":"horizontal",
+    "margin": "42 0 0 0"
+  },
+
+  "bookmarks_menu_advanced_container":{
+    "margin": "10 10 10 10",
+    "orientation":"horizontal"
+  },
+
+  "bookmarks_menu_image": {
+    "width" : "40",
+    "padding": "10 10 10 10",
+    "margin": "10 10 10 10"
+  },
+
+  "shopping_column_1": {
+    "margin": "0 0 0 0",
+    "padding": "0 0 0 0",
+    "width": "15%",
+    "float": "right",
+
+
+
+    "font-style": "bold",
+    "font-size": "13",
+    "text-align": "right"
+
+
+  },
+
+  "shopping_column_2": {
+    "margin": "0 0 0 0",
+    "padding": "5 5 5 15",
+    "width": "65%",
+
+
+
+    "font-size": "11",
+
+    "alignment": "left"
+  },
+
+  "bookmarks": {
+    "margin": "0 0 0 0",
+    "padding": "5 5 5 15",
+
+
+    "font-size": "11",
+
+    "alignment": "left"
+  },
+
+
+  "shopping_column_3": {
+    "margin": "0 0 0 0",
+    "padding": "5 5 5 5",
+    "alignment": "left",
+
+
+
+    "font-size": "11",
+    "text-align": "left",
+
+    "width": "15%"
+  },
+
+
+  "bookmarks_column_1": {
+    "margin": "0 0 0 0",
+    "padding": "0 0 0 0",
+    "width": "81%",
+    "alignment": "left",
+
+    "font-size": "11",
+
+
+    "text-align": "left"
+
+  },
+
+  "bookmarks_column_2": {
+    "margin": "0 0 0 0",
+    "padding": "5 5 5 40",
+    "alignment": "left",
+
+
+
+    "font-size": "11",
+    "text-align": "left",
+
+    "width": "13%"
+  },
+
+  "bookmarks_column_3": {
+    "margin": "0 0 0 0",
+    "padding": "5 5 5 5",
+    "width": "6%",
+    "alignment": "left",
+
+    "font-size": "11",
+    "text-align": "left"
+
+  },
+
+
+  "bookmarks_column_1_off": {
+    "margin": "0 0 0 0",
+    "padding": "0 0 0 0",
+    "width": "81%",
+    "alignment": "left",
+    "font-size": "11",
+    "text-align": "left"
+  },
+
+  "bookmarks_column_2_off": {
+    "margin": "0 0 0 0",
+    "padding": "5 5 5 40",
+    "width": "13%",
+    "alignment": "left",
+    "font-size": "11",
+    "text-align": "left"
+  },
+
+  "bookmarks_column_3_off": {
+    "margin": "0 0 0 0",
+    "padding": "5 5 5 5",
+    "width": "6%",
+    "alignment": "left",
+
+    "font-size": "11",
+    "text-size": "left"
+
+  },
+
+  "tester_bg": {
+    "font-size": "11",
+    "alignment": "left"
+  },
+
+  "single_row_center": {
+    "margin": "5 5 5 5",
+    "padding": "0 0 0 0",
+    "alignment": "left"
+  },
+
+  "shopping_list_row": {
+    "margin": "5 5 5 5",
+    "padding": "0 0 0 0",
+    "alignment": "left"
+  },
+
+  "refresh_menu": {
+    "margin": "30 0 0 0"
+  }
+
+
+
+
+
+
+}
+
+

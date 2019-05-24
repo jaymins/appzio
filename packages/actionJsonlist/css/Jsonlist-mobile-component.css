@@ -1,0 +1,77 @@
+/* this css file will be included on the web views
+	note: for email and other communications, you need to use inline css
+ */
+
+
+*,p,span {
+	font-family: 'HelveticaNeueThin', 'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'HelveticaNeue', 'Helvetica Neue', 'TeXGyreHerosRegular', 'Arial', sans-serif;
+	letter-spacing: 0.05em;
+	font-size: 1.0em !important;
+	line-height: 1.1em !important;
+	margin: 0!important;
+	padding: 0!important;
+}
+
+*,body, html, .aefullpage {
+	margin: 0!important;
+	padding: 0!important;
+	top: 0;
+}
+
+iframe {
+	max-width: 100%!important;
+	height: auto!important;
+}
+
+.articlecontent {
+	display: none;
+	padding: 15px !important;
+	padding-top: 70px!important;
+}
+
+.articlecontent img {
+	max-width: 100%;
+	height: auto;
+	margin-bottom: 20px !important;
+}
+
+.back {
+	display: none;
+	padding: 10px!important;
+	text-align: left;
+	width: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+}
+
+.article_image {
+	box-sizing:border-box!important;
+}
+
+.titlebar {
+	padding: 10px!important;
+	text-align: center;
+}
+
+.article_spacer {
+	width: 100%;
+	height: 15px!important;
+}
+
+p {
+	-webkit-margin-before: 0!important;
+	-webkit-margin-after: 0!important;
+	-webkit-margin-start: 0!important;
+	-webkit-margin-end: 0!important;
+}
+
+.articlecontent_listview {
+	padding: 15px!important;
+}
+
+.articlecontent_listview img {
+	max-width: 100% !important;
+	height: auto!important;
+	margin-bottom: 20px !important;
+}

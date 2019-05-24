@@ -1,0 +1,67 @@
+version: "3.6"
+networks: 
+    appzio_net: 
+      driver: bridge
+
+services:  
+
+  appziodb:
+    image: mysql:5
+    ports:
+      - "3406:3306"
+    restart: always    
+    environment:
+      MYSQL_ROOT_PASSWORD: mydbrootpass 
+      MYSQL_DATABASE: appziodb 
+      MYSQL_USER: appziouser
+      MYSQL_PASSWORD: appziopwd
+    volumes:
+      - ./mariadb/conf:/etc/mysql/conf.d
+      - ./mariadb/dump:/tmp/dump
+      - ./mariadb/appzio_db:/var/lib/mysql
+    networks: 
+      - appzio_net
+    command: mysqld --character-set-server=utf8 --collation-server=utf8_unicode_ci --init-connect='SET NAMES UTF8;' --innodb-flush-log-at-trx-commit=0
+
+
+  redis:
+    image: redis
+    ports:
+      - "6379:6379"
+    networks: 
+      - appzio_net
+
+      
+  appzio:
+    image: git.appzio.com:4567/appzio/aecore:latest      
+    ports:
+      - "8081:8081"
+      - "80:80"
+    links:
+      - appziodb
+      - redis
+    volumes:
+      - ./config:/var/www/app.appzio.com/app/protected/config
+      - ./documents:/var/www/app.appzio.com/app/documents
+      - ./libraries/bootstrap2:/var/www/app.appzio.com/app/protected/modules/aelogic/Bootstrap
+      - ./packages:/var/www/app.appzio.com/app/protected/modules/aelogic/packages
+      - ./nodejs:/var/www/app.appzio.com/nodejs
+      - ./appzioUI:/var/www/app.appzio.com/app/appzioUI
+      - ./BootstrapThemes:/var/www/app.appzio.com/app/protected/modules/aelogic/BootstrapThemes
+    networks: 
+      - appzio_net
+  
+  appzio_phpmyadmin:
+    container_name: appzio_phpmyadmin
+    image: phpmyadmin/phpmyadmin
+    environment:
+      - PMA_ARBITRARY=1
+    restart: always
+    ports:
+      - 5678:80
+    links:
+      - appziodb:appziodb
+    networks: 
+      - appzio_net
+volumes:
+  appzio_db: 

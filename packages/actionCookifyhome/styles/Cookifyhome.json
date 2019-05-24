@@ -1,0 +1,21 @@
+{
+  "cookify_recipe_title": {
+    "font-size": "16",
+    "font-weight": "bold",
+    "alignment": "center",
+    "text-align": "center",
+    "color": "#eff6ef",
+    "border-radius": "8",
+    "padding": "8 8 8 8"
+  },
+  "cookify_recipe_time": {
+    "font-size": "16",
+    "font-weight": "bold",
+    "vertical-align":"bottom",
+    "alignment": "center",
+    "text-align": "center",
+    "color": "#eff6ef",
+    "border-radius": "8",
+    "padding": "8 8 8 8"
+  }
+}

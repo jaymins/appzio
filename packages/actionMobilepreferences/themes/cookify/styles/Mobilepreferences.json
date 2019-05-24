@@ -1,0 +1,52 @@
+{
+  "settings_title_cookify": {
+    "font-size": "14",
+    "font-style": "normal",
+    "alignment": "center",
+    "color": "#50ca50",
+    "font-weight": "bold",
+
+    "border-radius": "7",
+    "padding": "4 4 4 4",
+    "margin": "0 60 20 60"
+  },
+
+  "cookify_profilepic": {
+    "margin": "0 0 10 0"
+  },
+
+  "general_button_style_cookify": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#50ca50",
+    "text-align": "center",
+    "color": "#ffffff",
+
+
+    "border-radius": "4",
+    "height": "45",
+    "vertical-align": "middle",
+    "padding": "9 4 9 4",
+    "margin": "5 40 5 40"
+  },
+
+  "profile-field-label": {
+    "font-style" : "normal",
+    "font-size" : "14"
+  },
+  "profile-field-row": {
+    "height": "35",
+    "margin": "0 30 5 42"
+  },
+  "profile-field-left": {
+    "width": "30%",
+    "vertical-align": "middle"
+  },
+  "profile-field-right": {
+    "width": "70%",
+    "vertical-align": "middle"
+  }
+
+
+
+}

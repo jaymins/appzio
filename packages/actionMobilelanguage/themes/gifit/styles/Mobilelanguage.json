@@ -1,0 +1,28 @@
+{
+
+  "general_language_button": {
+      "font-size": "16",
+      "font-style": "normal",
+      "background-color": "#bebed5",
+      "text-align": "center",
+      "color": "#000000",
+      "vertical-align": "middle",
+      "padding": "9 4 9 4",
+      "height": "44",
+      "margin": "5 40 5 40",
+      "border-color": "#bebed5",
+      "border-width": "1",
+      "border-radius": "4"
+  },
+
+    "language-title": {
+        "font-size": "16",
+        "font-style": "normal",
+        "text-align": "center",
+        "color": "#000000",
+        "padding": "4 4 0 4",
+        "margin": "10 42 0 42"
+    }
+
+
+}

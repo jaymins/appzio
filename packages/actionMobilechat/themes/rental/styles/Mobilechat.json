@@ -1,0 +1,10 @@
+{
+  "chat-comment-field": {
+    "font-size": "12",
+    "font-style": "italic",
+    "text-align": "left",
+    "color": "#ffffff",
+    "padding": "4 4 4 4",
+    "height": "33"
+  }
+}

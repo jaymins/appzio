@@ -1,0 +1,24 @@
+/* this css file will be included on the web views
+	note: for email and other communications, you need to use inline css
+ */
+
+
+*,p,span {
+	font-family: 'Verdana', 'sans-serif';
+	letter-spacing: 0.05em;
+	font-size: 1.05em !important;
+	line-height: 1.2em !important;
+	margin: 0!important;
+}
+
+*,body, html, .aefullpage {
+	margin: 0!important;
+	padding: 0!important;
+	top: 0;
+}
+
+
+
+.aefullpage {
+	padding: 15px !important;
+}

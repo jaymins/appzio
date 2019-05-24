@@ -1,0 +1,39 @@
+{
+
+  "igers_pick_btn":{
+    "font-size" : "14",
+    "border-width" : 1,
+    "text-align" : "center",
+    "border-color" : "#545050",
+    "color" : "#545050",
+    "border-radius" : "4",
+    "height" : "25",
+    "padding" : "0 15 0 15"
+  },
+
+  "igers_checkin_btn":{
+    "margin" : "7 0 0 0",
+    "font-size" : "14",
+    "background-color": "#BDB893",
+    "color" : "#ffffff",
+    "text-align" : "center",
+    "border-radius" : "4",
+    "height" : "25",
+    "padding" : "0 15 0 15"
+  },
+
+  "igers_checkin_btn2":{
+    "floating": "1",
+    "float": "right",
+    "font-size" : "13",
+    "border-width" : 1,
+    "text-align" : "center",
+    "border-color" : "#BDB893",
+    "color" : "#BDB893",
+    "border-radius" : "4",
+    "height" : "21",
+    "padding" : "0 15 0 15"
+  }
+
+
+}

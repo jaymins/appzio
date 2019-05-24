@@ -1,0 +1,240 @@
+{
+  "settings_title": {
+    "font-size": "14",
+    "font-style": "normal",
+    "alignment": "center",
+    "color": "#e33124",
+    "font-weight": "bold",
+    "border-radius": "7",
+    "padding": "4 4 4 4",
+    "margin": "10 60 10 10"
+  },
+  "field-icon-column-general-error": {
+    "width": "35%",
+    "vertical-align": "middle"
+  },
+  "register-text-step-error": {
+    "font-size": "13",
+    "font-style": "normal",
+    "text-align": "center",
+    "color": "#e12929",
+    "padding": "4 4 0 4",
+    "margin": "0 42 3 42"
+  },
+  "radio_button_container": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#ffffff",
+    "text-align": "center",
+    "color": "#000000",
+    "border-radius": "4",
+    "vertical-align": "middle",
+    "padding": "9 4 9 4",
+    "height": "55",
+    "margin": "5 40 5 40"
+  },
+  "register_field": {
+    "font-size": "12",
+    "text-align": "left",
+    "color": "#000000",
+    "vertical-align": "middle",
+    "height": "35"
+  },
+  "ui_register_field_error": {
+    "font-size": "12",
+    "font-style": "italic",
+    "text-align": "left",
+    "color": "#d10000",
+    "height": "45",
+    "width": "80",
+    "margin": "0 5 0 5"
+  },
+  "general_button_style": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#ffffff",
+    "text-align": "center",
+    "color": "#f31919",
+    "vertical-align": "middle",
+    "height": "44",
+    "margin": "5 40 5 40",
+    "border-color": "#bebed5",
+    "border-width": "1",
+    "border-radius": "4"
+  },
+  "button_sex": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#ffffff",
+    "text-align": "center",
+    "color": "#f31919",
+    "vertical-align": "middle",
+    "padding": "4 4 4 4",
+    "height": "44",
+    "margin": "5 40 5 40",
+    "border-color": "#bebed5",
+    "border-width": "1",
+    "border-radius": "4"
+  },
+  "general_button_style_black": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#ffffff",
+    "text-align": "center",
+    "color": "#f31919",
+    "border-radius": "4",
+    "vertical-align": "middle",
+    "padding": "9 4 9 4",
+    "height": "44",
+    "margin": "5 40 5 40"
+  },
+  "general_button_style_footer": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#ffffff",
+    "text-align": "center",
+    "color": "#f31919",
+    "border-radius": "4",
+    "vertical-align": "middle",
+    "padding": "9 4 9 4",
+    "height": "44",
+    "margin": "15 40 15 40"
+  },
+  "general_textarea_style": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#ffffff",
+    "text-align": "center",
+    "color": "#000000",
+    "border-radius": "4",
+    "vertical-align": "middle",
+    "padding": "9 4 9 4",
+    "margin": "5 40 5 40"
+  },
+  "general_button_style_red": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#f31919",
+    "text-align": "center",
+    "color": "#ffffff",
+    "border-radius": "4",
+    "vertical-align": "middle",
+    "height": "45",
+    "padding": "9 4 9 4",
+    "margin": "5 24 10 24"
+  },
+  "general_button_style_hollow": {
+    "font-size": "16",
+    "font-style": "normal",
+    "text-align": "center",
+    "color": "#ffffff",
+    "vertical-align": "middle",
+    "border-radius": "4",
+    "padding": "13 0 13 0",
+    "margin": "20 42 0 42",
+    "border-width": "2"
+  },
+  "general_button_style_on_white": {
+    "font-size": "16",
+    "font-style": "normal",
+    "background-color": "#ffffff",
+    "text-align": "center",
+    "color": "#f31919",
+    "vertical-align": "middle",
+    "border-radius": "4",
+    "padding": "13 0 13 0",
+    "margin": "20 24 20 22",
+    "border-width": "1",
+    "border-color": "#d8d8d8"
+  },
+  "general_button_style_small_margin": {
+    "font-size": "16",
+    "font-style": "normal",
+    "background-color": "#ffffff",
+    "text-align": "center",
+    "color": "#f31919",
+    "vertical-align": "middle",
+    "border-radius": "4",
+    "padding": "13 0 13 0",
+    "margin": "10 42 0 42"
+  },
+  "register-text-step-2": {
+    "font-size": "13",
+    "font-style": "normal",
+    "text-align": "center",
+    "color": "#ffffff",
+    "padding": "4 4 4 4",
+    "margin": "20 42 0 42"
+  },
+  "uploading_text": {
+    "font-size": "13",
+    "font-style": "normal",
+    "text-align": "center",
+    "color": "#ffffff",
+    "padding": "4 4 4 4",
+    "margin": "-110 42 90 42"
+  },
+  "radiobutton": {
+    "font-size": "16",
+    "font-style": "normal",
+    "background-color": "#ffffff",
+    "text-align": "center",
+    "color": "#c9c9c9",
+    "vertical-align": "middle",
+    "border-radius": "4",
+    "width": "50%",
+    "height": "45"
+  },
+  "radiobutton_selected": {
+    "font-size": "16",
+    "font-style": "normal",
+    "background-color": "#f31919",
+    "text-align": "center",
+    "color": "#ffffff",
+    "vertical-align": "middle",
+    "border-radius": "4",
+    "width": "50%",
+    "height": "45"
+  },
+  "register_button": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#50ca50",
+    "text-align": "center",
+    "color": "#ffffff",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 5 53"
+  },
+  "recipe_text_box_title": {
+    "font-size": "12",
+    "font-style": "italic",
+    "text-align": "center",
+    "color": "#474747",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 0 53"
+  },
+  "register_field_error_text": {
+    "font-size": "12",
+    "font-style": "italic",
+    "text-align": "center",
+    "color": "#df1c1c",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 0 53"
+  },
+  "register_fb_image": {
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "53 53 0 53"
+  },
+  "register_menu": {
+    "margin": "10 0 10 0"
+  },
+  "register_menu_2": {
+    "margin": "7 0 10 0"
+  }
+}

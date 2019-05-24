@@ -1,0 +1,16 @@
+{
+    "name": "appzio/mobileform",
+    "require": {
+        "appzio/action-bootstrap2": ">=1.5"
+    },
+    "repositories": [
+    	{
+        "url": "https://github.com/appzio/action-bootstrap2",
+        "type": "vcs"
+    	}
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "appzio/action-bootstrap2": ">=1.5"
+    }
+}

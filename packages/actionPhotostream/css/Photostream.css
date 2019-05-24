@@ -1,0 +1,262 @@
+/* this css file will be included on the web views
+	note: for email and other communications, you need to use inline css
+ */
+
+
+#PhotostreamModel_file{
+    background: url('/images/milky/48/125.png');
+    background-repeat: no-repeat;
+    background-position: 7px;
+    height: 37px;
+    padding-left: 60px;
+    padding-top: 20px;
+    border: none ! important;
+    box-shadow: none ! important;
+    background-color: #fff;
+    width: 40%;
+    border-radius: 10px;
+}
+
+
+.well {
+    background: #f2f4f2 !important;
+}
+
+.commentlist{
+    margin-top: 60px;
+    font-size: 14px;
+}
+
+p {
+    font-size: 14px !important;
+}
+
+.photostream_pic {
+    width: 60px;
+    height: 60px;
+    float: left;
+    margin-right: 10px;
+}
+
+.bb_pic img {
+    height: 60px ! important;
+    width: 60px ! important;
+
+}
+
+.bb_pic img:hover {
+    height: 60px ! important;
+    width: 60px ! important;
+
+}
+
+.photostream_name{
+    padding-top: 5px;
+    font-weight: bold;
+    font-size: 14px;
+    font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial, sans-serif;
+    color: #323232;
+}
+
+.photostream_profile {
+    padding-top: 2px;
+    padding-left: 2px;
+    color: #000;
+    height: 64px;
+    margin-bottom: 20px;
+    background: #fff;
+    opacity: 0.8;
+    border-radius: 5px;
+}
+
+
+.adminentry {
+    width: 100%;
+    margin-top: 10px;
+    color: #fff;
+    background: #00bf52;
+}
+
+.adminentry p {
+    font-size: 14px ! important;
+}
+
+.date {
+    font-size: 12px;
+    color: #8f8f8f;
+}
+
+.comment {
+    padding: 8px;
+    margin-bottom: 5px;
+    position: relative;
+    margin-top: 10px;
+    color: #000;
+    border-left: 3px solid #e5e5e5;
+    padding-left: 30px;
+}
+
+.admincomment {
+    padding: 8px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    position: relative;
+    background: #f3eccf;
+    margin-top: 10px;
+    color: #000;
+    border: 1px solid #ffffff;
+
+}
+
+
+
+.redactor_btn_html, .redactor_btn_orderedlist, .redactor_btn_table, .redactor_btn_deleted {
+    display: none ! important;
+}
+
+.diaryentry {
+    padding: 0px;
+/*
+    border: 1px solid #aeaeae;
+*/
+}
+
+.diaryentry_admin {
+    border: 1px solid red;
+}
+
+.commentbox {
+    padding: 8px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    position: relative;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-rigth: 10px;
+}
+
+.diarydelete {
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+
+.diaryentry p {
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+.diaryentry img {
+    width: 100%;
+}
+
+.diaryentry p:after {
+    border-left: 4px #000000;
+    padding-left: 60px;
+
+}
+
+
+.diarydelete img {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    z-index: 10000;
+}
+
+
+.diarydelete img:hover {
+    max-width: none;
+    max-height: none;
+    cursor: auto ! important;
+    width: 25px;
+    height: 25px;
+
+}
+
+.diarydelete a:hover {
+    text-decoration: none;
+
+}
+
+
+.taskcontent {
+    padding: 7px ! important;
+    margin: 0 ! important;
+}
+.control-label {
+    display:none;
+}
+
+.controls {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+.form-horizontal .controls {
+    margin-left: 0px;
+}
+
+.form-horizontal textarea {
+    width: 100%;
+    height: 70px;
+	padding:0px;
+}
+
+
+.friendmsg {
+    font-family: "courier new";
+    padding: 10px;
+    font-size: 0.8em;
+    background: #f4f4f4;
+    margin-top: 4px;
+}
+
+.form-actions {
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    border-top: none;
+}
+
+.form-horizontal .form-actions {
+    padding: 0;
+}
+
+.validationError{
+    color: red;
+    padding: 10px;
+    background: #ffeae4;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}
+
+.form-horizontal .btn {
+    position: relative;
+    right: 0;
+    color: #fff;
+    text-shadow: none;
+    font-size: 1.2em;
+    font-weight: normal;
+    border: 1px solid #fff;
+    border-radius: 8px;
+    padding: 5px;
+    padding-right: 14px;
+    padding-left: 14px;
+    font-family: Tahoma, sans-serif;
+    background: #3ca52f;
+    letter-spacing: 0.15em;
+    box-shadow: 0px 2px 0px #000;
+
+}
+
+
+.form-horizontal .btn:hover {
+    background: #d9d8dd;
+    color: #000;
+    text-decoration: none;
+}
+

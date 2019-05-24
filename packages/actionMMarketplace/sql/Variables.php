@@ -1,0 +1,4 @@
+<?php
+$variables = array(
+    'itemcategory'
+);

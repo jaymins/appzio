@@ -1,0 +1,134 @@
+{
+
+  "ern_bottom_logo":{
+    "floating": "1",
+    "vertical-align": "bottom",
+    "margin": "10 80 30 80",
+    "text-align": "center"
+  },
+
+  "mproduct_del_cart_item":{
+    "width": "25",
+    "height": "25"
+  },
+
+  "mproduct_del_cart_item_inactive":{
+    "width": "25",
+    "height": "25",
+    "opacity": "0.3"
+  },
+
+
+  "mproduct_cart_quantity": {
+    "width": "30",
+    "height": "30",
+    "border-color": "#838481",
+    "border-radius": "15",
+    "text-align": "center"
+  },
+
+
+  "earnster_bottom_button": {
+    "width" : "100%",
+    "height" : "50",
+    "margin": "0 0 0 0",
+    "background-color" :"#D00062",
+    "color": "#ffffff",
+    "text-align": "center",
+    "font-size": "27"
+  },
+
+  "add_to_cart": {
+    "width" : "100%",
+    "height" : "50",
+    "margin": "0 0 0 0",
+    "background-color" :"#D00062",
+    "color": "#ffffff",
+    "text-align": "center",
+    "font-size": "27"
+  },
+
+
+  "mproduct_product_title": {
+    "font-size": "22",
+    "margin": "0 20 0 0"
+  },
+
+  "mproduct_product_price": {
+    "font-size": "13",
+    "color": "#B2B4B3"
+  },
+
+
+  "mproduct_category_icon": {
+    "width" : "70",
+    "height" : "70",
+    "crop": "round",
+    "margin": "0 20 0 0",
+    "border-width": "1",
+    "border-color": "#ACADAE",
+    "border-radius": "35"
+  },
+
+  "mproduct_product_icon": {
+    "width" : "50",
+    "height" : "50",
+    "crop": "round",
+    "margin": "0 20 0 0",
+    "border-width": "1",
+    "border-color": "#ACADAE",
+    "border-radius": "25"
+  },
+
+  "mreg_top_shadow": {
+    "height": "2",
+    "shadow-color": "#DDE2DE",
+    "shadow-radius": "2",
+    "shadow-offset": "0 2"
+  },
+
+  "mproducts_list_title": {
+    "font-size": "12",
+    "margin": "15 20 9 20"
+  },
+
+  "mproduct_category_row": {
+    "vertical-align": "middle",
+    "margin": "8 20 8 20"
+  },
+
+  "mproduct_category_text": {
+    "margin": "10 0 0 0",
+    "font-size": "18"
+  },
+
+  "mproduct_category_header": {
+    "margin": "5 0 0 0",
+    "color": "#ACADAE",
+    "font-size": "14"
+  },
+
+  "mproduct_productlist_text": {
+    "margin": "10 40 0 0",
+    "font-size": "14"
+  },
+
+  "mproduct_productlist_text_header": {
+    "margin": "0 40 0 0",
+    "font-size": "12",
+    "color": "#797E7C"
+  },
+
+  "mproducts_list_title_price": {
+    "font-size": "12",
+    "margin": "15 20 9 20",
+    "floating": "1",
+    "float": "right"
+  }
+
+
+
+
+
+
+}

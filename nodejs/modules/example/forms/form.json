@@ -1,0 +1,14 @@
+{
+  "subject": [{
+    "type": "text"
+  }, {
+    "title": "{%subject}"
+  }],
+  "article_action_theme": [{
+    "type": "themelisting"
+  }, {
+    "title": "{%theme}"
+  }, {
+    "hint": "{%select_theme%}"
+  }]
+}

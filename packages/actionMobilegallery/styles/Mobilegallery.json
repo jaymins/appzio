@@ -1,0 +1,88 @@
+{
+  "profile_add_menu": {
+    "margin": "-33 0 0 0"
+  },
+  "bookmarks_menu": {
+    "font-size": "12",
+    "font-style": "normal",
+    "color": "#000000",
+
+
+    "padding": "4 4 4 4"
+  },
+
+  "miv_subject": {
+    "margin": "0 20 0 20",
+    "font-size": "12",
+    "font-style": "normal",
+    "alignment": "left",
+    "text-align": "left",
+    "color": "#000000",
+    "font-weight": "bold"
+  },
+  "miv_comment": {
+    "margin": "0 20 20 20",
+    "font-size": "12",
+    "font-style": "normal",
+    "alignment": "left",
+    "text-align": "left",
+    "color": "#000000"
+  },
+
+  "register_field": {
+    "text-size": "12",
+    "font-style": "italic",
+    "background-color": "#d7f4d7",
+    "alignment": "center",
+    "color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "5 58 5 58"
+  },
+
+  "gallery_notice": {
+    "font-size": "11",
+    "font-style": "normal",
+    "alignment": "center",
+    "text-align": "center",
+    "color": "#ffffff",
+
+
+    "margin": "10 15 10 15",
+    "padding": "8 8 8 8",
+    "background-color": "#8C000000",
+    "border-radius": "8"
+  },
+
+  "gallery_html": {
+    "font-size": "16",
+    "font-style": "normal",
+    "color": "#000000",
+
+
+    "margin": "15 55 15 55"
+  },
+  "gallery_entry": {
+    "font-size": "13",
+    "alignment": "center",
+    "text-align": "center",
+    "font-style": "normal",
+    "color": "#696969",
+
+
+    "margin": "15 55 15 55"
+  },
+  "new_photo_gallery": {
+    "margin": "15 0 15 0"
+  },
+  "gallery_entry_title": {
+    "font-size": "13",
+    "alignment": "center",
+    "text-align": "center",
+    "font-style": "bold",
+    "color": "#696969",
+
+
+    "margin": "15 55 15 55"
+  }
+}

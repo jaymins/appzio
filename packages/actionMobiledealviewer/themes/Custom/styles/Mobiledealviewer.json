@@ -1,0 +1,78 @@
+{
+  "deal-heading": {
+    "margin": "10 10 10 10"
+  },
+  "back-button": {
+    "margin": "0 10 0 10"
+  },
+  "deal-title": {
+    "margin": "5 10 5 10",
+    "font-size": "17",
+    "text-align": "center",
+    "color": "#333333"
+  },
+  "tools-image": {
+    "margin": "0 23 0 23",
+    "text-align": "center"
+  },
+  "tools-text": {
+    "margin": "3 2 0 2",
+    "font-size": "12",
+    "text-align": "center",
+    "color": "#333333"
+  },
+  "time-row": {
+    "margin": "0 10 0 10"
+  },
+  "row-icons": {
+    "margin": "5 10 5 10"
+  },
+  "main-row": {
+    "margin": "10 10 10 10"
+  },
+  "row-cell": {
+    "width": "25%"
+  },
+  "row-cell-inner": {
+    "width": "50%"
+  },
+  "heading-cell": {
+    "background-color": "#ededed"
+  },
+  "hc-text": {
+    "font-size": "17",
+    "text-align": "center",
+    "margin": "3 10 3 10"
+  },
+  "heading-cell-left": {
+    "width": "10%",
+    "vertical-align": "middle"
+  },
+  "heading-cell-right": {
+    "width": "90%",
+    "vertical-align": "middle"
+  },
+  "hcr-icon": {
+    "width": "20",
+    "height": "20"
+  },
+  "hcr-text": {
+    "font-size": "15",
+    "margin": "0 10 0 5",
+    "color": "#afafaf"
+  },
+  "deal-description": {
+    "font-size": "14",
+    "margin": "0 10 0 10",
+    "text-align": "left"
+  },
+  "deal-separator": {
+    "height": "1",
+    "margin": "10 10 10 10",
+    "background-color": "#dfdfdf"
+  },
+  "deal-banner": {
+    "width": "100%",
+    "margin": "15 5 10 5"
+  }
+}

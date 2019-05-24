@@ -1,0 +1,77 @@
+{
+
+  "message-status-text-3": {
+    "font-size": "10",
+    "color": "#949494",
+    "text-align": "right",
+    "margin": "2 80 2 15"
+  },
+
+  "confirmationdialog":{
+    "background-color": "#66000000",
+    "width": "100%",
+    "border-radius": "3"
+  },
+
+  "confirmation_title":{
+    "font-size": "18",
+    "text-align": "center",
+    "color": "#ffffff",
+    "margin": "10 0 10 0"
+  },
+
+  "confirmation_dialogtext":{
+    "font-size": "16",
+    "text-align": "center",
+    "color": "#B3ffffff",
+    "margin": "10 20 10 20"
+  },
+
+  "confirmation_btn":{
+    "font-size": "18",
+    "text-align": "center",
+    "background-color": "#ffffff",
+    "color": "#000000",
+    "border-color": "#ffffff",
+    "border-width": "1",
+    "border-radius": "8",
+    "width": "100",
+    "padding": "7 0 7 0",
+    "margin": "10 0 10 0"
+  },
+
+  "confirmation_divider":{
+    "width": "100%",
+    "background-color": "#ffffff",
+    "height": "1"
+  },
+
+  "general_divider": {
+    "height": "1",
+    "background-color": "#E4E7E9"
+  },
+
+  "element-msg-plain-default": {
+    "padding": "10 10 10 10"
+  },
+
+  "element-slider-default": {
+    "margin": "10 10 10 15"
+  },
+
+  "router-error-message": {
+    "text-align": "center",
+    "padding": "10 10 10 10",
+    "color": "#FF000B"
+  },
+
+  "element-field-list-default": {
+    "color": "#000000"
+  },
+
+  "element-field-textview-default": {
+    "padding": "10 10 10 10"
+  }
+
+
+}

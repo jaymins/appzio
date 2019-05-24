@@ -1,0 +1,203 @@
+{
+
+
+  "place_offer_title":{
+    "font-size": "14",
+    "text-align": "center",
+    "background-color": "#47c640",
+    "font-weight": "bold",
+    "color": "#ffffff",
+    "padding": "5 5 5 5"
+  },
+
+  "place_deal_left": {
+    "font-size": "12",
+    "font-style": "normal",
+    "text-align": "left",
+    "color": "#606060",
+    "vertical-align": "middle",
+    "padding": "10 10 10 10",
+    "margin": "0 0 10 0"
+  },
+  "place_deal_middle": {
+    "font-size": "12",
+    "font-style": "normal",
+    "text-align": "right",
+    "color": "#606060",
+    "vertical-align": "middle",
+    "padding": "10 10 10 10",
+    "margin": "0 0 10 0"
+  },
+
+  "place_deal_buy": {
+    "font-size": "12",
+    "font-style": "normal",
+    "color": "#ffffff",
+    "width" : "15%",
+    "background-color": "#47c640",
+    "border-radius": "6",
+    "vertical-align": "middle",
+    "padding": "4 4 4 4",
+    "margin": "4 4 4 4",
+    "text-align":"center"
+  },
+
+
+
+
+  "place_price_left": {
+    "font-size": "12",
+    "font-style": "normal",
+    "text-align": "left",
+    "color": "#606060",
+    "vertical-align": "middle",
+    "padding": "10 10 10 10"
+  },
+  "place_price_right": {
+    "font-size": "12",
+    "font-style": "normal",
+    "text-align": "right",
+    "color": "#606060",
+    "vertical-align": "middle",
+    "padding": "10 10 10 10"
+  },
+
+  "selector_checkbox_unselected": {
+    "width": "34",
+    "height": "34",
+    "background-image": "just-a-dot.png",
+    "background-size": "contain",
+    "text-align": "center",
+    "vertical-align": "middle",
+    "margin": "6 0 0 0"
+  },
+  "selector_checkbox_selected": {
+    "width": "34",
+    "height": "34",
+    "background-image": "checkmarkicon.png",
+    "background-size": "contain",
+    "text-align": "center",
+    "vertical-align": "middle",
+    "margin": "6 0 0 0"
+  },
+  "places_toptext_grey": {
+    "font-size": "14",
+    "font-style": "normal",
+    "text-align": "center",
+    "color": "#606060",
+    "vertical-align": "middle",
+    "padding": "10 11 10 10"
+  },
+  "places_toptext_wide": {
+    "font-size": "14",
+    "font-style": "normal",
+    "background-color": "#34A343",
+    "text-align": "center",
+    "color": "#ffffff",
+    "vertical-align": "middle",
+    "padding": "10 11 10 10"
+  },
+  "places_toptext_wide_red": {
+    "font-size": "14",
+    "font-style": "normal",
+    "background-color": "#BA0705",
+    "text-align": "center",
+    "color": "#ffffff",
+    "vertical-align": "middle",
+    "padding": "10 11 10 10"
+  },
+
+
+  "places_toptext": {
+    "font-size": "14",
+    "font-style": "normal",
+    "background-color": "#459a35",
+    "text-align": "left",
+    "color": "#ffffff",
+    "border-radius": "8",
+    "vertical-align": "middle",
+    "padding": "10 10 10 10",
+    "margin": "8 80 8 8"
+  },
+  "example_list_row": {
+    "margin": "3 20 0 20",
+    "background-color": "#ffffff"
+  },
+  "example_list_text": {
+    "padding": "8 8 8 8"
+  },
+  "example_searchbox": {
+    "padding": "4 4 4 4",
+    "margin": "7 7 7 7",
+    "background-color": "#ffffff",
+    "border-radius": "8",
+    "height": "35",
+    "width" : "70%",
+    "vertical-align": "middle"
+  },
+  "example_searchbox_text": {
+    "font-size": "12",
+    "margin": "-5 0 0 10"
+  },
+  "example_searchfilter": {
+    "color": "#ffffff",
+    "font-size": "12",
+    "border-radius": "8",
+    "padding": "3 3 3 3",
+    "width": "90",
+    "text-align": "center"
+  },
+  "example_searchfilter_selected": {
+    "color": "#000000",
+    "font-size": "12",
+    "border-radius": "8",
+    "padding": "3 3 3 3",
+    "width": "90",
+    "text-align": "center"
+  },
+  "example_searchbtn": {
+    "color": "#ffffff",
+    "font-size": "16",
+    "margin": "0 10 0 10"
+  },
+  "general_example_text": {
+    "color": "#000000",
+    "text-align": "center",
+    "font-size": "14",
+    "margin": "10 10 10 10"
+  },
+  "example_grid_header_photo": {
+    "width": "40",
+    "margin": "0 10 0 0",
+    "font-size": "12"
+  },
+  "example_grid_header_icon": {
+    "width": "22",
+    "height": "22",
+    "font-size": "12",
+    "margin": "5 10 0 10",
+    "text-align": "center"
+  },
+  "example_grid_header": {
+    "width": "27%",
+    "font-size": "12"
+  },
+  "example_grid_photocell": {
+    "width": "40",
+    "crop": "round",
+    "height": "40",
+    "font-size": "10",
+    "margin": "0 10 0 0"
+  },
+  "example_trash_icon": {
+    "width": "22",
+    "height": "22",
+    "font-size": "10",
+    "margin": "8 10 0 10",
+    "text-align": "center"
+  },
+  "example_grid_cell": {
+    "width": "27%",
+    "font-size": "10"
+  }
+}

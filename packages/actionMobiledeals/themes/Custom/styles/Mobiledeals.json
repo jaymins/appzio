@@ -1,0 +1,64 @@
+{
+  "listing-main-row": {
+    "margin": "10 10 10 10",
+    "background-color": "#ffffff"
+  },
+  "listing-cell-left": {
+    "width": "30%"
+  },
+  "listing-cell-center": {
+    "width": "45%",
+    "margin": "0 10 0 10"
+  },
+  "listing-cell-right": {
+    "width": "20%",
+    "margin": "0 0 0 0"
+  },
+  "lcc-heading": {
+    "color": "#0061b4",
+    "font-size": "16"
+  },
+  "lcc-description": {
+    "color": "#adadad",
+    "font-size": "15"
+  },
+  "lcr-icons-icon": {
+    "margin": "0 24 0 24"
+  },
+  "lcr-icons-text": {
+    "color": "#333333",
+    "text-align": "center",
+    "margin": "0 0 0 0",
+    "padding": "0 5 0 5",
+    "font-size": "12"
+  },
+  "row-divider": {
+    "height": "1",
+    "background-color": "#dfdfdf"
+  },
+  "back-button": {
+    "text-align": "center",
+    "padding": "5 5 5 5",
+    "background-color": "#dfdfdf"
+  },
+  "deals-notification": {
+    "font-size": "16",
+    "text-align": "center",
+    "margin": "50 20 20 20"
+  },
+  "back-button-big": {
+    "font-size": "18",
+    "color": "#ffffff",
+    "text-align": "center",
+    "margin": "5 10 5 10",
+    "padding": "10 5 10 5",
+    "background-color": "#2e5aff"
+  },
+  "branch-name-heading": {
+    "text-align": "center",
+    "color": "#ffffff",
+    "font-size": "18",
+    "padding": "3 5 3 5",
+    "background-color": "#0061b4"
+  }
+}

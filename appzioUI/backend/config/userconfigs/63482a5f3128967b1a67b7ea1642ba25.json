@@ -1,0 +1,78 @@
+{
+  "menus": {
+    "usergroups-user": {
+      "label": "Users",
+      "icon": "user-o",
+      "url": [
+        "/users/usergroups-user"
+      ]
+    },
+    "tickers": {
+      "label": "Tickers",
+      "icon": "line-chart",
+      "url": [
+        "/tickers/ae-ext-ticker"
+      ]
+    },
+    "ticker-trades": {
+      "label": "Trades",
+      "icon": "bar-chart",
+      "url": [
+        "/tickers/ae-ext-ticker-trade"
+      ]
+    },
+    "tickers-data": {
+      "label": "Tickers Data",
+      "icon": "area-chart",
+      "url": [
+        "/tickers/ae-ext-ticker-datum"
+      ]
+    },
+    "tickers-daily": {
+      "label": "Tickers Daily",
+      "icon": "area-chart",
+      "url": [
+        "/tickers/ae-ext-ticker-daily"
+      ]
+    },
+    "articles": {
+      "label": "Articles",
+      "icon": "user-o",
+      "url": [
+        "/articles/ae-ext-article"
+      ]
+    },
+    "article-images": {
+      "label": "Article Images",
+      "icon": "user-o",
+      "url": [
+        "/articles/ae-ext-article-photo"
+      ]
+    }
+  },
+  "filter_vars": {
+    "name": {
+      "label": "Name",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "email": {
+      "label": "Email",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "reg_phase": {
+      "label": "Registration Status",
+      "type": "select",
+      "match": "reg_options",
+      "values": [
+        "",
+        "complete",
+        "not complete"
+      ],
+      "location": "variables"
+    }
+  }
+}

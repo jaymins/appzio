@@ -1,0 +1,139 @@
+{
+  "profile_shadowbox": {
+    "background-color": "#ffffff",
+    "padding": "5 5 5 5",
+    "margin": "5 10 5 10",
+    "vertical-align": "middle",
+    "border-radius": "3",
+    "height": "40",
+    "shadow-color": "#33000000",
+    "shadow-radius": "2",
+    "shadow-offset": "0 1",
+    "width": "45%"
+  },
+  "profile_shadowbox_wide": {
+    "background-color": "#ffffff",
+    "padding": "5 5 5 5",
+    "vertical-align": "middle",
+    "border-radius": "3",
+    "height": "40",
+    "width": "100%"
+  },
+  "profile_shadowbox_textarea": {
+    "background-color": "#ffffff",
+    "padding": "5 5 5 5",
+    "vertical-align": "middle",
+    "border-radius": "3",
+    "width": "100%"
+  },
+  "profile_shadowbox_textarea_agent": {
+    "background-color": "#ffffff",
+    "padding": "5 5 5 5",
+    "vertical-align": "top",
+    "border-radius": "3",
+    "width": "100%"
+  },
+  "rentals_shadow_box": {
+    "margin": "5 10 5 10",
+    "shadow-radius": "2",
+    "shadow-offset": "0 1",
+    "shadow-color": "#33000000"
+  },
+  "profile_chat_btn": {
+    "background-color": "#1a1b36",
+    "border-radius": "3",
+    "shadow-color": "#c0c0c0",
+    "shadow-radius": "1",
+    "shadow-offset": "0 1",
+    "margin": "10 10 10 10",
+    "padding": "8 20 8 20"
+  },
+  "psbox_text": {
+    "font-size": "14",
+    "color": "#999999",
+    "floating": "1",
+    "float": "right"
+  },
+  "psbox_textarea": {
+    "font-size": "13",
+    "color": "#999999"
+  },
+  "psbox_title": {
+    "font-size": "14",
+    "font-weight": "bold",
+    "color": "#6B6B6B"
+  },
+  "profile_info_fields": {
+    "font-size": "13",
+    "text-align": "center",
+    "padding": "10 10 10 10"
+  },
+  "register_button": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#50ca50",
+    "alignment": "center",
+    "color": "#ffffff",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 5 53"
+  },
+  "register_field_error": {
+    "font-size": "12",
+    "font-style": "italic",
+    "background-color": "#f1c6c6",
+    "alignment": "center",
+    "color": "#474747",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 0 53"
+  },
+  "recipe_text_box_title": {
+    "font-size": "12",
+    "font-style": "italic",
+    "alignment": "center",
+    "color": "#474747",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 0 53"
+  },
+  "register_field_error_text": {
+    "font-size": "12",
+    "font-style": "italic",
+    "alignment": "center",
+    "color": "#df1c1c",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 0 53"
+  },
+  "report-user-button": {
+    "font-size": "12",
+    "text-align": "center",
+    "color": "#a6a6a6",
+    "border-color": "#a6a6a6",
+    "padding": "5 4 5 4",
+    "margin": "10 20 10 20"
+  },
+  "register_fb_image": {
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "53 53 0 53"
+  },
+  "register_menu": {
+    "margin": "10 0 10 0"
+  },
+  "register_menu_2": {
+    "margin": "7 0 10 0"
+  },
+  "rentit-submit-button-profile": {
+    "font-size": "18",
+    "font-weight": "bold",
+    "color": "#ffffff",
+    "background-color": "#6bc568",
+    "text-align": "center",
+    "padding": "19 15 19 15"
+  }
+}

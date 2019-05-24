@@ -1,0 +1,25 @@
+<?php
+
+$variables = array(
+    'example_variable',
+    'propertypic',
+    'propertypic2',
+    'propertypic3',
+    'propertypic4',
+    'propertypic5',
+    'propertypic6',
+    'residence_status',
+    'family_situation',
+    'additional_info',
+    'branch_name',
+    'website',
+    'country_code',
+    'postcode',
+    'country',
+    'first_name',
+    'surname',
+    'title',
+    'area_settings',
+    'price_settings',
+    'filter_role',
+);

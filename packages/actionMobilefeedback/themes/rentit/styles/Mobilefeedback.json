@@ -1,0 +1,25 @@
+{
+  "rentit_feedback_title": {
+    "font-size": "16",
+    "color": "#333333",
+    "padding": "4 4 4 4",
+    "margin": "10 10 10 10"
+  },
+  "rentit_feedback_error": {
+    "font-size": "16",
+    "text-align": "center",
+    "color": "#FF0000",
+    "padding": "4 4 4 4"
+  },
+  "rentit_feedback_input_row": {
+    "margin": "10 10 0 10",
+    "background-color": "#FFFFFF",
+    "shadow-color": "#33000000",
+    "shadow-radius": 1,
+    "shadow-offset": "0 1",
+    "border-radius": "3",
+    "width": "auto",
+    "height": "40",
+    "vertical-align": "middle"
+  }
+}

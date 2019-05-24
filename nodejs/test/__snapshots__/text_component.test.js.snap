@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Component Creates a Text component that matches the snapshot 1`] = `
+Object {
+  "content": "test text",
+  "onclick": Object {
+    "action": "submit-form-content",
+    "id": "test",
+  },
+  "style_content": Object {
+    "color": "#000",
+    "font-size": 14,
+  },
+  "type": "msg-plain",
+}
+`;

@@ -1,0 +1,33 @@
+{
+  "miv_image": {
+    "margin": "0 0 5 0"
+  },
+  "miv_userpic": {
+    "margin": "20 110 10 110"
+  },
+  "miv_date": {
+    "margin": "10 20 10 20",
+    "font-size": "12",
+    "font-style": "italic",
+    "alignment": "left",
+    "text-align": "left",
+    "color": "#474747"
+  },
+  "miv_subject": {
+    "margin": "0 20 0 20",
+    "font-size": "12",
+    "font-style": "normal",
+    "alignment": "left",
+    "text-align": "left",
+    "color": "#000000",
+    "font-weight": "bold"
+  },
+  "miv_comment": {
+    "margin": "0 20 20 20",
+    "font-size": "12",
+    "font-style": "normal",
+    "alignment": "left",
+    "text-align": "left",
+    "color": "#000000"
+  }
+}

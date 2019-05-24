@@ -1,0 +1,89 @@
+{
+  "booking_card": {
+    "background-color": "#1f1f1f",
+    "margin": "10 10 0 10",
+    "border-radius": "3",
+    "font-size": "14"
+  },
+  "booking_card_body": {
+    "width": "auto"
+  },
+  "booking_card_date": {
+    "color": "#ffffff",
+    "font-size": "20",
+    "width": "75%"
+  },
+  "booking_card_price": {
+    "font-weight": "bold",
+    "font-size": "14",
+    "color": "#3ba95d",
+    "width": "25%",
+    "text-align": "right",
+    "floating": "1",
+    "float": "right"
+  },
+  "booking_card_row_wrapper": {
+    "width": "auto",
+    "padding": "15 10 10 10"
+  },
+  "booking_card_row_wrapper_bottom": {
+    "width": "auto",
+    "padding": "5 10 5 10",
+    "margin": "5 0 0 0"
+  },
+  "booking_card_location_button": {
+    "width": "20"
+  },
+  "booking_card_phone_button": {
+    "floating": "1",
+    "float": "right",
+    "width": "20"
+  },
+  "booking_card_image": {
+    "width": "100",
+    "height": "100",
+    "crop": "yes"
+  },
+  "booking_card_view_note_button": {
+    "background-color": "#3d3d3d",
+    "color": "#ffffff",
+    "font-weight": "bold",
+    "padding": "5 10 5 10",
+    "border-radius": "3",
+    "font-size": "14",
+    "floating": "1",
+    "float": "right"
+  },
+  "booking_card_status": {
+    "color": "#767676",
+    "font-size": "14"
+  },
+  "booking_card_button_primary": {
+    "padding": "10 10 10 10",
+    "width": "33.3%",
+    "text-align": "center",
+    "background-color": "#272727",
+    "color": "#3b9556"
+  },
+  "booking_card_button_default": {
+    "padding": "10 10 10 10",
+    "width": "33.3%",
+    "text-align": "center",
+    "background-color": "#272727",
+    "color": "#ffffff"
+  },
+  "booking_card_button_default_full_width": {
+    "padding": "10 10 10 10",
+    "width": "100%",
+    "text-align": "center",
+    "background-color": "#272727",
+    "color": "#ffffff"
+  },
+  "booking_card_button_danger": {
+    "padding": "10 10 10 10",
+    "width": "34%",
+    "text-align": "center",
+    "background-color": "#272727",
+    "color": "#9d4746"
+  }
+}

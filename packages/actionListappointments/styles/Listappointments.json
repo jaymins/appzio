@@ -1,0 +1,107 @@
+{
+   "top_row_main":{
+      "margin":"-155 0 0 0"
+   },
+   "top_row_left":{
+      "width":"50%"
+   },
+   "top_row_left_inner":{
+      "color":"#ffffff",
+      "font-size":"65",
+      "padding":"0 5 0 0",
+      "font-weight":"light",
+      "vertical-align":"middle",
+      "text-align":"right"
+   },
+   "top_row_right":{
+      "width":"50%",
+      "vertical-align":"middle",
+      "color":"#ffffff"
+   },
+   "trri_1":{
+      "color":"#ffffff",
+      "font-size":"20",
+      "font-style":"normal",
+      "font-weight":"light"
+   },
+   "trri_2":{
+      "color":"#ffffff",
+      "font-size":"25",
+      "font-weight":"light"
+
+   },
+   "top_row_sub":{
+      "margin":"10 0 30 0",
+      "text-align":"center",
+      "font-size":"17",
+      "color":"#ffffff",
+      "font-weight":"light"
+   },
+   
+   "main_row_left_even":{
+      "width":"30%",
+      "background-color":"#f5e9eb",
+      "vertical-align":"middle",
+      "color":"#9d2235"
+   },
+   "main_row_left_odd":{ 
+      "width":"30%",
+      "background-color":"#ebd3d6",
+      "vertical-align":"middle",
+      "color":"#9d2235"
+   },
+   "mrl_1":{
+      "color":"#9d2235",
+      "font-size":"45",
+      "font-style":"normal",
+      "text-align":"center",
+      "font-weight":"light"
+   },
+   "mrl_2":{
+      "color":"#9d2235",
+      "font-size":"25",
+      "text-align":"center",
+      "margin":"0 0 0 0",
+      "padding":"0 0 20 0"
+   },
+
+   "main_row_right":{  
+      "width":"70%",
+      "background-color":"#ffffff",
+      "color":"#333333"
+   },
+   "main_row_right_inner":{ 
+      "width":"100%",
+      "margin":"10 10 10 10"
+   },
+   
+   "main_row_right_inner_left":{ 
+      "color":"#666666",
+      "font-weight":"bold",
+      "text-align":"center",
+      "font-size":"15"
+   },
+   "main_row_right_inner_middle":{ 
+      "width":"65%",
+      "color":"#666666",
+      "text-align":"center",
+      "font-size":"15"
+   },
+   "main_row_right_inner_right":{
+      "margin":"5 15 0 0",
+      "text-align":"center"
+   },
+
+   "mrri_1":{ 
+      "color":"#666666",
+      "font-size":"15",
+      "margin":"0 0 0 0",
+      "text-align":"center"
+   },
+   "mrri_2":{
+      "color":"#9d2235",
+      "margin":"0 10 0 10",
+      "font-size":"14",
+      "text-align":"center"
+   }
+}

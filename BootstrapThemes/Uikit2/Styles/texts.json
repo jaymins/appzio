@@ -1,0 +1,52 @@
+{
+  "uikit_information_tile_title": {
+    "text-align": "center",
+    "font-weight": "bold",
+    "font-size": 20,
+    "margin": "0 0 10 0",
+    "color": "#ffffff"
+  },
+  "theme_text_in_form_field": {
+    "color": "#706B6B",
+    "font-size": "15",
+    "padding": "0 0 0 0",
+    "margin": "0 0 0 0"
+  },
+  "theme_big_header": {
+    "text-align": "center",
+    "margin": "20 20 0 20",
+    "font-size": "36",
+    "font-weight": "bold",
+    "color": "#ffffff",
+    "font-ios": "OpenSans-Bold",
+    "font-android": "OpenSans-Bold"
+  },
+  "theme_big_header_left": {
+    "text-align": "left",
+    "margin": "20 20 0 20",
+    "font-size": "36",
+    "font-weight": "bold",
+    "color": "#ffffff",
+    "font-ios": "OpenSans-Bold",
+    "font-android": "OpenSans-Bold"
+  },
+  "theme_form_left_text": {
+    "text-align": "left",
+    "margin": "20 20 0 20",
+    "font-size": "16",
+    "color": "#ffffff",
+    "font-ios": "OpenSans",
+    "font-android": "OpenSans"
+  },
+  "theme_field_error_message": {
+    "color": "#B41C11",
+    "font-size": "12",
+    "margin": "0 20 8 20"
+  },
+  "theme_general_centered_grey_text": {
+    "color": "#787878",
+    "text-align": "center",
+    "margin": "5 20 5 20",
+    "font-size": "14"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "chat-row-msg": {
+    "width": "100%",
+    "text-align": "left",
+    "margin": "0 10 0 10",
+    "vertical-align": "middle"
+  },
+  "chat-row-msg-mine": {
+    "width": "100%",
+    "text-align": "right",
+    "margin": "0 10 0 10",
+    "vertical-align": "middle"
+  },
+  "chat-message-arrow": {
+    "width": "13",
+    "vertical-align": "middle",
+    "text-align": "right"
+  },
+  "chat-date": {
+    "font-size": "9",
+    "color": "#8392a7"
+  },
+  "row-my-chat-date": {
+    "text-align": "right",
+    "vertical-align": "middle",
+    "margin": "3 23 10 10"
+  },
+  "row-user-chat-date": {
+    "text-align": "left",
+    "vertical-align": "middle",
+    "margin": "3 10 10 23"
+  },
+  "chat-msg-text": {
+    "padding": "12 12 12 12",
+    "font-size": "14",
+    "font-style": "normal",
+    "color": "#000000",
+    "vertical-align": "middle"
+  }
+}

@@ -1,0 +1,29 @@
+
+<div class="postercontainer" style="background:#{{color_bg}};color:#{{color_text}}">
+    {{{brief}}}
+
+    <b>{{commentboxtitle}}</b>
+
+    <div class="filebutton" style="background:#{{color_btn}};color:#{{color_btn_text}}"><img src="/images/milky/48/63.png" width="25">add photo</div>
+    {{{form}}}
+    <div class="formsubmitter" style="background:#{{color_btn}};color:#{{color_btn_text}}" onClick="formSubmit();">send</div>
+</div>
+
+
+    <script type="text/javascript">
+        function formSubmit(){
+            document.getElementById("verticalForm").submit();
+        }
+
+    $(document).ready(
+            function()
+            {
+                $('#DiaryModel_msg').redactor({imageUpload: '{{{uploadurl}}}',
+                    imageGetJson: '{{{getimageurl}}}'
+                });
+            }
+    );
+
+
+    </script>
+

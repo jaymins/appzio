@@ -1,0 +1,15 @@
+{
+  "subscription_link": {
+    "margin": "0 40 15 40",
+    "color": "#449ED1",
+    "font-size": "14",
+    "text-align": "center"
+  },
+  "subscription_smalltext": {
+    "margin": "5 17 5 15",
+    "color": "#B2B4B3",
+    "font-size": "12",
+    "font-ios": "Roboto-Italic",
+    "font-android": "Roboto-Italic"
+  }
+}

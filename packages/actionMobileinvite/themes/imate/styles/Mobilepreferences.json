@@ -1,0 +1,17 @@
+{
+
+  "settings_title": {
+    "font-size": "14",
+    "font-style": "normal",
+    "background-color": "#50ca50",
+    "alignment": "center",
+    "color": "#e33124",
+    "font-weight": "bold",
+
+    "border-radius": "7",
+    "padding": "4 4 4 4",
+    "margin": "0 60 20 60"
+  }
+
+
+}

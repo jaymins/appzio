@@ -1,0 +1,19 @@
+/* this css file will be included on the web views
+	note: for email and other communications, you need to use inline css
+ */
+
+
+
+.skew-neg {
+    border: 5px #feff43 solid;
+}
+
+.noticenotice {
+    background: #dfdfdf;
+    border-radius: 10px;
+    padding: 1.5em;
+    font-family: courier;
+    font-weight: bold;
+    border: 2px dashed #9e9e9e;
+    text-align: center;
+}

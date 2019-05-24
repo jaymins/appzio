@@ -1,0 +1,17 @@
+{
+  "uikit_information_tile_title": {
+    "text-align": "center",
+    "font-weight": "bold",
+    "font-size": 24,
+    "margin": "0 0 10 0"
+  },
+  "uikit_information_tile_subtitle": {
+    "text-align": "center",
+    "color": "#9a9fa2",
+    "font-size": "14"
+  },
+  "uikit_information_tile_image": {
+    "width": 40,
+    "margin": "0 0 20 0"
+  }
+}

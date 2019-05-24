@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ExternalComponent Should match a working snapshot 1`] = `
+Object {
+  "component": "getComponentFormFieldText",
+  "content": "",
+  "params": Object {
+    "hint": "First Name",
+  },
+  "style": Object {
+    "background-color": "#ffffff",
+  },
+  "type": "phpComponent",
+}
+`;

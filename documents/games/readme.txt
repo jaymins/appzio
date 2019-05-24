@@ -1,0 +1,1 @@
+This is where all app's resources are saved.

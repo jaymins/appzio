@@ -1,0 +1,53 @@
+/* this css file will be included on the web views
+	note: for email and other communications, you need to use inline css
+ */
+
+.multiselect {
+    background: rgb(21, 125, 251);
+    border: none ! important;
+    box-shadow: none ! important;
+    color: #fff;
+    text-shadow: none ! important;
+    font-family: 'HelveticaNeueThin', 'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'HelveticaNeue', 'Helvetica Neue', 'TeXGyreHerosRegular', 'Arial', sans-serif !important;
+    letter-spacing: 0.05em !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 1.5em;
+}
+
+.green  {
+    background: #00bf52;
+}
+.red  {
+    background: #fb0d29;
+}
+.blue  {
+   background: rgb(21, 125, 251);
+}
+.lightgreen  {
+    background: #0dfb34;
+}
+
+.grey  {
+   background: #6f6d6c;
+}
+
+.asdiv {
+   display: inline-block;
+    padding: 10px 14px;
+    line-height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 4px;
+}
+
+.imgbutt {
+	width: 150px;
+	height: 150px;
+	display:inline-block;	
+	line-height:150px;
+	text-align:center;
+	font-size:30px;
+	overflow:hidden;
+	margin:0px 23px 30px 0px;
+	}

@@ -1,0 +1,22 @@
+{
+  "name": "appzio\/mcalendar",
+  "require": {
+    "appzio\/mcalendar": ">=1.0"
+  },
+  "repositories": [
+    {
+      "url": "https:\/\/github.com\/actions\/mcalendar",
+      "type": "vcs"
+    },
+    {
+      "url": "https:\/\/github.com\/appzio\/action-bootstrap2",
+      "type": "vcs"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require-dev": {
+    "yiisoft\/yii": "1.1.*",
+    "appzio\/mcalendar": ">=1.0.0",
+    "appzio\/action-bootstrap2": ">=1.5"
+  }
+}

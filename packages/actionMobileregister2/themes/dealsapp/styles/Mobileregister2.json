@@ -1,0 +1,43 @@
+{
+  "field-with-icon": {
+    "height": "45",
+    "margin": "10 10 0 10",
+    "vertical-align": "middle",
+    "background-color": "#ffffff",
+    "border-radius": "4",
+    "border-color": "#333333",
+    "border-width": "1"
+  },
+  "register_field": {
+    "font-size": "12",
+    "padding": "10 5 10 5",
+    "color": "#000000"
+  },
+  "reg-heading-text": {
+    "font-size": "13",
+    "margin": "20 10 10 10",
+    "color": "#333333",
+    "text-align": "center"
+  },
+  "ui_register_field_error": {
+    "font-size": "11",
+    "font-style": "italic",
+    "text-align": "left",
+    "color": "#d10000",
+    "margin": "0 5 0 5"
+  },
+  "register_menu" : {
+    "margin": "10 0 10 0"
+  },
+  "register-button" : {
+    "background-color": "#ffffff",
+    "border-width": "1",
+    "border-radius": "4",
+    "border-color": "#333333",
+    "margin": "10 10 10 10",
+    "font-size": "17",
+    "height": "40",
+    "text-align": "center",
+    "vertical-align": "middle"
+  }
+}

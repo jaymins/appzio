@@ -1,0 +1,292 @@
+{
+  "menus": {
+    "usergroups-user": {
+      "label": "Users",
+      "icon": "user-o",
+      "url": [
+        "/users/usergroups-user"
+      ]
+    },
+    "articles": {
+      "label": "Articles",
+      "icon": "eye",
+      "url": [
+        "/articles/ae-ext-article"
+      ],
+      "items": {
+        "article-images": {
+          "label": "Article Images",
+          "icon": "file-photo-o",
+          "url": [
+            "/articles/ae-ext-article-photo"
+          ]
+        },
+        "article-styles": {
+          "label": "Article Styles",
+          "icon": "free-code-camp",
+          "url": [
+            "/articles/ae-ext-article-template/"
+          ]
+        }
+      }
+    },
+
+
+    "purchases": {
+      "label": "Purchases",
+      "icon": "cart-plus",
+      "url": [
+        "/fitness/ae-ext-purchase"
+      ],
+      "items": {
+        "article-images": {
+          "label": "Products",
+          "icon": "briefcase",
+          "url": [
+            "/fitness/ae-ext-purchase-product"
+          ]
+        },
+        "article-styles": {
+          "label": "Purchases",
+          "icon": "trophy",
+          "url": [
+            "/fitness/ae-ext-purchase"
+          ]
+        }
+      }
+    },
+
+
+    "forum": {
+      "label": "Forum",
+      "icon": "user-o",
+      "url": [
+        "/items/ae-ext-item"
+      ],
+      "items": {
+        "article-images": {
+          "label": "Posts",
+          "icon": "briefcase",
+          "url": [
+            "/items/ae-ext-item"
+          ]
+        },
+        "article-styles": {
+          "label": "Reports",
+          "icon": "trophy",
+          "url": [
+            "/tatjack/ae-ext-items-report"
+          ]
+        },
+        "user-categories": {
+          "label": "Categories",
+          "icon": "folder",
+          "url": [
+            "/items/ae-ext-items-category"
+          ]
+        }
+      }
+    },
+
+    "registration": {
+      "label": "Registration",
+      "icon": "user-o",
+      "url": [
+        "/registration/ae-ext-mregister-company"
+      ],
+      "items": {
+        "article-images": {
+          "label": "Companies",
+          "icon": "briefcase",
+          "url": [
+            "/registration/ae-ext-mregister-company"
+          ]
+        },
+        "article-styles": {
+          "label": "Users",
+          "icon": "trophy",
+          "url": [
+            "/registration/ae-ext-mregister-companies-user"
+          ]
+        }
+      }
+    },
+
+
+
+    "programs": {
+      "label": "Programs",
+      "icon": "user-md",
+      "url": [
+        "/fitness/ae-ext-fit-program"
+      ],
+      "items": {
+        "programs-categories": {
+          "label": "Program Categories",
+          "icon": "list-ul",
+          "url": [
+            "/fitness/ae-ext-fit-program-category"
+          ]
+        },
+        "programs-sub-categories": {
+          "label": "Subcategories",
+          "icon": "list-ul",
+          "url": [
+            "/fitness/ae-ext-fit-program-subcategory"
+          ]
+        }
+
+      }
+    },
+    "exercises": {
+      "label": "Exercises",
+      "icon": "user-circle",
+      "url": [
+        "/fitness/ae-ext-fit-exercise"
+      ],
+      "items": {
+        "components": {
+          "label": "Components",
+          "icon": "paw",
+          "url": [
+            "/fitness/ae-ext-fit-component"
+          ]
+        },
+        "movements": {
+          "label": "Movements",
+          "icon": "paw",
+          "url": [
+            "/fitness/ae-ext-fit-movement"
+          ]
+        },
+        "personalrecord": {
+          "label": "Personal record",
+          "icon": "paw",
+          "url": [
+            "/fitness/ae-ext-fit-pr"
+          ]
+        }
+      }
+    },
+    "recipe": {
+      "label": "Recipes",
+      "icon": "apple",
+      "url": [
+        "/fitness/ae-ext-food-recipe"
+      ],
+      "items": {
+        "recipe-types": {
+          "label": "Recipe Types",
+          "icon": "folder",
+          "url": [
+            "/fitness/ae-ext-food-recipe-type"
+          ]
+        },
+        "recipe-steps": {
+          "label": "Recipe Steps",
+          "icon": "list-alt",
+          "url": [
+            "/fitness/ae-ext-food-recipe-step"
+          ]
+        },
+        "ingredients": {
+          "label": "Ingredients",
+          "icon": "apple",
+          "url": [
+            "/fitness/ae-ext-food-ingredient"
+          ]
+        },
+        "ingredient-categories": {
+          "label": "Ingredient Categories",
+          "icon": "folder",
+          "url": [
+            "/fitness/ae-ext-food-ingredient-category"
+          ]
+        }
+      }
+    },
+    "surveys": {
+      "label": "Surveys",
+      "icon": "user-circle",
+      "url": [
+        "/quizzes/ae-ext-quiz"
+      ],
+      "items": {
+        "ae-ext-quiz": {
+          "label": "Surveys",
+          "icon": "list",
+          "url": [
+            "/quizzes/ae-ext-quiz"
+          ]
+        },
+        "ae-ext-quiz-question": {
+          "label": "Survey Questions",
+          "icon": "list-ol",
+          "url": [
+            "/quizzes/ae-ext-quiz-question"
+          ]
+        },
+        "ae-ext-quiz-answers": {
+          "label": "Survey Answers",
+          "icon": "list-ol",
+          "url": [
+            "/quizzes/ae-ext-quiz-question-answer"
+          ]
+        }
+
+      }
+    }
+
+  },
+  "filter_vars": {
+    "name": {
+      "label": "Name",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "email": {
+      "label": "Email",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "gender": {
+      "label": "Gender",
+      "type": "select",
+      "match": "exact_match",
+      "values": [
+        "",
+        "man",
+        "woman",
+        "male",
+        "female"
+      ],
+      "location": "variables"
+    },
+    "reg_phase": {
+      "label": "Registration Status",
+      "type": "select",
+      "match": "reg_options",
+      "values": [
+        "",
+        "complete",
+        "not complete"
+      ],
+      "location": "variables"
+    },
+    "flag": {
+      "label": "Reported",
+      "type": "select",
+      "match": "matching_options",
+      "values": [
+        "",
+        "yes",
+        "no"
+      ],
+      "location": "mobilematching"
+    }
+  },
+  "upload_path": "/var/www/app.appzio.com/app/documents/games/7/user_original_images/",
+  "upload_url": "https://swiss8.appzio.com/documents/games/7/user_original_images/"
+}

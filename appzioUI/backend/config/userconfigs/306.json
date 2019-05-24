@@ -1,0 +1,102 @@
+{
+  "menus": {
+    "usergroups-user": {
+      "label": "Users",
+      "icon": "user-o",
+      "url": [
+        "/users/usergroups-user"
+      ]
+    },
+    "ae-ext-golf-hole": {
+      "label": "Golf Hole",
+      "icon": "dot-circle-o",
+      "url": [
+        "/golf/ae-ext-golf-hole"
+      ]
+    },
+    "ae-ext-golf-hole-user": {
+      "label": "Golf hole user",
+      "icon": "dot-circle-o",
+      "url": [
+        "/golf/ae-ext-golf-hole-user"
+      ]
+    },
+    "ae-ext-mobileevent": {
+      "label": "Mobile events",
+      "icon": "calendar-check-o",
+      "url": [
+        "/golf/ae-ext-mobileevent"
+      ]
+    },
+    "ae-ext-mobileevents-participant": {
+      "label": "Mobile events participants",
+      "icon": "calendar-check-o",
+      "url": [
+        "/golf/ae-ext-mobileevents-participant"
+      ]
+    },
+    "ae-ext-mobileplace": {
+      "label": "Mobile places",
+      "icon": "map-marker",
+      "url": [
+        "/golf/ae-ext-mobileplace"
+      ]
+    },
+    "ae-location-log": {
+      "label": "Location Log",
+      "icon": "map-marker",
+      "url": [
+        "/golf/ae-location-log"
+      ]
+    }
+  },
+  "filter_vars": {
+    "name": {
+      "label": "Name",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "email": {
+      "label": "Email",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "gender": {
+      "label": "Gender",
+      "type": "select",
+      "match": "exact_match",
+      "values": [
+        "",
+        "man",
+        "woman",
+        "male",
+        "female"
+      ],
+      "location": "variables"
+    },
+    "reg_phase": {
+      "label": "Registration Status",
+      "type": "select",
+      "match": "reg_options",
+      "values": [
+        "",
+        "complete",
+        "not complete"
+      ],
+      "location": "variables"
+    },
+    "flag": {
+      "label": "Reported",
+      "type": "select",
+      "match": "matching_options",
+      "values": [
+        "",
+        "yes",
+        "no"
+      ],
+      "location": "mobilematching"
+    }
+  }
+}

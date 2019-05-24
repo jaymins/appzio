@@ -1,0 +1,102 @@
+{
+  "mreg_divider": {
+    "height": "1",
+    "background-color": "#CDD0D0",
+    "width": "100%",
+    "opacity": "0.5"
+  },
+  "settings_summary_header": {
+    "padding": "10 0 10 20",
+    "font-size": "14",
+    "color": "#B2B4B3",
+    "background-color": "#f6f7f9"
+  },
+  "settings_summary_header_spacer": {
+    "background-color": "#E4E7E9",
+    "height": "1"
+  },
+  "settings_summarybox": {
+    "margin": "0 0 0 0"
+  },
+  "uset_fieldtext": {
+    "padding": "15 20 15 20",
+    "margin": "0 0 0 0",
+    "font-size": "18",
+    "width": "100%",
+    "color": "#FFFFFF",
+    "background-color": "#0c0c0c",
+    "cursor-color": "#ffffff"
+  },
+  "settings_summary_content": {
+    "margin": "0 20 0 20"
+  },
+  "steps_btn_bot_yes": {
+    "margin": "40 0 0 0",
+    "background-color": "#FFCC00",
+    "padding": "10 20 10 20",
+    "text-align": "center",
+    "font-weight": "Bold",
+    "color": "#000000",
+    "width": "50%"
+  },
+  "steps_btn_bot_no": {
+    "margin": "40 0 0 0",
+    "background-color": "#003499",
+    "padding": "10 20 10 20",
+    "text-align": "center",
+    "color": "#ffffff",
+    "width": "50%"
+  },
+  "pref_field": {
+    "text-align": "left",
+    "font-size": "14",
+    "color": "#ffffff",
+    "cursor-color": "#ffffff",
+    "background-color": "#2d2d2d",
+    "padding": "10 5 10 10"
+  },
+  "pref_field_textarea": {
+    "text-align": "left",
+    "font-size": "14",
+    "color": "#ffffff",
+    "cursor-color": "#ffffff",
+    "background-color": "#2d2d2d",
+    "padding": "10 5 10 10"
+  },
+  "pref_hint": {
+    "text-align": "left",
+    "font-size": "12",
+    "margin": "15 10 0 10",
+    "padding": "0 0 5 0",
+    "color": "#777777"
+  },
+  "pref_field_status": {
+    "text-align": "left",
+    "font-size": "14",
+    "color": "#ffffff",
+    "cursor-color": "#ffffff",
+    "background-color": "#2d2d2d",
+    "padding": "10 5 10 10",
+    "width": "90%"
+  },
+  "pref_info_arrow": {
+    "width": "10",
+    "floating": "1",
+    "float": "right",
+    "margin": "0 15 0 0"
+  },
+  "jam_pref_checkbox_text": {
+    "text-align": "left",
+    "font-size": "22",
+    "color": "#858585",
+    "width": "85%",
+    "margin": "0 0 0 20",
+    "vartical-align": "middle"
+  },
+  "user_list_info_location": {
+    "vertical-align": "middle",
+    "color": "#FFCC00",
+    "margin": "5 0 0 5",
+    "font-size": "16"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "booking_button": {
+    "background-color": "#ea8041",
+    "text-align": "center",
+    "color": "#ffffff",
+    "padding": "20 0 20 0",
+    "font-weight": "bold",
+    "marign": "10 10 10 10",
+    "border-radius": "3",
+    "width": "95%"
+  },
+  "booking_notes_field": {
+    "margin": "10 10 10 10",
+    "background-color": "#444444",
+    "padding": "10 10 10 10",
+    "color": "#ffffff",
+    "border-radius": "3"
+  },
+  "akit_calendar_hint": {
+    "color": "#000000",
+    "text-align": "left",
+    "font-size": "12",
+    "margin": "0 0 0 0",
+    "padding": "0 0 0 0"
+  },
+  "akit_calendar_field": {
+    "color": "#ffffff"
+  },
+  "akit_calendar_field_wrapper": {
+    "margin": "8 10 8 10",
+    "vertical-align": "middle"
+  },
+  "akit_calendar_divider": {
+    "height": "1",
+    "background-color": "#E4E7E9",
+    "margin": "2 10 5 10"
+  },
+  "akit_double_selector_hint":{
+    "color": "#000000",
+    "text-align": "left",
+    "font-size": "12",
+    "margin": "0 0 0 0",
+    "padding": "0 0 0 0"
+  },
+  "akit_double_selector_field": {
+    "color": "#ffffff"
+  },
+  "akit_calendar_double_selector_field_wrapper": {
+    "margin": "0 10 0 10",
+    "vertical-align": "middle"
+  },
+  "akit_double_selector_divider": {
+    "height": "1",
+    "background-color": "#E4E7E9",
+    "margin": "2 10 5 10"
+  },
+  "akit_double_selector_field_list": {
+    "text-align": "center",
+    "width": "50%",
+    "color": "#FFFFFF"
+  },
+  "booking_tab": {
+    "background-color": "#1b1b1b",
+    "padding": "10 20 10 20",
+    "width": "50%",
+    "text-align": "center",
+    "color": "#ea8041"
+  },
+  "booking_tab_active": {
+    "background-color": "#ffffff",
+    "padding": "10 20 10 20",
+    "width": "50%",
+    "text-align": "center",
+    "color": "#ea8041"
+  },
+  "booktab": {
+    "background-color": "#ffffff",
+    "text-align": "center",
+    "color": "#9c9b9b",
+    "padding": "10 20 10 20",
+    "font-size":"12",
+    "width":"25%"
+  },
+  "booktab_active": {
+    "background-color": "#ffffff",
+    "text-align": "center",
+    "color": "#000000",
+    "padding": "10 20 10 20",
+    "font-size":"12",
+    "width":"25%"
+  },
+  "btab":{
+    "font-size":"12",
+    "padding":"10 0 10 0",
+    "border-color":"#dedede",
+    "width":"25%",
+    "text-align":"center",
+    "color":"#9c9b9b"
+  },
+  "btab_active":{
+    "font-size":"12",
+    "padding":"10 0 10 0",
+    "border-color":"#f9bb32",
+    "width":"25%",
+    "text-align":"center",
+    "color":"#000000"
+  },
+  "booking_tabs": {
+    "width": "100%"
+  },
+  "booking_information_text": {
+    "color": "#ffffff",
+    "text-align": "center",
+    "margin": "20 0 0 0",
+    "font-size": "18"
+  },
+  "booking_note_div": {
+    "background-color": "#343434",
+    "padding": "20 20 20 20",
+    "color": "#ffffff",
+    "font-size": "18",
+    "border-radius": "3"
+  },
+  "akit_double_selector_icon": {
+    "width": "15",
+    "height": "15",
+    "margin": "10 20 0 30"
+  },
+  "akit_calendar_icon": {
+    "width": "15",
+    "height": "15",
+    "margin": "10 20 0 30"
+  },
+  "booking_submit_button_wrapper": {
+    "width": "100%",
+    "text-align": "center",
+    "padding": "0 0 10 0",
+    "height": "50"
+  }
+}

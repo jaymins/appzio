@@ -1,0 +1,7 @@
+{
+    "name": "appzio/action-bootstrap2",
+    "minimum-stability": "dev",
+    "require-dev": {
+    	"yiisoft/yii": "1.1.*"
+    }
+}

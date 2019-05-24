@@ -1,0 +1,77 @@
+{
+  "mwb-feedback-title": {
+    "font-size": "16",
+    "font-style": "normal",
+    "text-align": "center",
+    "color": "#ffffff",
+    "padding": "4 4 4 4",
+    "margin": "20 30 20 30"
+  },
+  "mwb-feedback-error": {
+    "font-size": "13",
+    "text-align": "center",
+    "color": "#de7575",
+    "padding": "2 4 2 4",
+    "margin": "4 30 4 30"
+  },
+  "mwb-feedback-submit-review":{
+      "border-width":"1",
+      "border-radius":"10",
+      "border-color":"#dfdfdf",
+      "background-color":"#ffffff",
+      "font-size":"15",
+      "height":"150",
+      "color":"#8C8C8C",
+      "margin": "10 15 10 15",
+      "padding":"10 10 10 10",
+      "vertical-align":"top",
+      "text-align":"left"
+  },
+  "mwb-feedback-submit-review-error":{
+      "border-width":"1",
+      "border-radius":"10",
+      "border-color":"#de7575",
+      "background-color":"#ffffff",
+      "font-size":"15",
+      "height":"150",
+      "color":"#292021",
+      "margin": "10 15 10 15",
+      "padding":"10 10 10 10",
+      "vertical-align":"top",
+      "text-align":"left"
+  },
+  "mwb-feedback-field":{
+    "border-width":"1",
+    "border-radius":"10",
+    "border-color":"#dfdfdf",
+    "background-color":"#ffffff",
+    "font-size":"15",
+    "color":"#8C8C8C",
+    "margin": "10 15 10 15",
+    "padding":"10 10 10 10"
+  },
+  "mwb-feedback-field-error":{
+    "border-width":"1",
+    "border-radius":"10",
+    "border-color":"#de7575",
+    "background-color":"#ffffff",
+    "font-size":"15",
+    "color":"#292021",
+    "margin": "10 15 10 15",
+    "padding":"10 10 10 10"
+  },
+  "mwb-feedback-button": {
+    "border-radius": "20",
+    "text-align": "center",
+    "padding": "12 0 12 0",
+    "font-size": "16",
+    "width": "70%",
+    "color": "#ffffff",
+    "background-color": "#2930DD"
+  },
+  "mwb-feedback-button-container": {
+    "text-align": "center",
+    "vertical-align": "middle",
+    "margin": "0 0 15 0"
+  }
+}

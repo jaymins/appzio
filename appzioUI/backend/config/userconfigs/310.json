@@ -1,0 +1,69 @@
+{
+  "menus": {
+    "usergroups-user": {
+      "label": "Users",
+      "icon": "user-o",
+      "url": [
+        "/users/usergroups-user"
+      ]
+    }
+  },
+  "filter_vars": {
+    "name": {
+      "label": "Name",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "email": {
+      "label": "Email",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "reg_phase": {
+      "label": "Registration Status",
+      "type": "select",
+      "match": "reg_options",
+      "values": [
+        "",
+        "complete",
+        "not complete"
+      ],
+      "location": "variables"
+    },
+    "flag": {
+      "label": "Reported",
+      "type": "select",
+      "match": "matching_options",
+      "values": [
+        "",
+        "yes",
+        "no"
+      ],
+      "location": "mobilematching"
+    },
+    "role": {
+      "label": "Role",
+      "type": "select",
+      "match": "exact_match",
+      "values": [
+        "",
+        "influencer",
+        "brand"
+      ],
+      "location": "variables"
+    },
+    "user_approved": {
+      "label": "User Approved",
+      "type": "select",
+      "match": "approved_options",
+      "values": [
+        "",
+        "yes",
+        "no"
+      ],
+      "location": "variables"
+    }
+  }
+}

@@ -1,0 +1,3 @@
+[submodule "modules/example"]
+	path = modules/example
+	url = git@git.appzio.com:actions/nodeexample.git

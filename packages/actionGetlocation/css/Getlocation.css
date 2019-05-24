@@ -1,0 +1,28 @@
+/* this css file will be included on the web views
+	note: for email and other communications, you need to use inline css
+ */
+
+.control-label {
+    display:none !important;
+}
+
+.controls textarea {
+    width: 100%;
+    margin: 0;
+    height: 200px;
+    padding: 0;
+}
+
+.control-group{
+    padding: 0;
+    margin: 0;
+}
+
+.controls {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.skip {
+margin-top: -220px;
+margin-left: -14px !important;
+}

@@ -1,0 +1,182 @@
+{
+  "menus": {
+    "usergroups-user": {
+      "label": "Users",
+      "icon": "user-o",
+      "url": [
+        "/users/usergroups-user"
+      ]
+    },
+    "articles": {
+      "label": "Articles",
+      "icon": "user-o",
+      "url": [
+        "/articles/ae-ext-article"
+      ],
+      "items": {
+        "article-images": {
+          "label": "Article Images",
+          "icon": "user-o",
+          "url": [
+            "/articles/ae-ext-article-photo"
+          ]
+        },
+        "article-templates": {
+          "label": "Article Templates",
+          "icon": "user-o",
+          "url": [
+            "/articles/ae-ext-article-template"
+          ]
+        }
+      }
+    },
+    "programs": {
+      "label": "Programs",
+      "icon": "user-md",
+      "url": [
+        "/fitness/ae-ext-fit-program"
+      ],
+      "items": {
+        "programs-categories": {
+          "label": "Program Categories",
+          "icon": "list-ul",
+          "url": [
+            "/fitness/ae-ext-fit-program-category"
+          ]
+        }
+      }
+    },
+    "exercises": {
+      "label": "Workouts",
+      "icon": "user-circle",
+      "url": [
+        "/fitness/ae-ext-fit-exercise"
+      ],
+      "items": {
+        "movement-categories": {
+          "label": "Components",
+          "icon": "list-ul",
+          "url": [
+            "/fitness/ae-ext-fit-movement-category"
+          ]
+        },
+        "movements": {
+          "label": "Movements",
+          "icon": "paw",
+          "url": [
+            "/fitness/ae-ext-fit-movement"
+          ]
+        }
+      }
+    },
+    "recipe": {
+      "label": "Recipes",
+      "icon": "apple",
+      "url": [
+        "/fitness/ae-ext-food-recipe"
+      ],
+      "items": {
+        "recipe-types": {
+          "label": "Recipe Types",
+          "icon": "folder",
+          "url": [
+            "/fitness/ae-ext-food-recipe-type"
+          ]
+        },
+        "recipe-steps": {
+          "label": "Recipe Steps",
+          "icon": "list-alt",
+          "url": [
+            "/fitness/ae-ext-food-recipe-step"
+          ]
+        },
+        "ingredients": {
+          "label": "Ingredients",
+          "icon": "apple",
+          "url": [
+            "/fitness/ae-ext-food-ingredient"
+          ]
+        },
+        "ingredient-categories": {
+          "label": "Ingredient Categories",
+          "icon": "folder",
+          "url": [
+            "/fitness/ae-ext-food-ingredient-category"
+          ]
+        }
+      }
+    },
+    "user-categories": {
+      "label": "User Categories",
+      "icon": "folder",
+      "url": [
+        "/items/ae-ext-items-category"
+      ]
+    },
+    "ae-ext-quiz": {
+      "label": "Quizzes",
+      "icon": "list",
+      "url": [
+        "/quizzes/ae-ext-quiz"
+      ]
+    },
+    "ae-ext-quiz-question": {
+      "label": "Quiz Questions",
+      "icon": "list-ol",
+      "url": [
+        "/quizzes/ae-ext-quiz-question"
+      ]
+    }
+  },
+  "filter_vars": {
+    "name": {
+      "label": "Name",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "email": {
+      "label": "Email",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "gender": {
+      "label": "Gender",
+      "type": "select",
+      "match": "exact_match",
+      "values": [
+        "",
+        "man",
+        "woman",
+        "male",
+        "female"
+      ],
+      "location": "variables"
+    },
+    "reg_phase": {
+      "label": "Registration Status",
+      "type": "select",
+      "match": "reg_options",
+      "values": [
+        "",
+        "complete",
+        "not complete"
+      ],
+      "location": "variables"
+    },
+    "flag": {
+      "label": "Reported",
+      "type": "select",
+      "match": "matching_options",
+      "values": [
+        "",
+        "yes",
+        "no"
+      ],
+      "location": "mobilematching"
+    }
+  },
+  "upload_path": "C:\\xampp\\htdocs\\appzio-platform\\app\\documents\\games\\22\\user_original_images\\",
+  "upload_url": "http://ae.com/documents/games/22/user_original_images/"
+}

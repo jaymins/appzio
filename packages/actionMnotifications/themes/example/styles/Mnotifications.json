@@ -1,0 +1,44 @@
+{
+
+  "notification_image": {
+    "crop" :"round",
+    "height": "40",
+    "width": "40",
+    "margin": "0 10 0 20"
+  },
+
+  "notification_icon": {
+    "height": "30",
+    "width": "30",
+    "margin": "0 20 0 10"
+  },
+
+  "notification_title":{
+    "font-size": "14",
+    "width": "70%"
+  },
+
+  "notification_date": {
+    "font-size": "14",
+    "color": "#B2B4B3"
+  },
+
+  "notification_row": {
+    "vertical-align": "middle",
+    "margin": "15 0 15 0"
+  },
+
+  "notification_row_read": {
+    "vertical-align": "middle",
+    "margin": "15 0 15 0",
+    "opacity": "0.5"
+  },
+
+  "notification_divider": {
+    "background-color": "#C8CAC9",
+    "height": "1",
+    "width": "100%"
+  }
+
+
+}

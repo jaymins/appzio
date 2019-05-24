@@ -1,0 +1,109 @@
+/* this css file will be included on the web views
+	note: for email and other communications, you need to use inline css
+ */
+
+.control-label {
+    display:inline-block;
+}
+
+.controls textarea {
+    width: 100%;
+    margin: 0;
+    height: 200px;
+    padding: 0;
+}
+
+.control-group{
+    padding: 0;
+    margin: 0;
+}
+
+.controls {
+    padding: 0;
+    margin: 0;
+}
+
+.profile .form-actions {
+    text-align: left;
+    float: left;
+    padding: 0;
+    margin-bottom: 20px;
+    padding-bottom: 30px;
+    display: block;
+}
+
+.taskcontent {
+    margin-bottom: 60px !important;
+}
+
+.profile .control-label {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 16px;
+    font-family: 'HelveticaNeueThin', 'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'HelveticaNeue', 'Helvetica Neue', 'TeXGyreHerosRegular', 'Arial', sans-serif;
+    font-size: 1.4em;
+}
+
+.profile input {
+    font-family: 'HelveticaNeueThin', 'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'HelveticaNeue', 'Helvetica Neue', 'TeXGyreHerosRegular', 'Arial', sans-serif;
+    font-size: 1.4em;
+    letter-spacing: 0.1em;
+
+}
+
+.profile .help-inline {
+    font-family: 'HelveticaNeueThin', 'HelveticaNeue-Thin', 'Helvetica Neue Thin', 'HelveticaNeue', 'Helvetica Neue', 'TeXGyreHerosRegular', 'Arial', sans-serif;
+    font-size: 1.4em;
+
+    }
+
+.profile .checkbox label {
+    width: 100%;
+    font-size: 1.4em;
+    line-height: 1.6em;
+}
+
+.profile .checkbox input {
+    width: 30px;
+    height: 30px;
+    line-height: 1.6em;
+    margin-right: 8px;
+}
+
+
+.profile .checkbox input[type="checkbox"]:checked {
+    border: 1px solid #000;
+}
+
+.profilemessagebox {
+    height: 100%;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    width: 100%;
+    border-bottom: 4px dotted #eaeaea;
+    font-size: 1.4em !important;
+}
+
+.profilemessagebox iframe {
+    width: 100%;
+}
+
+.profilemessagebox p iframe {
+    width: 100%;
+}
+
+.social-login-buttons {
+    text-align: left;
+    clear: both;
+}
+
+.social-login-buttons a {
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    padding: 8px 15px;
+    margin: 0 3px;
+}
+
+.social-login-buttons .facebook_login { }
+.social-login-buttons .twitter_login { }

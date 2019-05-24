@@ -1,0 +1,51 @@
+{
+  "uikit_item_card_half_row_image": {
+    "width": "150",
+    "height": "150",
+    "border-color": "#f5f6f5",
+    "border-width": "10",
+    "crop": "yes"
+  },
+  "uikit_item_card_half_row_image_row": {
+    "width": "auto",
+    "text-align": "center"
+  },
+  "uikit_item_card_half_row_info": {
+    "color": "#787777",
+    "font-size": "9",
+    "text-align": "center",
+    "width": "auto",
+    "padding": "3 5 3 5"
+  },
+  "uikit_item_card_half_row_user_pic": {
+    "width": "20",
+    "crop": "round",
+    "margin": "0 0 0 5"
+  },
+  "uikit_item_card_half_row_user_name": {
+    "color": "#787777",
+    "margin": "0 0 0 5"
+  },
+  "uikit_item_card_half_row_title": {
+    "color": "#000000",
+    "font-size": "20",
+    "text-align": "center",
+    "width": "auto"
+  },
+  "uikit_item_card_half_row_date": {
+    "color": "#787777",
+    "font-size": "18",
+    "text-align": "center",
+    "width": "auto"
+  },
+  "uikit_item_card_half_row_time": {
+    "color": "#f9bb32",
+    "font-size": "24",
+    "text-align": "center",
+    "width": "auto"
+  },
+  "uikit_item_card_half_row_container": {
+    "width": "50%",
+    "text-align": "center"
+  }
+}

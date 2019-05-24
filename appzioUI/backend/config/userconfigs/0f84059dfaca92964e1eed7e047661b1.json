@@ -1,0 +1,88 @@
+{
+  "menus": {
+    "usergroups-user": {
+      "label": "Users",
+      "icon": "user-o",
+      "url": [
+        "/users/usergroups-user"
+      ]
+    },
+    "ae-ext-mobileplace": {
+      "label": "Places",
+      "icon": "user-o",
+      "url": [
+        "/places/ae-ext-mobileplace"
+      ]
+    },
+    "ae-ext-club-news": {
+      "label": "Club News",
+      "icon": "user-o",
+      "url": [
+        "/places/ae-ext-club-news"
+      ]
+    }
+  },
+  "filter_vars": {
+    "real_name": {
+      "label": "Name",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "email": {
+      "label": "Email",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "gender": {
+      "label": "Gender",
+      "type": "select",
+      "match": "exact_match",
+      "values": [
+        "",
+        "man",
+        "woman",
+        "male",
+        "female"
+      ],
+      "location": "variables"
+    },
+    "club_code": {
+      "label": "Club",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "role": {
+      "label": "Role",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "reg_phase": {
+      "label": "Registration Status",
+      "type": "select",
+      "match": "reg_options",
+      "values": [
+        "",
+        "complete",
+        "not complete"
+      ],
+      "location": "variables"
+    },
+    "flag": {
+      "label": "Reported",
+      "type": "select",
+      "match": "matching_options",
+      "values": [
+        "",
+        "yes",
+        "no"
+      ],
+      "location": "mobilematching"
+    }
+  },
+  "upload_path": "/var/www/app.appzio.com/app/documents/games/1/user_original_images/",
+  "upload_url": "https://meetin.appzio.com/documents/games/1/user_original_images/"
+}

@@ -1,0 +1,37 @@
+{
+  "settings_title": {
+    "font-size": "16",
+    "font-style": "normal",
+    "text-align": "center",
+    "color": "#333333",
+    "font-weight": "bold",
+
+    "padding": "4 4 4 4",
+    "margin": "10 30 10 30"
+  },
+  "row-divider-preferences": {
+    "height": "1",
+    "margin": "0 30 10 30",
+    "background-color": "#dfdfdf"
+  },
+  "profile-field-label": {
+    "font-style" : "normal",
+    "font-size" : "14",
+    "text-align" : "center"
+  },
+  "profile-field-row": {
+    "height": "35",
+    "margin": "0 30 5 30"
+  },
+  "profile-field-left": {
+    "width": "30%",
+    "vertical-align": "middle",
+    "background-color": "#dfdfdf"
+  },
+  "profile-field-right": {
+    "width": "70%",
+    "vertical-align": "middle",
+    "border-width": "1",
+    "border-color": "#dfdfdf"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "theme_button_grey": {
+    "width": "100%",
+    "background-color": "#373C41",
+    "vertical-align": "middle",
+    "margin": "10 20 10 20",
+    "color": "#ffffff",
+    "font-size": "14",
+    "height": "60",
+    "text-align": "left"
+  },
+  "theme_button_black": {
+    "width": "100%",
+    "background-color": "#0E0E0E",
+    "vertical-align": "middle",
+    "margin": "10 20 10 20",
+    "color": "#ffffff",
+    "font-size": "14",
+    "height": "60",
+    "text-align": "left"
+  },
+  "theme_button_icon": {
+    "floating": "1",
+    "float": "right",
+    "height": "30",
+    "margin": "0 10 0 10"
+  },
+  "theme_button_text": {
+    "margin": "0 20 0 20",
+    "color": "#ffffff",
+    "font-size": "14"
+  }
+}

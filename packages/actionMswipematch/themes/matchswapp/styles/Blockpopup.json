@@ -1,0 +1,26 @@
+{
+  "block_popup_button":{
+    "width" : "100%",
+    "height" : "50",
+    "margin": "0 0 0 0",
+    "background-color" :"#05f206",
+    "color": "#000000",
+    "text-align": "center",
+    "font-size": "18"
+  },
+
+  "block_popup_container": {
+    "width": "100%",
+    "background-color": "#FFFFFF",
+    "border-radius": "8",
+    "shadow-color": "#330000",
+    "shadow-radius": 3,
+    "shadow-offset": "0 1"
+  },
+  "block_popup_header" : {
+    "background-color" : "777777",
+    "color" : "#FFFFFF",
+    "padding" : "20 20 20 20",
+    "text-align" : "center"
+  }
+}

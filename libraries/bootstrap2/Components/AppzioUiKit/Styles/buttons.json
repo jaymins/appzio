@@ -1,0 +1,14 @@
+{
+  "uikit_default_btn":{
+    "border-radius" : "19",
+    "height" : "40",
+    "font-size": "16",
+    "text-align" : "center",
+    "vertical-align" : "middle"
+  },
+  "uikit_block_btn_icon": {
+    "width": "30",
+    "floating": "1",
+    "float": "right"
+  }
+}

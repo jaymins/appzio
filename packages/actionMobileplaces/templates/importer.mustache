@@ -1,0 +1,23 @@
+<style>
+body,.wrap,.aepage,.window,.content,.aegameauthor {
+  overflow-y: scroll!important;
+}
+</style>
+
+
+<form action="show?ext=mobileplaces&tab=tab_statistics&type=statistics" method="post" enctype="multipart/form-data">
+
+<table>
+{{&data}}
+</table>
+
+    <input type="checkbox" name="first_line_header"> First Line of the data is header<br><br>
+    <input type="checkbox" name="do_geo_address_translation"> Do geo adddress translation<br><br>
+    <input type="hidden" name="tempfile" value="{{tempfile}}">
+    <input type="hidden" name="ext" value="mobileplaces">
+    <input type="hidden" name="tab" value="tab_statistics">
+    <input type="hidden" name="type" value="statistics">
+    <input type="submit" name="upload" value="import">
+
+
+</form>

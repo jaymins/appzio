@@ -1,0 +1,9 @@
+<?php
+
+
+
+$variables = array(
+        'availability'
+);
+
+?>

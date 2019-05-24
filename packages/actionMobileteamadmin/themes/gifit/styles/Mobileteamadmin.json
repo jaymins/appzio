@@ -1,0 +1,196 @@
+{
+
+
+  "gifit-titletext-header":{
+    "font-ios": "PoiretOne-Regular",
+    "font-android": "PoiretOne-Regular",
+    "font-size": "28",
+    "color": "#000000",
+    "background-color": "#85d4ee",
+    "text-align": "center"
+  },
+
+  "gifit-titletext-header-subtext":{
+    "font-size": "18",
+    "padding": "12 40 0 40",
+    "color": "#B3000000",
+    "background-color": "##85d4ee",
+    "text-align": "center"
+  },
+
+  "gifit-titletext-header-white":{
+    "font-ios": "PoiretOne-Regular",
+    "font-android": "PoiretOne-Regular",
+    "font-size": "28",
+    "color": "#ffffff",
+    "text-align": "center",
+    "margin": "5 50 5 50"
+  },
+
+  "gifit-grid-field":{
+    "background-color": "#ffffff",
+    "border-radius": "8",
+    "font-size": "11",
+    "padding": "7 6 7 6",
+    "margin": "0 5 0 5",
+    "width": "27%",
+    "text-align": "center",
+    "color" : "#000000",
+    "font-ios": "SFUIText-Regular",
+    "font-android": "SF-UI-Text-Medium"
+
+  },
+
+  "gifit-grid-field-error":{
+    "background-color": "#ffffff",
+    "border-radius": "8",
+    "font-size": "11",
+    "padding": "7 6 7 6",
+    "margin": "0 5 0 5",
+    "width": "27%",
+    "text-align": "center",
+    "color" : "#000000",
+    "font-ios": "SFUIText-Regular",
+    "font-android": "SF-UI-Text-Medium",
+    "border-color": "#FC0100"
+
+  },
+
+
+
+  "gifit-invite-field":{
+    "background-color": "#ffffff",
+    "border-radius": "8",
+    "font-size": "11",
+    "padding": "7 6 7 6",
+    "margin": "10 50 0 50",
+    "text-align": "center",
+    "color" : "#000000",
+    "font-ios": "SFUIText-Regular",
+    "font-android": "SF-UI-Text-Medium"
+
+  },
+
+  "gifit-invite-field-error":{
+    "background-color": "#ffffff",
+    "border-radius": "8",
+    "font-size": "11",
+    "padding": "7 6 7 6",
+    "margin": "10 50 0 50",
+    "text-align": "center",
+    "color" : "#000000",
+    "font-ios": "SFUIText-Regular",
+    "font-android": "SF-UI-Text-Medium",
+    "border-color": "#FC0100"
+
+  },
+
+
+
+  "gifit-name-field": {
+    "background-color": "#ffffff",
+    "border-radius": "8",
+    "opacity": "0.7",
+    "font-size": "18",
+    "padding": "7 6 7 6",
+    "margin": "20 70 10 70",
+    "text-align": "center",
+    "color" : "#000000",
+    "font-ios": "SFUIText-Regular",
+    "font-android": "SF-UI-Text-Medium"
+  },
+
+  "gifit-name-field-error": {
+    "background-color": "#ffffff",
+    "border-radius": "8",
+    "opacity": "0.7",
+    "font-size": "18",
+    "padding": "7 6 7 6",
+    "margin": "20 70 10 70",
+    "text-align": "center",
+    "color" : "#FC0100",
+    "border-color": "#FC0100",
+    "font-ios": "SFUIText-Regular",
+    "font-android": "SF-UI-Text-Medium"
+  },
+
+
+  "gifit-button": {
+    "background-color": "#ffffff",
+    "border-radius": "8",
+    "font-size": "14",
+    "padding": "10 6 10 6",
+    "margin": "10 70 10 70",
+    "text-align": "center",
+    "color" : "#1f95bc",
+    "font-ios": "SFUIText-Regular",
+    "font-android": "SF-UI-Text-Medium"
+  },
+
+  "gifit-button-footer": {
+    "background-color": "#ffffff",
+    "border-radius": "8",
+    "font-size": "18",
+    "padding": "10 6 10 6",
+    "margin": "10 10 10 10",
+    "text-align": "center",
+    "width": "40%",
+    "color" : "#1f95bc",
+    "font-ios": "SFUIText-Regular",
+    "font-android": "SF-UI-Text-Medium"
+  },
+
+  "gifit-button-join": {
+    "background-color": "#ffffff",
+    "border-radius": "8",
+    "font-size": "18",
+    "padding": "10 6 10 6",
+    "width": "100%",
+    "text-align": "center",
+    "color" : "#1f95bc",
+    "font-ios": "SFUIText-Regular",
+    "font-android": "SF-UI-Text-Medium"
+  },
+
+
+
+
+
+  "gifit-error":{
+    "font-ios": "SFUIText-Regular",
+    "font-android": "SF-UI-Text-Medium",
+    "font-size": "18",
+    "color": "#ffffff",
+    "text-align": "center"
+  },
+
+  "gifit-general-text":{
+    "font-ios": "SFUIText-Regular",
+    "font-android": "SF-UI-Text-Medium",
+    "font-size": "14",
+    "margin": "10 40 10 40",
+    "color": "#ffffff",
+    "text-align": "center"
+  },
+
+  "gifit-general-text-error":{
+    "font-ios": "SFUIText-Regular",
+    "font-android": "SF-UI-Text-Medium",
+    "font-size": "14",
+    "margin": "10 28 10 28",
+    "color": "#ffffff",
+    "text-align": "center",
+    "background-color": "#FC0100",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "border-color": "#ffffff",
+    "border-width": "2"
+  }
+
+
+
+
+
+
+
+}

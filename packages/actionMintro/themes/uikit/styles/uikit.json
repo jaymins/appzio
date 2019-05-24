@@ -1,0 +1,52 @@
+{
+  "intro_signup_button": {
+    "width": "100%",
+    "background-color": "#C11B2F",
+    "padding": "23 0 23 0",
+    "margin": "10 20 10 20",
+    "color": "#ffffff",
+    "font-size": "14",
+    "font-weight": "bold",
+    "text-align": "center"
+  },
+  "intro_login_button": {
+    "width": "100%",
+    "background-color": "#222222",
+    "padding": "23 0 23 0",
+    "margin": "10 20 10 20",
+    "color": "#959595",
+    "font-size": "14",
+    "font-weight": "bold",
+    "text-align": "center"
+  },
+
+  "intro_small_text": {
+    "width": "100%",
+    "font-size": "14",
+    "padding": "5 0 5 0",
+    "margin": "0 15 0 15",
+    "color": "#959595",
+    "text-align": "center"
+  },
+
+  "intro_header":{
+    "width": "100%",
+    "font-size": "28",
+    "padding": "5 0 5 0",
+    "margin": "0 15 0 15",
+    "color": "#ffffff",
+    "text-align": "center",
+    "font-ios": "OpenSans-Extrabold",
+    "font-android": "OpenSans-ExtraBold"
+  },
+  "intro_text":{
+    "width": "100%",
+    "font-size": "15",
+    "padding": "5 0 5 0",
+    "margin": "0 60 0 60",
+    "color": "#ffffff",
+    "text-align": "center"
+
+  }
+
+}

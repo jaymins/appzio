@@ -1,0 +1,108 @@
+{
+
+  "subscription_purchase_button":{
+      "width" : "100%",
+      "height" : "50",
+      "margin": "0 0 0 0",
+      "background-color" :"#D00062",
+      "color": "#ffffff",
+      "text-align": "center",
+      "font-size": "18"
+  },
+
+  "subscription_topicon":{
+    "width": "100",
+    "height": "100"
+  },
+
+  "subscription_toptext": {
+    "margin": "10 40 20 40",
+    "color": "#545050",
+    "font-size": "14",
+    "text-align": "center"
+  },
+
+  "subscription_link": {
+    "margin": "10 40 20 40",
+    "color": "#449ED1",
+    "font-size": "14",
+    "text-align": "center"
+  },
+
+  "subcr_big_pricetext":{
+    "font-size": "24",
+    "color": "#D00062",
+    "margin": "0 0 0 10"
+  },
+
+  "subscription_bodytext": {
+    "margin": "5 17 5 15",
+    "color": "#B2B4B3",
+    "font-size": "14"
+  },
+
+  "subscription_smalltext": {
+    "margin": "5 17 5 15",
+    "color": "#B2B4B3",
+    "font-size": "12",
+    "font-ios": "Roboto-Italic",
+    "font-android": "Roboto-Italic"
+  },
+
+  "subscription_bodytext_secondrow": {
+    "margin": "0 17 10 15",
+    "color": "#B2B4B3",
+    "font-size": "14"
+  },
+
+  "subscription_bodytext_inline": {
+    "margin": "5 0 5 15",
+    "color": "#B2B4B3",
+    "font-size": "14"
+  },
+
+  "subscription_bodytext_lila": {
+    "margin": "5 0 5 0",
+    "color": "#D00062",
+    "font-size": "13",
+    "width": "auto"
+  },
+
+  "subscription_textfield":{
+    "border-color": "#B2B4B3",
+    "border-width": "1",
+    "border-radius": "10",
+    "padding": "7 7 7 7",
+    "font-size": "14",
+    "color": "#B2B4B3",
+    "margin": "10 17 10 17",
+    "width": "60%"
+  },
+
+  "subscription_btn":{
+    "background-color": "#FF7951",
+    "text-align": "center",
+    "border-radius": "10",
+    "padding": "7 7 7 7",
+    "font-size": "14",
+    "color": "#ffffff",
+    "margin": "10 17 10 5",
+    "width": "auto"
+  },
+
+  "subscription_btn_wide":{
+    "background-color": "#D00062",
+    "text-align": "center",
+    "border-radius": "10",
+    "padding": "12 10 12 10",
+    "font-size": "14",
+    "color": "#ffffff",
+    "margin": "10 20 10 15",
+    "width": "auto"
+  }
+
+
+
+
+
+}

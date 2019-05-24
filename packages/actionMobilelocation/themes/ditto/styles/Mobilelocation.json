@@ -1,0 +1,13 @@
+{
+  "button-update-location": {
+    "font-size": "20",
+    "color": "#ffffff",
+    "border-radius": "10",
+    "background-color": "#ba5678",
+    "text-align": "center",
+    "padding": "10 15 10 15",
+    "margin": "0 10 10 10",
+    "font-ios":"Lato-Light",
+    "font-android":"Lato-Light"
+  }
+}

@@ -1,0 +1,44 @@
+{
+
+  "general_button": {
+    "font-size": "14",
+    "font-style": "normal",
+    "background-color": "#50ca50",
+    "alignment": "center",
+    "color": "#ffffff",
+
+
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "0 60 20 60"
+  },
+
+  "small_radiobutton": {
+    "font-size": "11",
+    "font-style": "normal",
+    "background-color": "#ffffff",
+    "text-align": "center",
+    "color": "#c9c9c9",
+    "vertical-align": "middle",
+    "margin": "0 3 0 3",
+    "border-radius": "4",
+    "padding": "5 10 5 10",
+    "height": "30"
+  },
+
+  "small_radiobutton_selected": {
+    "font-size": "11",
+    "font-style": "normal",
+    "border-color": "#f31919",
+    "text-align": "center",
+    "border-width": "2",
+    "color": "#f31919",
+    "vertical-align": "middle",
+    "margin": "0 3 0 3",
+    "border-radius": "4",
+    "padding": "5 10 5 10",
+    "height": "30"
+  }
+
+
+}

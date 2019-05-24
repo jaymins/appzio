@@ -1,0 +1,203 @@
+{
+  "register_field": {
+    "font-size": "12",
+    "font-style": "italic",
+    "background-color": "#d7f4d7",
+    "alignment": "center",
+    "color": "#474747",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "5 53 5 53"
+  },
+  "register_button": {
+    "font-size": "12",
+    "font-style": "normal",
+    "background-color": "#50ca50",
+    "alignment": "center",
+    "color": "#ffffff",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 5 53"
+  },
+  "register_field_error": {
+    "font-size": "12",
+    "font-style": "italic",
+    "background-color": "#f1c6c6",
+    "alignment": "center",
+    "color": "#474747",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 0 53"
+  },
+  "recipe_text_box_title": {
+    "font-size": "12",
+    "font-style": "italic",
+    "alignment": "center",
+    "color": "#474747",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 0 53"
+  },
+  "register_field_error_text": {
+    "font-size": "12",
+    "font-style": "italic",
+    "alignment": "center",
+    "color": "#df1c1c",
+    "border-color": "#474747",
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "10 53 0 53"
+  },
+  "report-user-button": {
+    "font-size": "12",
+    "text-align": "center",
+    "color": "#a6a6a6",
+    "border-color": "#a6a6a6",
+    "padding": "5 4 5 4",
+    "margin": "10 20 10 20"
+  },
+  "register_fb_image": {
+    "border-radius": "8",
+    "padding": "4 4 4 4",
+    "margin": "53 53 0 53"
+  },
+  "register_menu": {
+    "margin": "10 0 10 0"
+  },
+  "register_menu_2": {
+    "margin": "7 0 10 0"
+  },
+  "profile_input_field": {
+    "background-color": "#FFFFFF"
+  },
+  "profile_field_label_top": {
+    "padding": "2 0 9 20",
+    "vertical-align": "middle",
+    "font-size": "14",
+    "color": "#ff6600"
+  },
+  "profile_field_label": {
+    "padding": "9 0 9 20",
+    "vertical-align": "middle",
+    "font-size": "14",
+    "color": "#ff6600"
+  },
+  "profile_field_label_delete": {
+    "height": "30",
+    "margin": "0 0 0 20",
+    "font-size": "14",
+    "color": "#d8d8d8"
+  },
+  "profile_field_label_centered": {
+    "height": "30",
+    "margin": "0 0 0 0",
+    "font-size": "14",
+    "color": "#C7003A",
+    "text-align": "center"
+  },
+  "profile_field_label_additional_info": {
+    "height": "30",
+    "margin": "10 0 10 20",
+    "font-size": "16",
+    "color": "#ff6600"
+  },
+  "profile_status_value": {
+    "font-size": "16",
+    "margin": "0 20 0 0"
+  },
+  "radio_selected_state": {
+    "background-image": "circle_selected_bg.png",
+    "background-size": "contain",
+    "floating": "1",
+    "float": "right",
+    "width": "100%",
+    "height": "45",
+    "text-align": "center",
+    "vertical-align": "middle"
+  },
+  "radio_default_state": {
+    "background-image": "circle_non_bg.png",
+    "background-size": "contain",
+    "floating": "1",
+    "float": "right",
+    "width": "100%",
+    "height": "45",
+    "text-align": "center",
+    "vertical-align": "middle"
+  },
+  "desee-extras-heading": {
+    "color": "#000000",
+    "font-size": "16",
+    "padding": "0 15 10 15"
+  },
+  "desee-extras-description": {
+    "color": "#ff6600",
+    "font-size": "23",
+    "padding": "0 15 20 15"
+  },
+  "desee-item-purchased-button": {
+    "text-align": "center",
+    "padding": "6 10 6 10",
+    "margin": "0 0 5 0",
+    "color": "#000000",
+    "font-size": "16",
+    "border-width": "1",
+    "border-color": "#7ed321",
+    "border-radius": "5"
+  },
+  "desee-item-purchased-timer": {
+    "color": "#000000",
+    "font-size": "16"
+  },
+  "desee-purchase-button": {
+    "text-align": "center",
+    "padding": "6 12 6 12",
+    "margin": "0 0 5 0",
+    "color": "#000000",
+    "font-size": "17",
+    "background-color": "#ffc204",
+    "border-radius": "5",
+    "shadow-color": "#33000000",
+    "shadow-radius": "3",
+    "shadow-offset": "0 1"
+  },
+  "desee-extras-card": {
+    "margin": "5 0 5 0",
+    "padding": "3 10 3 10"
+  },
+  "desee-extras-card-left-column": {
+    "width": "22%"
+  },
+  "desee-extras-card-right-column": {
+    "width": "78%",
+    "padding": "0 10 0 10"
+  },
+  "desee-extras-card-heading": {
+    "font-size": "20",
+    "padding": "0 0 3 0"
+  },
+  "desee-extras-card-description": {
+    "font-size": "16",
+    "color": "#4a4a4a",
+    "padding": "0 0 5 0"
+  },
+  "desee-orange-button": {
+    "font-size": "17",
+    "color": "#000000",
+    "background-color": "#ffc204",
+    "text-align": "center",
+    "vertical-align": "middle",
+    "padding": "15 20 15 20"
+  },
+  "desee-green-button": {
+    "font-size": "17",
+    "color": "#ffffff",
+    "background-color": "#7ed321",
+    "text-align": "center",
+    "vertical-align": "middle",
+    "padding": "15 20 15 20"
+  }
+}

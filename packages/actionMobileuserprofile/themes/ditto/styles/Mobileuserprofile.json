@@ -1,0 +1,41 @@
+{
+  "profile-save-button": {
+    "font-size": "22",
+    "color": "#ffffff",
+    "border-radius": "10",
+    "background-color": "#BA5678",
+    "text-align": "center",
+    "padding": "11 15 11 15",
+    "margin": "0 10 10 10",
+    "font-ios":"Lato-Light",
+    "font-android":"Lato-Light"
+  },
+  "report-user-button": {
+    "font-size": "12",
+    "text-align": "center",
+    "color": "#a6a6a6",
+    "border-color": "#a6a6a6",
+    "padding": "5 4 5 4",
+    "margin": "10 20 10 20",
+    "font-ios":"Lato-Light",
+    "font-android":"Lato-Light"
+  },
+  "user-profile-heading": {
+    "font-size": "22",
+    "font-weight": "bold",
+    "color": "#ffffff",
+    "margin": "15 10 5 10",
+    "font-ios":"Lato-Light",
+    "font-android":"Lato-Light"
+  },
+  "user-profile-text": {
+    "margin": "0 10 15 10",
+    "padding": "5 5 5 5",
+    "height": "100",
+    "background-color": "#ffffff",
+    "color": "#292021",
+    "font-size": "15",
+    "font-ios":"Lato-Light",
+    "font-android":"Lato-Light"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "field-icon-column-left": {
+    "width": "25",
+    "margin": "0 10 0 0",
+    "opacity": "0.5"
+  },
+  "field-with-icon": {
+    "background-color": "#ffffff",
+    "margin": "10 20 10 20",
+    "color": "#80828b",
+    "vertical-align": "middle"
+  },
+  "field-with-icon-error": {
+    "background-color": "#ffffff",
+    "margin": "10 20 10 20",
+    "color": "#D40511",
+    "vertical-align": "middle"
+  },
+  "register_field": {
+    "cursor-color": "#80828b",
+    "font-size": "16",
+    "opacity": "0.5"
+  },
+  "mobile-login-general-text": {
+    "margin": "20 0 0 0",
+    "text-align": "center",
+    "color": "#ffffff",
+    "font-weight": "bold"
+  },
+  "button-style-reset" : {
+    "text-align": "center",
+    "width": "70%",
+    "color": "#ffffff",
+    "background-color" : "#D40511",
+    "font-weight" : "bold",
+    "font-ios" : "Frutiger65",
+    "font-android" : "Frutiger65",
+    "padding" : "8 0 8 0"
+  },
+  "register-text-step-error": {
+    "color": "#FF0000",
+    "text-align": "center",
+    "font-size": "14"
+  },
+  "register-text-step-error-forgot-password": {
+    "text-align": "center",
+    "font-weight": "bold",
+    "font-size": "14",
+    "margin": "0 0 10 0"
+  },
+  "uikit-submit-button": {
+    "text-align": "center",
+    "width": "75%",
+    "color": "#ffffff",
+    "background-color": "#D40511",
+    "font-weight": "bold",
+    "font-ios":"Frutiger65",
+    "font-android":"Frutiger65",
+    "height": "50",
+    "use_clipping": "0"
+  }
+}

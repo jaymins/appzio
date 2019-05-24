@@ -1,0 +1,83 @@
+{
+  "menus": {
+    "usergroups-user": {
+      "label": "Users",
+      "icon": "user-o",
+      "url": [
+        "/users/usergroups-user"
+      ]
+    },
+    "articles": {
+      "label": "Articles",
+      "icon": "user-o",
+      "url": [
+        "/articles/ae-ext-article"
+      ]
+    },
+    "article-images": {
+      "label": "Article Images",
+      "icon": "user-o",
+      "url": [
+        "/articles/ae-ext-article-photo"
+      ]
+    },
+    "article-templates": {
+      "label": "Article Templates",
+      "icon": "user-o",
+      "url": [
+        "/articles/ae-ext-article-template"
+      ]
+    }
+  },
+  "filter_vars": {
+    "name": {
+      "label": "Name",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "email": {
+      "label": "Email",
+      "type": "input",
+      "match": "loose_match",
+      "location": "variables"
+    },
+    "gender": {
+      "label": "Gender",
+      "type": "select",
+      "match": "exact_match",
+      "values": [
+        "",
+        "man",
+        "woman",
+        "male",
+        "female"
+      ],
+      "location": "variables"
+    },
+    "reg_phase": {
+      "label": "Registration Status",
+      "type": "select",
+      "match": "reg_options",
+      "values": [
+        "",
+        "complete",
+        "not complete"
+      ],
+      "location": "variables"
+    },
+    "flag": {
+      "label": "Reported",
+      "type": "select",
+      "match": "matching_options",
+      "values": [
+        "",
+        "yes",
+        "no"
+      ],
+      "location": "mobilematching"
+    }
+  },
+  "upload_path": "C:\\xampp\\htdocs\\appzio-platform\\app\\documents\\games\\19\\user_original_images\\",
+  "upload_url": "http://ae.com/documents/games/19/user_original_images/"
+}

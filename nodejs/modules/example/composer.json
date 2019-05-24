@@ -1,0 +1,20 @@
+{
+  "name": "appzio\/nodeexample",
+  "require": {
+    "appzio\/mexample": ">=1.0"
+  },
+  "repositories": [
+    {
+      "url": "https:\/\/github.com\/appzio\/nodeexample",
+      "type": "vcs"
+    },
+    {
+      "url": "https:\/\/github.com\/appzio\/appzio-node",
+      "type": "vcs"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require-dev": {
+    "appzio\/appzio-node": ">=1.0.0"
+  }
+}
