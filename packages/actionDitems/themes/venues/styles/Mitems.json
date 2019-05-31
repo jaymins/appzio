@@ -1,0 +1,15 @@
+{
+  "mivenue_name":{
+    "font-size": "16",
+    "text-align" : "center",
+    "margin": "10 40 10 40",
+    "color": "#000000"
+  },
+
+  "mivenue_address":{
+    "font-size": "12",
+    "text-align" : "center",
+    "margin": "0 40 10 40",
+    "color": "#B2B4B3"
+  }
+}

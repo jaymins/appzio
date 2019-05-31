@@ -97,9 +97,9 @@ class View extends BootstrapView {
             case 'mreg_collect_full_name':
                 $content[] = $this->components->getIconField('firstname','{#first_name#}','mreg-icon-person.png');
                 $content[] = $this->getDivider();
-                $content[] = $this->components->getIconField('lastname','{#last_name#}');
+                $content[] = $this->components->getIconField('lastname','{#last_name#}','mreg-icon-person.png');
                 $this->layout->scroll[] = $this->components->getShadowBox($this->getComponentColumn($content,array(),array(
-                    'width' => '100%'
+                    'width' => '100%','background-color' => '#87cefa','color' => '#000'
                 )));
                 break;
 
@@ -116,9 +116,9 @@ class View extends BootstrapView {
                 $content[] = $this->getDivider();
                 $content[] = $this->components->getIconField('password','{#password#}','mreg-icon-key.png');
                 $content[] = $this->getDivider();
-                $content[] = $this->components->getIconField('password_again','{#password_again#}');
+                $content[] = $this->components->getIconField('password_again','{#password_again#}','mreg-icon-key.png');
                 $this->layout->scroll[] = $this->components->getShadowBox($this->getComponentColumn($content,array(),array(
-                    'width' => '100%'
+                    'width' => '100%','background-color' => '#87cefa'
                 )));
 
                 break;

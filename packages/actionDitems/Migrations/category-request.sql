@@ -1,0 +1,1 @@
+ALTER TABLE `ae_ext_items_categories` ADD `approved` TINYINT NULL DEFAULT NULL AFTER `description`;

@@ -42,10 +42,11 @@ class Model extends BootstrapModel
             /* there might be several registration attempts, so we are looking only
             for the completed registration cases */
 
-            if (isset($vars['reg_phase']) AND $vars['reg_phase'] == 'complete') {
-                $play = $row['play_id'];
-
-            }
+//            if (isset($vars['reg_phase']) AND $vars['reg_phase'] == 'complete') {
+//                $play = $row['play_id'];
+//
+//            }
+            $play = $row['play_id'];
         }
 
         if (isset($play)) {

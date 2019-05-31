@@ -1,0 +1,14 @@
+{
+
+  "fan_title_text":{
+    "color": "#00508D",
+    "font-size": "22",
+    "text-align": "center"
+  },
+
+  "fan_title_subtext":{
+    "color": "#B2B4B3",
+    "font-size": "14",
+    "text-align": "center"
+  }
+}

@@ -39,16 +39,24 @@ trait IntroScreen
                 $notifications,
             );
         } else {
-            $content = array(
-                array('title' => '{#welcome_to_Appzio1#}','icon' => 'intro_shop.png'),
-               // array('title' => '{#welcome_to_My_First_App#}','description' => '{#welcome_to_Demo_App#}','icon' => 'intro_shop.png', 'buttons' => $btns4),
-              //  array('title' => '{#welcome_to_My_First_App_subtitle#}','description' => '{#welcome_to_Demo_App_subpage#}','icon' => 'intro_person.png'),
-              //  array('title' => '{#welcome_to_location#}','description' => '{#Select_your_Location#}','icon' => 'intro_location.png','buttons' => $btns1),
-               // $notifications,
-                array('title' => '{#welcome_to_Dashboard#}','icon' => 'intro_person.png','buttons' => $btns3),
-               // array('title' => '{#welcome_to_My_App_registration#}','icon' => 'intro_person.png','buttons' => $btns3),
 
-            );
+//            if($this->model->sessionGet('logged_in') == 1){
+//                $content = array(
+//                    array('title' => '{#Dashboard#}','icon' => 'intro_shop.png'),
+//                );
+//            }else{
+                $content = array(
+                    array('title' => '{#welcome_to_Appzio#}','icon' => 'intro_shop.png'),
+                    // array('title' => '{#welcome_to_My_First_App#}','description' => '{#welcome_to_Demo_App#}','icon' => 'intro_shop.png', 'buttons' => $btns4),
+                    //  array('title' => '{#welcome_to_My_First_App_subtitle#}','description' => '{#welcome_to_Demo_App_subpage#}','icon' => 'intro_person.png'),
+                    //  array('title' => '{#welcome_to_location#}','description' => '{#Select_your_Location#}','icon' => 'intro_location.png','buttons' => $btns1),
+                    // $notifications,
+                    array('title' => '{#welcome_to_Dashboard#}','icon' => 'intro_person.png','buttons' => $btns3),
+                    // array('title' => '{#welcome_to_My_App_registration#}','icon' => 'intro_person.png','buttons' => $btns3),
+
+                );
+           // }
+
         }
 
         return $this->uiKitIntroWithButtons($content);

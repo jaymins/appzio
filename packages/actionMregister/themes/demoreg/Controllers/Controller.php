@@ -48,9 +48,13 @@ class Controller extends \packages\actionMregister\Controllers\Controller {
 
             if(empty($this->model->validation_errors)){
                 /* if validation succeeds, we save data to variables and move user to page 2*/
-                $this->model->sessionSet('reg_phase', 2);
+               // $this->model->sessionSet('reg_phase', 2);
                 $this->model->savePage1();
-                return ['Pagetwo',$data];
+                //$this->model->sessionSet('logged_in', 1);
+                $this->model->closeLogin();
+                $data['mode'] = 'close';
+                return ['Complete', $data];
+                //return ['Pagetwo',$data];
             }
         }
 

@@ -1,0 +1,29 @@
+{
+  "uikit_wide_button": {
+    "text-align": "center",
+    "vertical-align": "middle",
+    "margin": "0 0 15 0"
+  },
+  "uikit_wide_button_text": {
+    "color": "#ffffff",
+    "width": "75%",
+    "height": "50",
+    "text-align": "center",
+    "use_clipping": "0",
+    "background-color": "#D40511",
+    "font-weight": "bold",
+    "font-ios":"Frutiger65",
+    "font-android":"Frutiger65"
+  },
+  "uikit_wide_button_text_yellow": {
+    "color": "#ffffff",
+    "width": "75%",
+    "height": "50",
+    "text-align": "center",
+    "use_clipping": "0",
+    "background-color": "#FFCC00",
+    "font-weight": "bold",
+    "font-ios":"Frutiger65",
+    "font-android":"Frutiger65"
+  }
+}
