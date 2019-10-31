@@ -19,7 +19,7 @@
     "forever-monitor": "^1.7.1",
     "mysql2": "^1.5.1",
     "redis": "^2.8.0",
-    "sequelize": "^4.28.6"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {
     "jest": "^21.2.1"
